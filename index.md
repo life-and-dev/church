@@ -114,7 +114,7 @@ Despite Martin Luther's 95 theses and his call that the church should stop wasti
 The consequence of this is that:
 
 - Christians preach a gospel of coming to the church instead of [saving the lost soul](https://eternal.family.net.za/content/eternal/save.md).
-- Expensive buildings require maintenance, tax-money, salaries, etc. This [drains the Christians' money](https://eternal.family.net.za/content/life/wealth/tithing.md) and skills so that those in need are often neglected.
+- Expensive buildings require maintenance, tax-money, salaries, etc. This [drains the Christians' money](terms/tithing.md) and skills so that those in need are often neglected.
 - Many Christians feel uncomfortable to deal with Christianity outside their "safe" church.
 
 ### The cross symbolizes Christ
