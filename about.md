@@ -1,10 +1,10 @@
 ---
-description: About the main author of this website
+description: Learn about the author's journey from doubt to faith and the mission behind this website.
 ---
 
 # About the author
 
-My journey with faith has been anything but conventional. From atheism to exploring various Christian traditions including megachurches to house churches with envolvement in various traditional protestants, charismatic and messianic congregations. I've spent years asking questions about God, the Bible, and what it truly means to follow Christ.
+My journey with faith has been anything but conventional. From atheism to exploring various Christian traditions including megachurches to house churches with involvement in various traditional protestants, charismatic and messianic congregations. I've spent years asking questions about God, the Bible, and what it truly means to follow Christ.
 
 ## A Shared Journey of Discovery
 
@@ -24,7 +24,7 @@ You'll find here careful attention to biblical texts, exploration of the early c
 
 I write independently, not affiliated with any church or organization, and without sponsorship. This freedom allows me to follow where God's word leads without institutional constraints or the pressure to conform to denominational boundaries. This doesn't diminish the value of church communities but rather, it allows me to serve as a supplementary resource that explores questions and themes that might fall outside traditional teaching frameworks.
 
-I encourage you to critically evaluate everything your read. Not just on this website, but always pray about any Christian content from any source you receive. I admit that I have been [wrong before](disclaimer.md), and I'll likely make more mistakes. That's why I genuinely invite you to [correct my errors](edit.md) when you spot them. Your wisdom, your insights, and your questions make this a richer resource for everyone who visits.
+I encourage you to critically evaluate everything you read. Not just on this website, but always pray about any Christian content from any source you receive. I admit that I have been [wrong before](disclaimer.md), and I'll likely make more mistakes. That's why I genuinely invite you to [correct my errors](edit.md) when you spot them. Your wisdom, your insights, and your questions make this a richer resource for everyone who visits.
 
 ### An Invitation to Explore
 
@@ -38,4 +38,4 @@ As you explore this site, I encourage you to:
 
 Whether you attend a traditional church, a house gathering, or worship on your own, my prayer is that this content helps you break through any limitations and discover the abundant life Jesus promised. May it draw you closer to God's love and your position in His eternal Kingdom.
 
-Join me in this journey of discovery, exploring together what it means be part of the body of Christ.
+Join me in this journey of discovery, exploring together what it means to be part of the body of Christ.

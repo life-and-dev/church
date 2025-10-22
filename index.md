@@ -1,5 +1,5 @@
 ---
-description: Explore the transformation of Christian church history from Spirit-led home fellowships to institutional hierarchies. Discover how Constantine-era councils, pagan festivals, and theological creeds shaped modern Christianity, and learn what the Bible reveals about the original body of Christ.
+description: Explore how the church transformed from Spirit-led home fellowships to institutional hierarchies through Constantine-era councils and theological creeds.
 keywords: church history, Constantine, Nicene Creed, early church practices, institutional Christianity, pagan festivals Christianization, ecclesiastical hierarchies, church councils, Spirit-led fellowship, biblical church model
 ---
 
@@ -74,9 +74,9 @@ Myth: *You need institutional hierarchies within the church to delegate authorit
 
 Truth: Jesus was against hierarchies (Matthew 23:1-12)
 
-> And **call no man your father on earth**, for you have one Father, who is in heaven. **Neither be called instructors**, for you have one instructor, the Christ. -- Matthew 23:9-10 (ESV)
+> And **call no man your father on earth**, for you have one Father, who is in heaven. **Neither be called instructors**, for you have one instructor, the Christ. — Matthew 23:9-10 (ESV)
 
-### Christians gatherings are contained in expensive church buildings
+### Christian gatherings are contained in expensive church buildings
 
 Myth: *God is honored by expensive church buildings.*
 
@@ -88,15 +88,15 @@ In addition:
 
 - Roman emperors were used to build big spectacular temples for their gods.
 - Church buildings were considered ["sacred architecture"](https://www.americamagazine.org/faith/2019/03/04/why-we-need-design-and-pay-beautiful-churches) which honors the Bishop (or supposedly God).
-- Church buildings often comes with a high tower:
+- Church buildings often come with a high tower:
   - It is seen by some as a symbol of the church's connection with heaven.
   - It represents the church's status. The higher the tower, the greater and wealthier the church appears.
   - In some towns it was law that no building may be built higher than the church. Therefore, the church was extended so that other buildings could be built higher.
-- According to some of the Eastern Orthodox Church, original purpose of the bells were to remind guardian angels to accompany the souls of the dead.
+- According to some of the Eastern Orthodox Church, the original purpose of the bells was to remind guardian angels to accompany the souls of the dead.
 - It was only since the 5th century, that builders started to install bells in the towers for these practical reasons:
   - to call people to church services
-  - to synchronize the town's time (before portable watches was invented)
-  - to serve as an alarm systems for fires, invasions, floods and storms
+  - to synchronize the town's time (before portable watches were invented)
+  - to serve as alarm systems for fires, invasions, floods and storms
 
 According to [Michael Fackerell](https://christian-faith.com/why-christians-love-to-spend-so-much-money-on-church-buildings/), another possible reason why large churches are built at central public locations is to prevent Christians from scattering like in the days of the tower of Babel.
 
@@ -113,8 +113,8 @@ Despite Martin Luther's 95 theses and his call that the church should stop wasti
 
 The consequence of this is that:
 
-- Christians preach a gospel of coming to the church instead of [saving the lost soul](https://eternal.family.net.za/content/eternal/save.md).
-- Expensive buildings require maintenance, tax-money, salaries, etc. This [drains the Christians' money](terms/tithing.md) and skills so that those in need are often neglected.
+- Christians preach a gospel of coming to the church instead of [saving the lost soul](https://eternal.family.net.za/eternal/save.md).
+- Expensive buildings require maintenance, tax-money, salaries, etc. This [drains the Christians' money](/terms/tithing.md) and skills so that those in need are often neglected.
 - Many Christians feel uncomfortable to deal with Christianity outside their "safe" church.
 
 ### The cross symbolizes Christ
@@ -169,15 +169,15 @@ The consequence is that [it confuses the roles](https://eternal.family.net.za/bi
 
 Myth: *Sundays are the Lord's resting day.*
 
-Truth: Emperor Constantine attempted to unite his mixed Pagan/Christian empire, by declaring a "day of rest" (to please the Christians) on "the Sun's day" (to please the pagans). The council of Laodicea declared this decision official to distinct themselves from the revival Judaism religion who kept the Sabbath (rest) on a Saturday.
+Truth: Emperor Constantine attempted to unite his mixed Pagan/Christian empire, by declaring a "day of rest" (to please the Christians) on "the Sun's day" (to please the pagans). The council of Laodicea declared this decision official to distinguish themselves from the revival Judaism religion who kept the Sabbath (rest) on a Saturday.
 
-In 321, emperor Constantine decree Sundays the official Roman day of rest:
+In 321, Emperor Constantine decreed Sundays the official Roman day of rest:
 
-> On the venerable **day of the Sun** let the magistrates and people residing in cities rest, and **let all workshops be closed**. In the country however persons engaged in agriculture may freely and lawfully continue their pursuits because it often happens that another day is not suitable for grain-sowing or vine planting; lest by neglecting the proper moment for such operations the bounty of heaven should be lost. -- [Emperor Constantine](https://en.wikipedia.org/wiki/Sol_Invictus)
+> On the venerable **day of the Sun** let the magistrates and people residing in cities rest, and **let all workshops be closed**. In the country however persons engaged in agriculture may freely and lawfully continue their pursuits because it often happens that another day is not suitable for grain-sowing or vine planting; lest by neglecting the proper moment for such operations the bounty of heaven should be lost. — [Emperor Constantine](https://en.wikipedia.org/wiki/Sol_Invictus)
 
 In 363, the council of Laodicea outlawed Sabbath keeping (resting on Saturdays) and regulated resting on Sundays.
 
-Only in 1863, the Seventh-Day Adventist Church, reinstituted the seventh' day of rest again, but the majority of the other church denomination did not follow suite.
+Only in 1863, the Seventh-Day Adventist Church reinstituted the seventh day of rest again, but the majority of the other church denominations did not follow suit.
 
 ### Biblical feasts were abandoned in favour of pagan feasts
 
@@ -396,9 +396,9 @@ Truth: The body of Christ are the believers who are committed to continue the wo
 
 | Biblical Pattern                                                                                       | Some Institutional Models                                                                                                     |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Worship [the almighty God, the Father](https://eternal.family.net.za/content/kingdom/god/father.md)    | May emphasize veneration of church leaders                                                                                    |
-| Submit to [the Lord Jesus Christ](https://eternal.family.net.za/content/kingdom/god/son.md)'s commands | May emphasize submission to human church authority                                                                            |
-| Guided by [the Holy Spirit of God](https://eternal.family.net.za/content/kingdom/god/spirit.md)        | Guided by institutional church [creeds](https://eternal.family.net.za/content/kingdom/church/history.md) or established rules |
+| Worship [the almighty God, the Father](https://eternal.family.net.za/god/father.md)    | May emphasize veneration of church leaders                                                                                    |
+| Submit to [the Lord Jesus Christ](https://eternal.family.net.za/god/son.md)'s commands | May emphasize submission to human church authority                                                                            |
+| Guided by [the Holy Spirit of God](https://eternal.family.net.za/god/spirit.md)        | Guided by institutional church [creeds](https://eternal.family.net.za/church/history.md) or established rules |
 | Decentralised body                                                                                     | Centralized organizational structure                                                                                          |
 | Meet wherever practical                                                                                | Meet in dedicated church buildings                                                                                            |
 | Focus on expanding God's Kingdom (saving the lost, serving the community)                              | May focus on membership growth or organizational sustainability                                                               |

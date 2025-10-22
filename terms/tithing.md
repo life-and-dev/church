@@ -5,21 +5,19 @@ keywords: tithing, tithes, Old Testament law, Levitical priesthood, church finan
 
 # Tithing
 
-## Introduction
-
 The practice of tithing remains a contentious issue in modern Christianity. Many contemporary preachers assert entitlement to at least 10% of their congregation's income, claiming that Old Testament tithing laws remain applicable today. These funds typically support church taxes, ministerial salaries, building expenses, and various operational costs. However, a careful examination of biblical texts reveals significant differences between ancient Israelite tithing practices and modern church finance models.
 
 This article examines the historical and theological foundations of tithing, analyzing three distinct types of tithes prescribed in Mosaic law, evaluating common myths about tithing obligations, and exploring New Testament perspectives on voluntary giving.
 
 ## Modern Tithing Claims
 
-Many preachers claim that they are entitled to at least 10% of their congregation's income because they teach that the tithing sacrifices of the Old Testament still applies today. They need these funds to pay the church's taxes, ministers' salaries, church building expenses and so on.
+Many preachers claim that they are entitled to at least 10% of their congregation's income because they teach that the tithing sacrifices of the Old Testament still apply today. They need these funds to pay the church's taxes, ministers' salaries, church building expenses and so on.
 
-However, we read that the first believers meet in houses (Acts 2:2, Acts 5:42, Acts 20:20, Acts 28:30) and at the existing public temple (Acts 5:42) and their leadership lived a very simple life (1 Corinthians 9:18). They often laboured to earned their own income (2 Thessalonians 3:6-10), received donations (Luke 8:2-3, Philippians 4:15), but never claimed Tithes.
+However, we read that the first believers met in houses (Acts 2:2; Acts 5:42; Acts 20:20; Acts 28:30) and at the existing public temple (Acts 5:42) and their leadership lived a very simple life (1 Corinthians 9:18). They often laboured to earn their own income (2 Thessalonians 3:6-10), received donations (Luke 8:2-3; Philippians 4:15), but never claimed Tithes.
 
 They were content with what they had (Philippians 4:11-13) and did not preach financial prosperity. Instead, they were concerned about [saving lost souls](https://eternal.family.net.za/bible/concepts/salvation).
 
-Even Jesus said that justice and mercy (Matthew 23:23, Luke 11:42) and humility (Luke 18:9-14) were more important to him than keeping the tithing law, which was still applicable at that time.
+Even Jesus said that justice and mercy (Matthew 23:23; Luke 11:42) and humility (Luke 18:9-14) were more important to him than keeping the tithing law, which was still applicable at that time.
 
 > One of the plain facts is that the Gospels mention tithing only three times, in three condemnations of the Pharisees, and all three are scathing in their severity. Three other references are found in Hebrews 7:5-9 and are merely historical. Although all the apostles were originally Jews and reared to tithe, with not one word did any one of them even suggest that in the new covenant Christians might find tithing a helpful method of making their contributions to the work of the church. This strong negative is re-enforced immensely by the totally different method suggested by Paul when he called on the churches for a great offering, 1 Corinthians 16:1, etc.; 2 Corinthians 8:4, etc. Exegetically and thus dogmatically and ethically the New Testament is against tithing as being valid in the new covenant. Desire for more money, also for more money in and for the church, should not blind our eyes to the ways that are employed for getting it. -- [R.C.H. Lenski, The Interpretation of St. Luke’s Gospel, 661](https://www.revisedenglishversion.com/comm/2-Corinthians/chapter9/7)
 
@@ -34,9 +32,9 @@ To understand why tithing was necessary, we need to understand the real purpose 
 This tithe was not money. It was paid with food and nothing else:
 * 10% of the seed / fruit (Leviticus 27:30), for example:
   * grain (Numbers 18:28)
-  * wine (Numbers 18:28, Nehemiah 10:37)
+  * wine (Numbers 18:28; Nehemiah 10:37)
 * Every tenth animal passing under the rod of the heard/flock (Leviticus 27:32)
-* Jesus rebuked the Pharisee for tithing herbs and spices (Matthew 23:23, Luke 11:42, Luke 18:12)
+* Jesus rebuked the Pharisee for tithing herbs and spices (Matthew 23:23; Luke 11:42; Luke 18:12)
 
 > The LORD said, "I have given to the Levites every tithe that the people of Israel present to me. This is in payment for their service in taking care of the Tent of my presence." -- Numbers 18:21 (GNB)
 
@@ -55,7 +53,7 @@ This Tithe was paid only by the Levites and not the ordinary citizens to the pri
 To qualify as a priest:
 
 * One must be directly descended from Aaron or his sons (Exodus 30:30)
-* One must be set apart and consecrated (Exodus 19:22; Psalm 132: 9; 29:2; Ezra 6:20)
+* One must be set apart and consecrated (Exodus 19:22; Psalm 132:9, 29:2; Ezra 6:20)
 * One must fulfill priestly duties which is not possible without a temple
 
 The Priest's Tithe applies only under the following conditions:
@@ -145,7 +143,7 @@ Attempting to keep this law in today's modern world presents the following chall
   * Is tithing calculated before or after income tax is deducted from salary?
   * Would saving or investing tithing funds and paying them out later as a lump sum be permissible?
 * To whom should tithing be paid when there are no more Levites?
-  * Strangers (foreigners) in Israel's time were not allowed to own farms in the agricultural society, banking systems did not exist yet, and journeys took days, therefore this was sometimes necessary to support those people. However, in modern society this might no longer be the case depending on national laws. Is support for foreigners still required? What about the local poor? In Moses' time this might not have been an issue (Deuteronomy 15:4-5), but today it is.
+  * Strangers (foreigners) in Israel's time were not allowed to own farms in the agricultural society, banking systems did not exist yet, and journeys took days, therefore this was sometimes necessary to support those people. However, in modern society this might no longer be the case depending on national laws. Is support for foreigners still required? What about the local poor? In Moses' time this might not have been an issue (Deuteronomy 15:4-6), but today it is.
   * Is it the individual's, the church's, or the government's responsibility to look after the "fatherless"? Many already pay tax to the government to support the "fatherless" through social grants. Should additional contributions be made?
   * In some cultures, women were not allowed to own a business, farm, or even an income. This made women completely dependent on their husbands. However, in most modern societies, this is no longer the case. Should widows still receive support? What about widowers?
   * Does this law prevent supporting friends, family, or fellow believers who are in need, but who do not qualify as a Levite, stranger, fatherless, or widow?
@@ -155,7 +153,7 @@ Attempting to keep this law in today's modern world presents the following chall
 
 However, the following principles might still apply:
 
-> Whoever is generous to the poor lends to the LORD, and He will repay him for his deed. . -- Proverbs 19:17 (ESV)
+> Whoever is generous to the poor lends to the LORD, and He will repay him for his deed. -- Proverbs 19:17 (ESV)
 
 This is also confirmed by the apostle Paul in the New Testament after Jesus' Crucifixion:
 
@@ -220,7 +218,7 @@ The word "honor" according to the [NAS Exhaustive Concordance](https://biblehub.
 
 In other words, it does not say "pay your tithe tax" or "give carelessly to the poor" and God will bless you. The gift must ***honor*** the LORD, which means the sacrifice must make the LORD more important or respected (glorified).
 
-### Myth: God will curse you if you withold your tithe
+### Myth: God will curse you if you withhold your tithe
 
 Some Christians frequently quote:
 
@@ -228,9 +226,9 @@ Some Christians frequently quote:
 > But you say, "In what way have we robbed You?"<br>
 > "In tithes and offerings. You are cursed with a curse, For you have robbed Me, *[even]* this whole nation. Bring all the tithes into the storehouse, that there may be food in My house, and try Me now in this," says the LORD of hosts, "If I will not open for you the windows of heaven And pour out for you *[such]* blessing That *[there will]* not *[be room]* enough *[to receive it.]* -- Malachi 3:8-10
 
-[Out of context](https://eternal.family.net.za/bible/interpretations/rebuttals#context), it appears that withholding tithes results in a curse while tithing brings blessing, but this is **not** what the prophet Malachi said.
+Out of context, it appears that withholding tithes results in a curse while tithing brings blessing, but this is **not** what the prophet Malachi said.
 
-With these specific words, he was addressing the priests (Malachi 1:6, Malachi 2:1, Malachi 3:3). How could one "rob the nation" without being the priest handling the nation's tithes? (Malachi 3:9)
+With these specific words, he was addressing the priests (Malachi 1:6; Malachi 2:1; Malachi 3:3). How could one "rob the nation" without being the priest handling the nation's tithes? (Malachi 3:9)
 
 In contrast to this reasoning, Paul wrote in 2 Corinthians 9:7-9:
 
