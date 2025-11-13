@@ -9,7 +9,7 @@ In 1071, [the Byzantine Empire lost territory to the Muslims](https://en.wikiped
 
 The popes continued to call for these Crusades as *"God's will"*.
 
-In addition, there was also economical motivations, such as merchants seeking control over trade routes and opportunities to profit from transporting crusaders.
+In addition, there were also economic motivations, such as merchants seeking control over trade routes and opportunities to profit from transporting crusaders.
 
 | Period      | Purpose                                                                                                         | Outcome         | Result                                                                      |
 | ----------- | --------------------------------------------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------------------- |
