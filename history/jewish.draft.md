@@ -7,14 +7,14 @@ published: true
 
 Bible books written between 400 BC and the birth of [Jesus](/god/son) the [Christ](/god/son/christ) are considered [Apocrypha](/bible/books/apocrypha) by the Christian Protestants who do not accept the authority of these books and did not include them in their bibles, although the Catholic churches do accept these books.
 
-Although God identified Himself in Hebrew as יְהוָ֖ה, which directly translates to the Tetragrammaton [YHVH](/god/name/father#yhvh), we noticed that some time before the birth of Jesus (most likely during the Second Temple era), **the Jews replaced the God's name "YHVH" with "Adonai" which means "Lord" in /English**. This is also evident in the Greek manuscripts when the Jews refer to God as simply "Lord". 
+Although God identified Himself in Hebrew as יְהוָ֖ה, which directly translates to the Tetragrammaton [YHVH](/god/name/father#yhvh), we noticed that some time before the birth of Jesus (most likely during the Second Temple era), **the Jews replaced the God's name "YHVH" with "Adonai" which means "Lord" in English**. This is also evident in the Greek manuscripts when the Jews refer to God as simply "Lord". 
 
 Although scholars disagree on the exact date Jesus was born, all agree that it was around the time the Anno Domini year system switched from BC era years to AD era years. The Jews refuse to accept this system because the system starts counting from the birth of Jesus [Christ (Messiah)](/bible/concepts/christ) whom they rejected.
 
 In the Tanakh we read how the Israelites refused to approach God, how the temple was build and the priestly and sacrificial system was introduced to cleanse people from their sin in order to be [righteous](/bible/concepts/righteousness) with God.
 
 While Jesus was alive, he taught, demonstrated and set moral standards to many disciples (mainly Jews) to follow his teachings which include
-* fresh revelations on how people aught to interpret the Mosaic laws, with the focus on love and [righteous](/bible/concepts/righteousness) with God and their neighbours, instead of obeying religious rituals
+* fresh revelations on how people ought to interpret the Mosaic laws, with the focus on love and [righteous](/bible/concepts/righteousness) with God and their neighbours, instead of obeying religious rituals
 * he gave people a fresh perspective of [Who God is](/god/father) (His character) and what [God's plan](/bible/concepts/word) or motives are for humanity
 * the revelation of God's kingdom
 * the gospel of [salvation](/eternal/saved) which means people do not need priests and rituals to be saved
