@@ -2,7 +2,7 @@
 title: Tertullian
 ---
 
-In 206 AD, [Tertullian](https://en.wikipedia.org/wiki/Tertullian) adopted [Montanism](/kingdom/church/history/montanism)[^1] after being an orthodox Christian for about 2. He invented theological concepts like:
+In 206 AD, [Tertullian](https://en.wikipedia.org/wiki/Tertullian) [adopted](https://www.britannica.com/biography/Tertullian) [Montanism](/kingdom/church/history/montanism)[^1] after [being an orthodox Christian for approximately 9-11 years](https://www.newadvent.org/cathen/14520c.htm). He invented theological concepts like:
 
 * "Trinitas"[^2] which is Latin [Trinity](/bible/doctrines/trinitarian), however Tertullian's version of the Trinity was very complex and did lean towards [modalism](/bible/interpretations/jesus/comparison#modalism) [^3] which means "unam substantiam in tribus cohaerentibus" (only substance in three coherent and inseparable [Persons]) [^4] which is [still being used by many Latin churches today](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100066).
 * "substantia"[^5] which is Latin for substance which means ["material with particular physical characteristics"](https://dictionary.cambridge.org/dictionary/english/substance). [Tertullian used this term to explain that God was made up of 1 divine substance](https://www.jstor.org/stable/23954327). This differs from the modern view which sees the Trinity as 3 different substances, namely the Father, the Son and the Holy Spirit.
