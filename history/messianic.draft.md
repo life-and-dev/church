@@ -13,7 +13,7 @@ This first generation of disciples often identified themselves as [the Way](/bib
 
 It could also be a shortened version of "the way to salvation" (Acts 16:17).
 
-"The Way" was considered a sect (Acts 24:2-5) in those days by the Jews, and therefore they bounded and imprisoned both men and women (Acts 22:4-5) and in some cases they were executed (Acts 7:57-59, 8:1). Paul, one of the persecutors, testify this about his former life before his conversion:
+"The Way" was considered a sect (Acts 24:2-5) in those days by the Jews, and therefore they bound and imprisoned both men and women (Acts 22:4-5) and in some cases they were executed (Acts 7:57-59, 8:1). Paul, one of the persecutors, testify this about his former life before his conversion:
 
 > For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it. -- Galatians 1:13 (ESV)
 

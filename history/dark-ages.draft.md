@@ -5,13 +5,13 @@ published: true
 
 # The split of the Roman Empire
 
-In 395 CE the [Roman Empire split in two separates states](https://study.com/academy/lesson/the-division-of-rome-into-eastern-and-western-empires.html) after the death of the Roman emperor Theodosius I, who was succeeded by his two sons Honorius (the Western Roman Empire) and Arcadius (the Eastern Roman Empire).
+In 395 CE the [Roman Empire split into two separate states](https://study.com/academy/lesson/the-division-of-rome-into-eastern-and-western-empires.html) after the death of the Roman emperor Theodosius I, who was succeeded by his two sons Honorius (the Western Roman Empire) and Arcadius (the Eastern Roman Empire).
 
 ![Roman Empire Split](roman_empires.jpg)
 
 # The fall of the Western Roman Empire
 
-In 476 CE [the Western Roman Empire fall](https://en.wikipedia.org/wiki/Deposition_of_Romulus_Augustus) to Odovacar, the Germanic ("Barbarian") King. This event traditionally mark [the end of the Western Roman Empire](https://dlab.epfl.ch/wikispeedia/wpcd/wp/r/Romulus_Augustus.htm), because Odavacar sent the western imperial regalia (crown, scepter, orb, etc.) to Constantinople, the capital of the rival Eastern Roman Empire (Byzantine Empire) as an acknowledgement to the supremacy of the Eastern Emperor.
+In 476 CE [the Western Roman Empire fell](https://en.wikipedia.org/wiki/Deposition_of_Romulus_Augustus) to Odovacar, the Germanic ("Barbarian") King. This event traditionally marks [the end of the Western Roman Empire](https://dlab.epfl.ch/wikispeedia/wpcd/wp/r/Romulus_Augustus.htm), because Odavacar sent the western imperial regalia (crown, scepter, orb, etc.) to Constantinople, the capital of the rival Eastern Roman Empire (Byzantine Empire) as an acknowledgement to the supremacy of the Eastern Emperor.
 
 Following the fall of the Western Roman Empire, its territories fragmented into various Germanic kingdoms and other successor states, such as the Ostrogothic Kingdom in Italy and the Visigothic Kingdom in Spain.
 

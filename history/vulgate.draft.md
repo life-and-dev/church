@@ -11,7 +11,7 @@ Therefore, [in 382 AD, the Bible (Vulgate) was translated into Latin by St. Jero
 
 The composite collection of these texts were called the ["Biblia Vulgata"](https://en.wikipedia.org/wiki/Vulgate) (Bible in common tongue). 
 
-St. Jerome, was a staunch supporter of [Nicene orthodoxy](/kingdom/church/history/state-religion), which upheld [the doctrine of the Trinity](/bible/doctrines/trinitarian) and opposed [Arianism](/kingdom/church/history/arianism). Therefore, certain ambiguous texts would have likely been translated in favour of the Nicene orthodoxy.
+St. Jerome was a staunch supporter of [Nicene orthodoxy](/kingdom/church/history/state-religion), which upheld [the doctrine of the Trinity](/bible/doctrines/trinitarian) and opposed [Arianism](/kingdom/church/history/arianism). [Some scholars suggest](https://www.britannica.com/biography/Saint-Jerome) that his theological commitments may have influenced his translation choices in theologically ambiguous passages.
 
 This translation eventually became [the standard Latin version of the Bible](https://en.wikipedia.org/wiki/Vulgate) for the Western churches where [Latin gradually became a prominent language](https://bibleinterp.arizona.edu/articles/2015/09/gle398009) under Roman rule.
 

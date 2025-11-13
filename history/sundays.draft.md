@@ -5,7 +5,7 @@ published: true
 
 During the Constantinian dynasty, **[institutional roles like the pope, bishops and clerics gradually evolved to maintain order in the church](https://www.britannica.com/topic/Christianity/The-alliance-between-church-and-empire)**.
 
-At that time Judaism was considered a rival religion to the Christianity in the Roman Empire and the church decided to [institutionalise antisemitism](https://en.wikipedia.org/wiki/Catholic_Church_and_Judaism) to intensify Jewish prosecution.
+At that time [Judaism was considered a rival religion](https://encyclopedia.ushmm.org/content/en/article/antisemitism-in-history-from-the-early-church-to-1400) to Christianity in the Roman Empire. [When Christianity became the state religion in the 4th century](https://free.messianicbible.com/feature/constantine-foundations-of-anti-semitism/), [institutionalized antisemitism developed](https://en.wikipedia.org/wiki/Catholic_Church_and_Judaism) through religious intolerance and political oppression, leading to intensified [persecution of Jews](https://remember.org/history-root-classical.html).
 
 # The council of Laodicea
 
