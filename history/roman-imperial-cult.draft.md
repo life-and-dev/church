@@ -35,8 +35,8 @@ This established an imperial cult with a close association between political pow
 
 [In July 64 AD the Great Fire of Rome erupted](https://www.thecollector.com/great-fire-of-rome/). The fire raged for 6 days, devastating the capital and leaving most residents homeless. For various political reasons, Nero needed someone to blame.
 
-The small minority [Christian](/bible/concepts/christian) religion was considered a [threat to this existing Roman Imperial cult](https://www.thecollector.com/how-did-emperor-nero-treat-christians-during-his-reign/). Therefore, [Emperor Nero, blamed the Christians for the Great Fire and turned the Roman state into a violent prosecutor of Christians](https://www.thecollector.com/how-did-emperor-nero-treat-christians-during-his-reign/).
+The small minority [Christian](/bible/concepts/christian) religion was considered a [threat to this existing Roman Imperial cult](https://www.thecollector.com/how-did-emperor-nero-treat-christians-during-his-reign/). Therefore, [Emperor Nero blamed the Christians for the Great Fire and turned the Roman state into a violent persecutor of Christians](https://www.thecollector.com/how-did-emperor-nero-treat-christians-during-his-reign/).
 
 To make matters worse, [the first Jewish Revolt started in 66 AD](https://www.britannica.com/event/First-Jewish-Revolt) which caused the Romans to Siege and destroy Jerusalem including the Jewish temple in 70 CE. [These rebellions turned the Romans against any person who served a "Jewish" God](https://rsc.byu.edu/new-testament-history-culture-society/first-jewish-revolt-against-rome).
 
-Ironically, these prosecutions affectively caused the Gospel to spread even faster through the Roman Empire.
+Ironically, these persecutions effectively caused the Gospel to spread even faster through the Roman Empire.
