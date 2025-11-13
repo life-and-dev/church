@@ -9,7 +9,7 @@ In 337 [Constantius II](https://en.wikipedia.org/wiki/Constantius_II), the third
 
 Constantius actively promoted [Arianism](/kingdom/church/history/1st-nicaea-creed) and convened councils (e.g., [Sirmium in 347-375](https://en.wikipedia.org/wiki/Councils_of_Sirmium), Constantinople in 360) to enforce compromise creeds [in favour of Arianism](https://www.britannica.com/topic/Arianism). He [banned pagan sacrifices and closed temples](https://en.wikipedia.org/wiki/Constantius_II) but tolerated some pagan institutions (e.g., Vestal Virgins).
 
-Constantius also enforced [laws that restricted Jewish slave ownership and interfaith marriages](https://en.wikipedia.org/wiki/Constantius_II), likely to favour state businesses over Jewish competitors.   
+Constantius also enforced [laws that restricted Jewish slave ownership and interfaith marriages](https://en.wikipedia.org/wiki/Constantius_II). [Historical evidence suggests](http://vlib.iue.it/carrie/texts/carrie_books/seaver/text.html) these laws had [dual motivations](https://www.haaretz.com/jewish/2014-08-13/ty-article/.premium/this-day-romans-crack-down-on-jews/0000017f-e5d7-da9b-a1ff-edff28d40000): protecting Christian identity from conversion to Judaism, and providing economic advantages to state-owned businesses competing with privately owned Jewish enterprises.   
 
 ![Presumed bust of Constantius II (or Valens), from an exhibition at the Colosseum, 2013](constantius.jpg)
 
