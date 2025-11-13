@@ -21,7 +21,7 @@ Due to military power, and a series of successful victories against his rivals, 
 
 [In February 313, the Edict of Milan](https://www.britannica.com/topic/Edict-of-Milan) proclamation was issued by the Roman Emperors Constantine and Licinius. The proclamation:
 * granted religious toleration to all religions, including Christianity throughout the Roman Empire;
-* seized Christian persecutions of [the Great Persecution under Diocletian](https://courses.lumenlearning.com/suny-fmcc-worldhistory/chapter/the-rise-of-christianity/);
+* ceased Christian persecutions of [the Great Persecution under Diocletian](https://courses.lumenlearning.com/suny-fmcc-worldhistory/chapter/the-rise-of-christianity/);
 * recognised Christianity as a legitimate religion which allowed Christians to openly worship and practice their faith;
 
 This allowed Christians to hold public offices, which were previously been denied to them.
