@@ -7,7 +7,7 @@ In 731, Pope Gregory III [instituted "All Saints' Day"](https://www.britannica.c
 
 # Halloween
 
- The evening prior to All Saint's Day (31 October) was called "All Hallows' Eve" which is known today as ***"Halloween"***. Some say it is coincidence, but it was also the date of [the pagan Celtic festival of Samhain](04.kingdom/05.church/01.history/article.md). 
+ The evening prior to All Saint's Day (31 October) was called "All Hallows' Eve" which is known today as ***"Halloween"***. Some say it is coincidence, but it was also the date of [the pagan Celtic festival of Samhain](https://www.britannica.com/topic/Samhain). 
  
  The Celtics believed that on Samhain, the veil between the world of the living and the world of the dead became thin, and that ghosts and spirits could freely roam the earth. To celebrate Samhain, the Celts would build bonfires, wear costumes, and make offerings to the dead. They also believed that it was important to protect themselves from evil spirits, so they would often wear masks and carry torches. 
  
