@@ -13,7 +13,7 @@ In January 381, [Theodosius closed Arian chapels](https://revelationbyjesuschris
 
 # The Niceno-Constantinopolitan Creed
 
-In July 381, the First Council of Constantinople expanded [the Nicaea Creed](https://en.wikipedia.org/wiki/Nicene_Creed) to address Arianism disputes. This version is:
+In July 381, the First Council of Constantinople expanded [the Nicaea Creed](https://en.wikipedia.org/wiki/Nicene_Creed) to address Arianism disputes. The following version is presented here (note: see historical accuracy note below):
 
 > * We believe in one God, the Father Almighty, the maker of heaven and earth, of things visible and invisible.
 > * And in one Lord Jesus Christ,
@@ -40,3 +40,5 @@ In July 381, the First Council of Constantinople expanded [the Nicaea Creed](htt
 > *   and in the resurrection of the dead,
 > *   in the everlasting judgement of souls and bodies,
 > *   in the Kingdom of Heaven and in the everlasting life.
+
+> **Historical Accuracy Note:** [Scholarly sources indicate](https://revelationbyjesuschrist.com/creed-of-381/) that the actual Niceno-Constantinopolitan Creed of 381 [**omitted** the phrase "of the substance of the Father"](https://christianity.stackexchange.com/questions/46428/was-the-nicene-creed-of-ad-381-an-update-of-the-nicene-creed-of-ad-325) that appeared in the original 325 Nicene Creed. The text above includes this phrase (line 22), which suggests it may be a different version or translation. [The 381 creed also omitted "God of God"](https://www.catholic.com/encyclopedia/nicene-and-niceno-constantinopolitan-creed) and made other modifications to the 325 version.
