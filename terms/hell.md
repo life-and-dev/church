@@ -1,27 +1,32 @@
+---
+description: Is hell a place of eternal torment? The Bible teaches that the wicked will be completely destroyed and cease to exist, contrasting eternal life with death.
+keywords: hell, eternal torment, gehenna, hades, sheol, lake of fire, second death, annihilation, immortal soul, rich man and lazarus
+---
+
 # Hell
 
 Some people have difficulty believing that God would torture people eternally:
 * The idea of everlasting torture goes against the nature of love and compassion. Civilized people do not torture their worst enemies on earth.
 * The doctrine of eternal torture makes saved people seem cold-hearted, as they would be rejoicing in others' suffering.
-* The expectation would be that God punish fairly and common sense dictate that it would be cruel to punish people eternally for the sin of a few years without any hope for recovery.
+* The expectation would be that God punishes fairly and common sense dictates that it would be cruel to punish people eternally for the sin of a few years without any hope for recovery.
 
-> Traditional Christianity teaches that when a person dies they go to heaven or hell, which is not correct because it is a belief based in Greek mythology that came into Christianity. The Greeks believed in an [“immortal soul”](https://eternal.family.net.za/eternal/death/immortal), but the Bible makes it clear that the soul is not immortal but can and does die (cp. Matthew 10:28). 
+> Traditional Christianity teaches that when a person dies they go to heaven or hell, which is not correct because it is a belief based in Greek mythology which came into Christianity. The Greeks believed in an [“immortal soul”](https://eternal.family.net.za/eternal/death/immortal), but the Bible makes it clear that the soul is not immortal but can and does die (cp. Matthew 10:28). 
 > 
 > Where are dead people now? 
 > 
 > They are dead and they will be dead until they are raised from the dead. 
 > 
-> -- [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
+> — [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
 
 ## Terminology
 
-> In orthodox Christianity, “hell” is a very hot and fiery place where the Devil and his demons live and where the souls of unsaved people go to be tormented forever. There is no such place. The word “hell” can be confusing in English versions, especially the older ones. For example, in the King James Version, the word “hell” is used to translate four different words: Sheol, [Gehenna](#gehanna), Hades, and Tartarus. -- [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
+> In orthodox Christianity, “hell” is a very hot and fiery place where the Devil and his demons live and where the souls of unsaved people go to be tormented forever. There is no such place. The word “hell” can be confusing in English versions, especially the older ones. For example, in the King James Version, the word “hell” is used to translate four different words: Sheol, [Gehenna](#gehenna), Hades, and Tartarus. — [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
 
 ### Gehenna
 
 > “Gehenna” is Greek for the [“Valley of Hinnom”](https://en.wikipedia.org/wiki/Gehenna). Gehenna is the Greek word that comes from the Hebrew words “ge,” meaning “valley,” and “Hinnom,” which was a man’s name. In the Old Testament, the valley is known both as the Valley of Hinnom (Nehemiah 11:30; and some Hebrew texts of Joshua 15:8) and also as the “Valley of the sons (or son) of Hinnom” (Joshua 18:16; 2 Kings 23:10; Jeremiah 7:31). It seems that Hinnom’s descendants eventually took over and controlled the valley, and thus “the Valley of Hinnom” became “the Valley of the sons of Hinnom.” The “Ge Hinnom,” the Valley of Hinnom, is first mentioned in the book of Joshua as part of the northern boundary of the tribal area assigned to Judah (Joshua 15:8). It is the valley immediately south of the city of Jerusalem. This geographical point is very important because the history of the Ge Hinnom is closely tied to Jerusalem.
 >
-> In Old Testament times, the Valley of Hinnom became associated with pagan sacrifice and even child sacrifice. For example, Ahaz, king of Judah, offered his children as human sacrifices there (2 Chronicles 28:1-3). The prophet Jeremiah spoke out against these evils and foretold that the Valley of Hinnom would be so full of buried bones that there would finally be no more room to bury anyone else (Jeremiah 7:31, 32). Although Jeremiah spoke of dead bodies and ashes being thrown there, he also mentioned that it would one day be clean, which will happen in the Millennial Kingdom of Christ (Jeremiah 31:40). The bones made the whole area a place to avoid, because if an Israelite touched a human bone then that person would be unclean for seven days (Numbers 19:16). This could be a serious hindrance to worship, especially if someone had come a long way to Jerusalem to worship but then became unclean and unable to worship for seven days because he or she accidentally touched a bone on the way into the city.
+> In Old Testament times, the Valley of Hinnom became associated with pagan sacrifice and even child sacrifice. For example, Ahaz, king of Judah, offered his children as human sacrifices there (2 Chronicles 28:1-3). The prophet Jeremiah spoke out against these evils and foretold that the Valley of Hinnom would be so full of buried bones that there would finally be no more room to bury anyone else (Jeremiah 7:31-32). Although Jeremiah spoke of dead bodies and ashes being thrown there, he also mentioned that it would one day be clean, which will happen in the Millennial Kingdom of Christ (Jeremiah 31:40). The bones made the whole area a place to avoid, because if an Israelite touched a human bone then that person would be unclean for seven days (Numbers 19:16). This could be a serious hindrance to worship, especially if someone had come a long way to Jerusalem to worship but then became unclean and unable to worship for seven days because he or she accidentally touched a bone on the way into the city.
 >
 > Because it was unclean, the Valley of Hinnom came to be used as a garbage dump by the people of Jerusalem. This was very handy because, as anyone who has to take out the garbage knows, it is always nice if you can carry it downhill and not too far. The inhabitants of Jerusalem would just carry their garbage, including dead animals, bones, and other waste, outside the south gate of the city (still to this day called [“the dung gate”](https://en.wikipedia.org/wiki/Dung_Gate)), down the hill, and into the “Valley of Hinnom”; into Ge Hinnom. The waste that was dumped there was then either burned up in the fires that usually burned there, or it rotted away, being eaten by maggots and worms. The fire and maggots that continually consumed the garbage in the Valley of Hinnom are the reason Scripture says that after the Judgment, the fire will not be quenched nor the worm die (Isaiah 66:24; Mark 9:48). By the time of Christ, the Valley of Hinnom had been used for centuries by the inhabitants of Jerusalem as their local garbage dump.
 >
@@ -35,7 +40,7 @@ Some people have difficulty believing that God would torture people eternally:
 >
 > Although many Christians believe that the unquenchable fire and worms that do not die refer to everlasting torment, that is not the case. No one in Christ’s audience thought the garbage thrown into Gehenna burned forever or that the worms (maggots) were “eternal maggots.” Christ’s audience knew that the fire burned and the worms ate until the garbage was gone, and after the judgment, the garbage people thrown into Gehenna will one day be gone too. The picture of Gehenna is one of the total destruction of the sinner.
 >
-> -- [Revised English Version Bible Commentary](https://www.revisedenglishversion.com/comm/Matt/5/22)
+> — [Revised English Version Bible Commentary](https://www.revisedenglishversion.com/comm/Matt/5/22)
 
 ### Hades
 
@@ -43,29 +48,29 @@ Some people have difficulty believing that God would torture people eternally:
 
 > In Greek mythology, Hadēs was both the name of the god of the underworld and also the name of the underworld itself. When the Hebrew Old Testament was translated into Greek around 250 BC, the Septuagint translators translated the Hebrew word Sheol by the Greek word Hadēs. It was actually a bad choice to translate [Sheol](#sheol) as Hadēs, because in Sheol people are dead, whereas the Greeks believed that in Hadēs the souls of dead people were alive. Greek mythology had many stories of people being alive in Hadēs. So when the Greek-speaking Jews in Egypt translated Sheol as Hadēs, by the stroke of a pen they turned dead people into living people, and this introduced great confusion about the state of the dead into Judaism and then into Christianity, and that confusion still exists today. Actually, that confusion continued and perhaps was exacerbated when the New Testament books of Matthew, Luke, Acts, Corinthians, and Revelation used the word Hadēs. Although the New Testament use of Hadēs was the same as its use in the Septuagint, it is understandable that most Greeks would have seen Hadēs in light of their traditional mythology, and believed that the god Hadēs (the Devil) lived in Hadēs and reigned over the people there. So today millions of Christians believe that the souls of dead people are alive and suffering in “Hell” (Hadēs) because of what came from Greek mythology into Christianity.
 >
-> -- [Revised English Version Bible Commentary](https://www.revisedenglishversion.com/comm/Rev/20/13)
+> — [Revised English Version Bible Commentary](https://www.revisedenglishversion.com/comm/Rev/20/13)
 
 #### Orcus
 
-> And **the sea** gave up the dead who were in it... -- Revelation 20:13 (ESV)
+> And **the sea** gave up the dead who were in it... — Revelation 20:13 (ESV)
 
 A possible explanation:
 
 > This statement showed the knowledge and power of God. In the ancient cultures, including the Roman culture at the time John was writing, the seas were thought of as powerful, dangerous, and unforgiving. People who were on ships that sank and even many people who fell in the water close to shore were often drowned and never found again. Many people who sailed away from shore on ships were simply never heard from again; the ship would sail out of sight and presumably sink, but people would not really know because often neither the ship, nor things from the ship, nor any people on the ship would ever be seen again. And that situation had existed on earth for thousands of years; ever since Noah’s Flood. So for John to say that at the resurrection the sea would give up the dead who were in it was a big deal to John’s readers and showed God’s power and authority over even very powerful forces like the sea.
 > 
-> -- [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
+> — [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
 
-Revelation also state:
+Revelation also states:
 
-> ... *Death and Hades* gave up the dead who were in them, and they were judged, each one of them, according to what they had done. Then *Death and Hades* were thrown into the lake of fire. **This is the second death, the lake of fire.** -- Revelation 20:13-14 (ESV) 
+> ... *Death and Hades* gave up the dead who were in them, and they were judged, each one of them, according to what they had done. Then *Death and Hades* were thrown into the lake of fire. **This is the second death, the lake of fire.** — Revelation 20:13-14 (ESV) 
 
 John did not say that "the lake of fire" will forever torment the "judged". The idea is that they will be thrown in a lake of fire to be burned up and to die which is referred to "the second death" which means they will [cease to exist](#cease-to-exist) after they burned up.
 
-Out of context it seems like John supported the idea that ["Orcus" (Death) and "Hades" are Greek mythological figures](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/) thrown into "the lake of fire", but the next version explain what John meant:
+Out of context, it seems like John supported the idea that ["Orcus" (Death) and "Hades" are Greek mythological figures](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/) thrown into "the lake of fire", but the next version explain what John meant:
 
-> And if **anyone's name was not found written in the book of life**, he was thrown into the lake of fire. -- Revelation 20:15 (ESV)
+> And if **anyone's name was not found written in the book of life**, he was thrown into the lake of fire. — Revelation 20:15 (ESV)
 
-In other words, all dead people including those who were lost at the sea, those who area dead and buried in graves (Hades) will be raised to be judged. Then those who will be judged will be thrown into "the lake of fire" die for a second time, but this "lake of fire" will [completely destroy them](#total-destruction) so that they [cease to exist](#cease-to-exist).
+In other words, all dead people including those who were lost at the sea, those who are dead and buried in graves (Hades) will be raised to be judged. Then those who will be judged will be thrown into "the lake of fire" to die for a second time, but this "lake of fire" will [completely destroy them](#total-destruction) so that they [cease to exist](#cease-to-exist).
 
 #### The grave
 
@@ -73,7 +78,7 @@ In other words, all dead people including those who were lost at the sea, those 
 
 ### Sheol
 
-> Sheol referred to the state of being dead. Sheol was not the physical grave itself, but the state of being dead (the actual physical grave was referred to in Hebrew as the [qeber (קֶבֶר)](https://www.blueletterbible.org/lexicon/H6913/kjv). Some theologians refer to Sheol as “gravedom” (“the reign of the grave;” or “the reign of death”). Sheol ([Hadēs](#hades) in the Greek Bible) is not a place, it is a state of being — the state of being dead. In the Hebrew Old Testament, dead people are said to be in Sheol. -- [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
+> Sheol referred to the state of being dead. Sheol was not the physical grave itself, but the state of being dead (the actual physical grave was referred to in Hebrew as the [qeber (קֶבֶר)](https://www.blueletterbible.org/lexicon/H6913/kjv). Some theologians refer to Sheol as “gravedom” (“the reign of the grave;” or “the reign of death”). Sheol ([Hadēs](#hades) in the Greek Bible) is not a place, it is a state of being — the state of being dead. In the Hebrew Old Testament, dead people are said to be in Sheol. — [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
 
 Bullinger lists all 65 uses of Sheol in the Old Testament, then he wrote:
 
@@ -91,20 +96,20 @@ Bullinger lists all 65 uses of Sheol in the Old Testament, then he wrote:
 > * And finally, as to duration, the dominion of Sheol or the grave will continue until, and only end with, resurrection, which is the only exit from it.
 > * Hadēs is invariably connected with death; but never with life; always with dead people; but never with the living. All in Hadēs will “not live again” until they are raised from the dead (Revelation 20:5). That the English word “hell” by no means represents the Greek Hadēs; as we have seen that it does not give a correct idea of its Hebrew equivalent, Sheol. That Hadēs can mean only and exactly what Sheol means, vis., the place where “corruption” is seen and from which resurrection is the only exit.”
 >
-> -- [E. W. Bullinger](https://www.revisedenglishversion.com/comm/Rev/20/13)
+> — [E. W. Bullinger](https://www.revisedenglishversion.com/comm/Rev/20/13)
 
 ### The Lake of Fire
 
 John wrote that he saw "the lake of fire" in his revelation:
 
-> But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in **the lake that burns with fire and sulfur, which is the second death**.” -- Revelation 21:8 (ESV)
+> But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in **the lake that burns with fire and sulfur, which is the second death**.” — Revelation 21:8 (ESV)
 
 "The Lake of Fire" describes how God will destroy evil. 
 
-- "fire and sulfur" literally means that material bodies would be destroyed, however some view this symbolically for torture.
-- "the second death" literally means that the destruction of the wicked is final and complete, however to those who believe "death" means "not being really dead", it would indicate eternal torture.
+- "fire and sulfur" literally means that material bodies would be destroyed, however, some view this as symbolic of torture.
+- "the second death" literally means that the destruction of the wicked is final and complete, however, to those who believe "death" means "not being really dead", it would indicate eternal torture.
 
-Even if this lake literally burns for eternity, does not mean it would take an eternity to kill those condemned to it.
+Even if this lake literally burns for eternity, it does not mean it would take an eternity to kill those condemned to it.
 
 ## The fate of the wicked
 
@@ -118,7 +123,7 @@ Even if this lake literally burns for eternity, does not mean it would take an e
 > 
 > “See the man who would not make God his refuge, but trusted in the abundance of his riches and sought refuge in his own **destruction**!”
 > 
-> -- Psalm 52:5-7 (ESV)
+> — Psalm 52:5-7 (ESV)
 
 and
 
@@ -127,7 +132,7 @@ and
 > Truly you set them in slippery places; you make them fall to ruin.  
 > How **they are destroyed in a moment**, swept away utterly by terrors!
 > 
-> -- Psalm 73:16-19 (ESV)
+> — Psalm 73:16-19 (ESV)
 
 and
 
@@ -135,11 +140,11 @@ and
 > 
 > That though the wicked sprout like grass and all evildoers flourish, **they are doomed to destruction forever**.
 > 
-> -- Psalm 92:6-7 (ESV)
+> — Psalm 92:6-7 (ESV)
 
 and
 
-> The LORD preserves all who love Him, but all **the wicked He will destroy**. -- Psalm 145:20 (ESV)
+> The LORD preserves all who love Him, but all **the wicked He will destroy**. — Psalm 145:20 (ESV)
 
 and
 
@@ -147,55 +152,55 @@ and
 > 
 > **but my righteousness shall be for ever**, and my salvation from generation to generation.
 > 
-> -- Isaiah 51:8 (ESV)
+> — Isaiah 51:8 (ESV)
 
 In the Greek New Testament, the Greek word ["apōleia"](https://www.blueletterbible.org/lexicon/G684/kjv) is used to describe what happens to the wicked:
 
 > Something that will help us understand that most of the words in this study, like apōleia (destruction) refer to total annihilation is to remember that some words are inherently telic (they have an endpoint), while other words are inherently atelic (they do not have an endpoint). Words like “torture,” “pain,” and “suffering” are atelic; the words themselves do not have an endpoint. Torture and suffering may go on for a minute, a month, a year, or forever. The vocabulary word itself does not have an inherent boundary—it may go on forever. In contrast, words such as “destruction,” “annihilation,” and “extinction” are telic, they have an inherent endpoint. If nothing is ever finally destroyed, then what happened was not “destruction.” The same is true with “annihilation.” If in the end nothing is “annihilated,” then the process was not “annihilation.” Similarly “extinction” is not “extinction” if in the end, something is not “extinct.” It is important to understand the difference between telic and atelic words because the vocabulary God uses when it comes to the wicked is telic. They are destroyed, annihilated, and extinct. They no longer exist. 
 >
-> A closing comment on apōleia is appropriate: We should pay attention to the fact that Jesus contrasted “life” with “destruction” (Matt. 7:13, 14). That clearly implies that “life” is not “destruction,” that is, those who are alive are not destroyed, and those who are destroyed are not alive. Jesus did not say that there was “life” for both the good and wicked, and the only difference between them was the quality of their life (joy or torment). We contend that Jesus chose his words carefully and accurately, and taught the great truth that the wicked are annihilated in the Lake of Fire.
+> A closing comment on apōleia is appropriate: We should pay attention to the fact that Jesus contrasted “life” with “destruction” (Matthew 7:13,14). That clearly implies that “life” is not “destruction,” that is, those who are alive are not destroyed, and those who are destroyed are not alive. Jesus did not say that there was “life” for both the good and wicked, and the only difference between them was the quality of their life (joy or torment). We contend that Jesus chose his words carefully and accurately, and taught the great truth that the wicked are annihilated in the Lake of Fire.
 > 
-> -- [Appendix 4 - Revised English Version](https://www.revisedenglishversion.com/Appendix/4/Annihilation_in_the_Lake_of_Fire)
+> — [Appendix 4 - Revised English Version](https://www.revisedenglishversion.com/Appendix/4/Annihilation_in_the_Lake_of_Fire)
 
 For example:
 
-> Enter by the narrow gate. For the gate is wide and the way is easy that leads to **destruction** *(apōleia)*, and those who enter by it are many. -- Matthew 7:13 (ESV)
+> Enter by the narrow gate. For the gate is wide and the way is easy that leads to **destruction** *(apōleia)*, and those who enter by it are many. — Matthew 7:13 (ESV)
 
 and
 
-> **Their end is destruction** *(apōleia)*, their god is their belly, and they glory in their shame, with minds set on earthly things. -- Philippians 3:19 (ESV)
+> **Their end is destruction** *(apōleia)*, their god is their belly, and they glory in their shame, with minds set on earthly things. — Philippians 3:19 (ESV)
 
 and
 
-> But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and **destruction** *(apōleia)* of the ungodly. -- 2 Peter 3:7 (ESV)
+> But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and **destruction** *(apōleia)* of the ungodly. — 2 Peter 3:7 (ESV)
 
 The Greek word ["apollumi"](https://www.blueletterbible.org/lexicon/G622/kjv) means to "fully destroy" or "to perish". This is used in scriptures like:
  
-> Do not be afraid of those who kill the body but are not able to kill the soul. But rather fear Him who is able to **destroy *(apollumi)* both soul and body** in Gehenna. -- Matthew 10:28 (REV)
+> Do not be afraid of those who kill the body but are not able to kill the soul. But rather fear Him who is able to **destroy *(apollumi)* both soul and body** in Gehenna. — Matthew 10:28 (REV)
 
 and
 
-> For God so loved the world, that He gave His only begotten Son, that whosoever believeth in him **should not perish** *(apollumi)*, but have everlasting life. -- John 3:16 (KJV)
+> For God so loved the world, that He gave His only begotten Son, that whosoever believeth in him **should not perish** *(apollumi)*, but have everlasting life. — John 3:16 (KJV)
 
 and
 
-> For all who have sinned without the law will also **perish** *(apollumi)* without the law... -- Romans 2:12 (ESV)
+> For all who have sinned without the law will also **perish** *(apollumi)* without the law... — Romans 2:12 (ESV)
 
 ### Death
 
-> **The wicked will perish**; the enemies of the LORD are like the glory of the pastures; **they vanish — like smoke they vanish away**. -- Psalm 37:20 (ESV)
+> **The wicked will perish**; the enemies of the LORD are like the glory of the pastures; **they vanish — like smoke they vanish away**. — Psalm 37:20 (ESV)
 
 and
 
-> Behold, all souls are Mine; the soul of the father as well as the soul of the son is Mine: **the soul who sins shall die**. -- Ezekiel 18:4,20 (ESV)
+> Behold, all souls are Mine; the soul of the father as well as the soul of the son is Mine: **the soul who sins shall die**. — Ezekiel 18:4,20 (ESV)
 
 and
 
-> Though I say to the righteous that he shall surely live, yet if he trusts in his righteousness and does injustice, none of his righteous deeds shall be remembered, but in his injustice that he has done **he shall die**. -- Ezekiel 33:13 (ESV)
+> Though I say to the righteous that he shall surely live, yet if he trusts in his righteousness and does injustice, none of his righteous deeds shall be remembered, but in his injustice that he has done **he shall die**. — Ezekiel 33:13 (ESV)
 
 ### Cease to exist
 
-> “Why do you not pardon my transgression and take away my iniquity? For now I shall lie in the earth; You will seek me, but **I shall not be**.” -- Job 7:21 (ESV)
+> “Why do you not pardon my transgression and take away my iniquity? For now I shall lie in the earth; You will seek me, but **I shall not be**.” — Job 7:21 (ESV)
 
 Job was concerned that he would cease to exist because he was under the impression that God did not pardon his transgressions and iniquities. He did not expect to be in heaven with God.
 
@@ -205,26 +210,26 @@ Job was concerned that he would cease to exist because he was under the impressi
 > He will fly away like a dream and **not be found**, he will be chased away like a vision of the night.  
 > The eye that saw him will see him **no more**, nor will his place any more behold him.
 >
-> -- Job 20:6-9 (ESV)
+> — Job 20:6-9 (ESV)
 
 and
 
-> In just a little while, **the wicked will be no more**; though you look carefully at his place, **he will not be there**. -- Psalm 37:10 (ESV)
+> In just a little while, **the wicked will be no more**; though you look carefully at his place, **he will not be there**. — Psalm 37:10 (ESV)
 
 and
 
-> When the tempest passes, **the wicked is no more**. -- Proverbs 10:25 (ESV)
+> When the tempest passes, **the wicked is no more**. — Proverbs 10:25 (ESV)
 
 and
 
-> For **the ruthless shall come to nothing** and **the scoffer cease**. -- Isaiah 29:20 (ESV)
+> For **the ruthless shall come to nothing** and **the scoffer cease**. — Isaiah 29:20 (ESV)
 
 and
 
 > Those who strive against you **shall be as nothing and shall perish**. You shall seek those who contend with you, but **you shall not find them**;
 > those who war against you **shall be as nothing** at all. 
 > 
-> -- Isaiah 41:11-12 (ESV)
+> — Isaiah 41:11-12 (ESV)
 
 and
 
@@ -234,13 +239,13 @@ and
 >
 > **He will make a complete end**; trouble will not rise up a second time.
 > 
-> -- Nahum 1:8-9 (ESV)
+> — Nahum 1:8-9 (ESV)
 
 ### Consumption like a fire
 
-The wicked's end is often **compared** with a fire that consumes everything such that nothing is left afterwards.
+The wicked's end is often **compared** to a fire that consumes everything, leaving nothing afterwards.
 
-> You will make them as a blazing oven when you appear. The LORD will swallow them up in his wrath, and fire will **consume them**. -- Psalm 21:9 (ESV)
+> You will make them as a blazing oven when you appear. The LORD will swallow them up in his wrath, and fire will **consume them**. — Psalm 21:9 (ESV)
 
 and
 
@@ -248,7 +253,7 @@ and
 > 
 > For they shall be ashamed of the oaks that you desired; and you shall blush for the gardens that you have chosen. For you shall be like an oak whose leaf withers, and like a garden without water. And the strong shall become tinder, and his work a spark, and both of them shall **burn together**, with none to quench them.
 > 
-> -- Isaiah 1:29 (ESV)
+> — Isaiah 1:29 (ESV)
 
 and
 
@@ -258,21 +263,21 @@ and
 > 
 > And you shall tread down the wicked, for **they will be ashes under the soles of your feet**, on the day when I act, says the LORD of hosts.
 > 
->-- Malachi 4:1-3 (ESV)
+> — Malachi 4:1-3 (ESV)
 
-None of these scriptures mentioning anything about an *eternal* fire that burns the same wicked people forever. Instead, David and Isaiah made it clear that they will be "consumed" which means they cease to exist.
+None of these scriptures mention anything about an *eternal* fire that burns the same wicked people forever. Instead, David and Isaiah made it clear that they will be "consumed" which means they cease to exist.
 
 Popular culture often depicts the devil with a pitchfork, however, John the Baptist says that Jesus is the one who holds the winnowing fork:
 
 > Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into **the fire**.
 >
-> I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and **fire**. **His winnowing fork is in his hand**, and he will clear his threshing floor and gather his wheat into the barn, but **the chaff he will burn with unquenchable fire**.” **Then Jesus** came from Galilee to the Jordan to John. -- Matthew 3:10-13 (ESV)
+> I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and **fire**. **His winnowing fork is in his hand**, and he will clear his threshing floor and gather his wheat into the barn, but **the chaff he will burn with unquenchable fire**.” **Then Jesus** came from Galilee to the Jordan to John. — Matthew 3:10-13 (ESV)
 
 Some argue that "unquenchable fire" means "eternal fire" which is a description of the hell. In this context, Matthew more likely meant that the people will not be able to quench Jesus' fire. One does not expect Jesus to literally cut people down with an axe or winnow them like wheat. This is metaphoric language comparing a farmer separating diseased trees from healthy ones, or wheat from chaff.
 
-A few chapters later Matthew explain what Jesus meant with the metaphor:
+A few chapters later Matthew explains what Jesus meant with the metaphor:
 
-> Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles? So, every healthy tree bears good fruit, but the diseased tree bears bad fruit. A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit.  Every tree that does not bear good fruit is cut down and thrown into the fire. Thus you will recognize them by their fruits. -- Matthew 7:15-20 (ESV)
+> Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles? So, every healthy tree bears good fruit, but the diseased tree bears bad fruit. A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit.  Every tree that does not bear good fruit is cut down and thrown into the fire. Thus you will recognize them by their fruits. — Matthew 7:15-20 (ESV)
 
 Matthew also records another parable where Jesus explains a parable to his disciples:
 
@@ -280,21 +285,21 @@ Matthew also records another parable where Jesus explains a parable to his disci
 > 
 > He answered, "The one who sows the good seed is the Son of Man. The field is the world, and the good seed is the sons of the kingdom. The weeds are the sons of the evil one, and the enemy who sowed them is the devil. The harvest is the end of the age, and the reapers are angels. **Just as** the weeds are gathered and burned with fire, so will it be at the end of the age. The Son of Man will send his angels, and they will gather out of his kingdom all causes of sin and all law-breakers, and **throw them into the fiery furnace**. In that place there will be weeping and gnashing of teeth."
 > 
-> -- Matthew 13:36-42 (ESV)
+> — Matthew 13:36-42 (ESV)
 
 The expectation of a furnace is to burn up all impurities such that [nothing is left of it](#total-destruction).
 
 John also records a similar parable that compares the wicked's destruction to a fire that burned them up:
 
-> “I am the true vine, and my Father is the vinedresser. Every branch in me that does not bear fruit He takes away... Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing. If anyone does not abide in me he is thrown away **like** a branch and withers; and the branches are gathered, thrown into **the fire, and burned**. -- John 15:1-2,6 (ESV)
+> “I am the true vine, and my Father is the vinedresser. Every branch in me that does not bear fruit He takes away... Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing. If anyone does not abide in me he is thrown away **like** a branch and withers; and the branches are gathered, thrown into **the fire, and burned**. — John 15:1-2,6 (ESV)
 
-James also compares the greedy's consumption with the consumption of a fire.
+James also compares the consumption of the greedy to being consumed by fire.
 
-> Your gold and silver have corroded, and their corrosion will be evidence against you and will eat *(esthiō)* your flesh **like** fire. -- James 5:3 (ESV)
+> Your gold and silver have corroded, and their corrosion will be evidence against you and will eat *(esthiō)* your flesh **like** fire. — James 5:3 (ESV)
 
 The Greek word "esthiō" literally means "eat" but could also mean "consume" and is associated with "corrosion" such that the subject is reduced until nothing is left.
 
-> The Lord Jesus shall be revealed from heaven with his mighty angels: **In flaming fire** taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: Who shall be punished with **everlasting destruction** *(olethros)* from the presence of the Lord, and from the glory of his power. -- 2 Thessalonians 1:7-9 (KJV)
+> The Lord Jesus shall be revealed from heaven with his mighty angels: **In flaming fire** taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: Who shall be punished with **everlasting destruction** *(olethros)* from the presence of the Lord, and from the glory of his power. — 2 Thessalonians 1:7-9 (KJV)
 
 The Greek word ["olethros"](https://www.blueletterbible.org/lexicon/G3639/kjv) means "destruction" or "ruin" and is used in scriptures like this. According to Paul, our Lord Jesus Christ would use "flaming fire" to bring "destruction" on the disobedient such that it would be "everlasting". There will be no recovery in purgatory nor any other second chance.
 
@@ -304,15 +309,15 @@ Peter also said this when he quoted:
 > 
 >> ‘The Lord God will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you. And it shall be that **every soul who does not listen to that prophet shall be destroyed** *([exolethreuō](https://www.blueletterbible.org/lexicon/G1842/kjv))* from the people.’
 > 
-> -- Acts 3:22-23 (ESV)
+> — Acts 3:22-23 (ESV)
 
 The Greek word ["exolethreuō"](https://www.blueletterbible.org/lexicon/G622/kjv) means "total destruction" is used in scriptures like. According to Peter, the disobedient will be totally detroyed. There will be no recovery in purgatory nor any other second chance.
 
 Peter also said that God set an example of what is about to happen with Sodom and Gomorrah:
 
-> If by turning the cities of Sodom and Gomorrah to ashes He condemned them to **extinction** *(katastrophē)*, making them **an example of what is going to happen to the ungodly**. -- 2 Peter 2:6 (ESV)
+> If by turning the cities of Sodom and Gomorrah to ashes He condemned them to **extinction** *(katastrophē)*, making them **an example of what is going to happen to the ungodly**. — 2 Peter 2:6 (ESV)
 
-The people from Sodom and Gomorrah is no longer tormented or crying out in pain. There is literally nothing left of them. The Greek word "katastrophē" means "a condition of total destruction". This is the example we should expect.
+The people of Sodom and Gomorrah are no longer tormented or crying out in pain. There is literally nothing left of them. The Greek word "katastrophē" means "a condition of total destruction". This is the example we should expect.
 
 ## Life and death
 
@@ -326,10 +331,63 @@ Instead of "eternal life in pleasure" with "eternal life in torment", Paul is ra
 > 
 > For the wages of sin is **death** *("thanatos")*, but the free gift of God is eternal **life** in Christ Jesus our Lord.
 > 
-> -- Romans 6:20-23 (ESV)
+> — Romans 6:20-23 (ESV)
 
 If people who rebelled against God were living eternally (even in "hell"), then these Psalms would not make sense:
 
-> **All the ends of the earth** shall remember and turn to the LORD, and **all the families** of the nations shall worship before you. -- Psalm 22:27 (ESV)
+> **All the ends of the earth** shall remember and turn to the LORD, and **all the families** of the nations shall worship before you. — Psalm 22:27 (ESV)
 
-> **All nations** whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://eternal.family.net.za/god/father/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; [You alone are God](https://son.ofgod.info/shema). -- Psalm 86:9-10 (NKJV)
+> **All nations** whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://eternal.family.net.za/god/father/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; [You alone are God](https://son.ofgod.info/shema). — Psalm 86:9-10 (NKJV)
+
+## Common Objections
+
+### The Rich Man and Lazarus
+
+In Luke 16:19-31, Jesus tells a story about a rich man who dies and is immediately in torment in Hades. Some view this as a literal description of the afterlife.
+
+Note that Luke did not personally hear us telling this story. (Luke 1:1-4). None of the other apostles confirm that Jesus ever said this. Luke collected different testimonies from several witnesses *"as it seems good"* to him. [God's inspired words](https://word.ofgod.info/inspired) should take preference above this secondhand witness account.
+
+However, even if Jesus truly said this, the fact remains that the story is a **parable**, not a doctrine. Jesus was possibly using the Pharisees' own traditions and beliefs (influenced by Greek mythology) to rebuke their greed and refusal to believe the prophets. Taking this parable literally creates contradictions with the rest of Scripture:
+*   It depicts people in heaven and hell seeing and talking to each other.
+*   It suggests a drop of water could relieve the pain of someone in flames.
+*   It contradicts the clear Old Testament teaching that "the dead know nothing" (Ecclesiastes 9:5) and that people sleep in the dust until the resurrection (Daniel 12:2).
+
+### Eternal Punishment
+
+> And these will go away into **eternal punishment**, but the righteous into eternal life. — Matthew 25:46 (ESV)
+
+Critics argue that for punishment to be eternal, the person must exist eternally to feel it. However, the Bible distinguishes between the **duration of the act** and the **duration of the consequence**.
+
+*   **Eternal Judgment** (Hebrews 6:2) does not mean the judging process lasts forever, but that the verdict is final.
+*   **Eternal Redemption** (Hebrews 9:12) does not mean the process of redeeming goes on forever, but that the redemption is secured once for all time.
+*   **Eternal Punishment** refers to a punishment with permanent results: irreversible death. Because the wicked are destroyed and never return to life, their punishment is eternal.
+
+### Tormented Day and Night
+> ...and the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever. — Revelation 20:10 (ESV)
+
+This verse specifically names the Devil, the Beast, and the False Prophet—spiritual entities or symbolic systems—rather than human beings.
+
+Furthermore, the phrase "forever and ever" (Greek: *aeons of aeons*) must be understood in biblical context. Jude 1:7 describes Sodom and Gomorrah as undergoing "a punishment of eternal fire," yet those cities are not burning today. The fire resulted in their permanent destruction. The imagery in Revelation symbolizes the total, irreversible defeat of evil.
+
+### Smoke Rising Forever
+
+> And the smoke of their torment goes up forever and ever... — Revelation 14:11 (ESV)
+
+This is a biblical idiom for complete destruction, drawn from the judgment of Edom:
+
+> Night and day it shall not be quenched; **its smoke shall go up forever**. — Isaiah 34:10 (ESV)
+
+Edom was destroyed and does not burn today. The rising smoke is a memorial or sign that the judgment was complete and irreversible. The smoke remains as a testimony, but the city (or person) is gone.
+
+### The Worm That Does Not Die
+
+> ...where their worm does not die and the fire is not quenched. — Mark 9:48 (ESV)
+
+Jesus is quoting Isaiah 66:24:
+> "And they shall go out and look on the **dead bodies** of the men who have rebelled against me. For their worm shall not die, their fire shall not be quenched..."
+
+Note that the worms are eating **dead bodies** (corpses), not living people. Worms and fire accelerate decomposition and destruction; they do not preserve the object. "Unquenchable" means the fire cannot be put out by anyone *until* it has consumed everything, not that it burns a vacuum forever.
+
+## Conclusion
+
+Based on the scriptural evidence, "hell" is a misleading term often conflating the grave (Sheol/Hades) with the final judgment (Gehenna/Lake of Fire). The Bible consistently teaches that the wages of sin is death, not eternal life in torment. The wicked will face a final judgment where they will be completely destroyed (consumed like chaff in a fire) and will cease to exist forever. This "second death" is the true eternal punishment: an irreversible exclusion from the life God offers.
