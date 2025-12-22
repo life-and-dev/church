@@ -17,7 +17,7 @@ Some people have difficulty believing that God would torture people eternally:
 
 > In orthodox Christianity, “hell” is a very hot and fiery place where the Devil and his demons live and where the souls of unsaved people go to be tormented forever. There is no such place. The word “hell” can be confusing in English versions, especially the older ones. For example, in the King James Version, the word “hell” is used to translate four different words: Sheol, [Gehenna](#gehanna), Hades, and Tartarus. -- [Appendix 3 - Revised English Version](https://www.revisedenglishversion.com/Appendix/3/The_Dead_are_Dead)
 
-### Gehanna
+### Gehenna
 
 > “Gehenna” is Greek for the [“Valley of Hinnom”](https://en.wikipedia.org/wiki/Gehenna). Gehenna is the Greek word that comes from the Hebrew words “ge,” meaning “valley,” and “Hinnom,” which was a man’s name. In the Old Testament, the valley is known both as the Valley of Hinnom (Nehemiah 11:30; and some Hebrew texts of Joshua 15:8) and also as the “Valley of the sons (or son) of Hinnom” (Joshua 18:16; 2 Kings 23:10; Jeremiah 7:31). It seems that Hinnom’s descendants eventually took over and controlled the valley, and thus “the Valley of Hinnom” became “the Valley of the sons of Hinnom.” The “Ge Hinnom,” the Valley of Hinnom, is first mentioned in the book of Joshua as part of the northern boundary of the tribal area assigned to Judah (Joshua 15:8). It is the valley immediately south of the city of Jerusalem. This geographical point is very important because the history of the Ge Hinnom is closely tied to Jerusalem.
 >
@@ -131,7 +131,7 @@ and
 
 and
 
-> He stupid man cannot know; the fool cannot understand this: 
+> The stupid man cannot know; the fool cannot understand this: 
 > 
 > That though the wicked sprout like grass and all evildoers flourish, **they are doomed to destruction forever**.
 > 
@@ -262,13 +262,13 @@ and
 
 None of these scriptures mentioning anything about an *eternal* fire that burns the same wicked people forever. Instead, David and Isaiah made it clear that they will be "consumed" which means they cease to exist.
 
-Cartoon picture often show a naughty devil with a fork, however, John the baptist says that Jesus is the one who holds the fork:
+Popular culture often depicts the devil with a pitchfork, however, John the Baptist says that Jesus is the one who holds the winnowing fork:
 
 > Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into **the fire**.
 >
 > I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and **fire**. **His winnowing fork is in his hand**, and he will clear his threshing floor and gather his wheat into the barn, but **the chaff he will burn with unquenchable fire**.” **Then Jesus** came from Galilee to the Jordan to John. -- Matthew 3:10-13 (ESV)
 
-Some argue that "unquenchable fire" means "eternal fire" which is a description of the hell. In this context, Matthew more likely meant that the people will not be able to quench Jesus' fire. Nobody expects Jesus to literally cut up people with an axe or to fork people like wheat. This is metaphoric language to compare a former that separates diseased trees from healthy fruitful good trees or wheat from chaff.
+Some argue that "unquenchable fire" means "eternal fire" which is a description of the hell. In this context, Matthew more likely meant that the people will not be able to quench Jesus' fire. One does not expect Jesus to literally cut people down with an axe or winnow them like wheat. This is metaphoric language comparing a farmer separating diseased trees from healthy ones, or wheat from chaff.
 
 A few chapters later Matthew explain what Jesus meant with the metaphor:
 
@@ -294,17 +294,19 @@ James also compares the greedy's consumption with the consumption of a fire.
 
 The Greek word "esthiō" literally means "eat" but could also mean "consume" and is associated with "corrosion" such that the subject is reduced until nothing is left.
 
-> The Lord Jesus shall be revealed from heaven with his mighty angels: **In flaming fire** taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: Who shall be punished with **everlasting destruction** *(exolethreuō)* from the presence of the Lord, and from the glory of his power. -- 2 Thessalonians 1:7-9 (KJV)
+> The Lord Jesus shall be revealed from heaven with his mighty angels: **In flaming fire** taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: Who shall be punished with **everlasting destruction** *(olethros)* from the presence of the Lord, and from the glory of his power. -- 2 Thessalonians 1:7-9 (KJV)
 
-The Greek word ["exolethreuō"](https://www.blueletterbible.org/lexicon/G622/kjv) means "total destruction" is used in scriptures like. According to Paul, our Lord Jesus Christ would use "flaming fire" to "totally destroy" the disobedient such that their destruction would be "everlasting". There will be no recovery in purgatory nor any other second chance.
+The Greek word ["olethros"](https://www.blueletterbible.org/lexicon/G3639/kjv) means "destruction" or "ruin" and is used in scriptures like this. According to Paul, our Lord Jesus Christ would use "flaming fire" to bring "destruction" on the disobedient such that it would be "everlasting". There will be no recovery in purgatory nor any other second chance.
 
 Peter also said this when he quoted:
 
 > Moses said, 
 > 
->> ‘The Lord God will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you. And it shall be that **every soul who does not listen to that prophet shall be destroyed** *(exolethreuō)* from the people.’
+>> ‘The Lord God will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you. And it shall be that **every soul who does not listen to that prophet shall be destroyed** *([exolethreuō](https://www.blueletterbible.org/lexicon/G1842/kjv))* from the people.’
 > 
 > -- Acts 3:22-23 (ESV)
+
+The Greek word ["exolethreuō"](https://www.blueletterbible.org/lexicon/G622/kjv) means "total destruction" is used in scriptures like. According to Peter, the disobedient will be totally detroyed. There will be no recovery in purgatory nor any other second chance.
 
 Peter also said that God set an example of what is about to happen with Sodom and Gomorrah:
 
@@ -328,6 +330,6 @@ Instead of "eternal life in pleasure" with "eternal life in torment", Paul is ra
 
 If people who rebelled against God were living eternally (even in "hell"), then these Psalms would not make sense:
 
-> **All the ends of the earth** shall remember and turn to the Lord, and **all the families** of the nations shall worship before you. -- Psalm 22:27 (ESV)
+> **All the ends of the earth** shall remember and turn to the LORD, and **all the families** of the nations shall worship before you. -- Psalm 22:27 (ESV)
 
 > **All nations** whom You have made shall come and [worship](https://eternal.family.net.za/god/worship) before You, O [Lord](https://eternal.family.net.za/god/father/name), and shall glorify Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; [You alone are God](https://son.ofgod.info/shema). -- Psalm 86:9-10 (NKJV)
