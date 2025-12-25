@@ -4,10 +4,10 @@ While the Church has a rich history influenced by various factors, this article 
 
 # Christian Influences
 
-| Period | Influencers                                | Influence                                                                                                                                                                                  |
-| ------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 325 AD | [The first Nicaea Creed](evolution/325.md) | Church authority was supported by the government<br/>Christians were obliged to confess Jesus' divinity<br/>The Trinity gets defined<br/>Jewish Passover gets replaced by Christian Easter |
-| 336 AD | [The first Christmas](evolution/336.md)    | The first Christmas was celebrated                                                                                                                                                         |
+| Period | Influencers                                | Influence                                                                                                                                                                                                              |
+| ------ | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 325 AD | [The first Nicaea Creed](evolution/325.md) | Church authority was supported by the government<br/>Christians were obliged to confess Jesus' divinity<br/>The Trinity gets defined<br/>Christian discouraged to keep "Jewish" Passover<br/>Date of Easter formulated |
+| 336 AD | [The first Christmas](evolution/336.md)    | The first Christmas was celebrated                                                                                                                                                                                     |
 
 ---
 
