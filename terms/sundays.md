@@ -49,15 +49,19 @@ The assumption is that Paul's church gathered on Sundays because that is when th
 
 Christians believe that Jesus changed the Sabbath to "The Lord's Day". They interpret Matthew 5:17 that Jesus fulfilled (deprecated) the laws and that it is no longer necessary to keep the Sabbath.
 
-However, many confuse the Torah (Pentateuch) translated as "laws" with God's commands because of the way modern bibles are translated. "[The *Laws*](https://biblehub.com/greek/3551.htm) and the *Prophets*" are the names of the books (or scrolls) which contained [prophecies of the Messiah](https://prophecies.ofgod.info/messianic) which Jesus came to fulfill. He did not say that he came to "abolish the laws".  Instead Jesus fulfilled the prophecies regarding himself and actually requested his disciples to keep the teachings (or "laws").
+However, many confuse the Torah (Pentateuch) translated as "laws" with God's commands because of the way modern bibles are translated. "[The *Laws*](https://biblehub.com/greek/3551.htm) and the *Prophets*" are the names of the books (or scrolls) which contained [prophecies of the Messiah](https://prophecies.ofgod.info/messianic) which Jesus came to fulfill. He did not say that he came to "abolish the laws".  Instead Jesus fulfilled the prophecies regarding himself and actually requested his disciples to keep [God the Father](https://ofgod.info)'s commandments (John 15:10).
 
 The Sabbath was not a temporary idea, but should be observed forever through all generations (Exodus 31:16-17).
+
+If Jesus truly truly deprecated the Sabbath, then he would not warned his disciples to pray that their flight would not be in winter or on the Sabbath (Matthew 24:20).
 
 ### Jesus replaced the Sabbath
 
 Christians interpret that Matthew 11:28-30 means that Jesus will give rest to those who follow him. Therefore the original Sabbath is redundant.
 
 However, this scripture is often quoted out of context. The context is that Jesus was talking about failed attempts to convert people in cities who rejected his message. He asked his disciples to rather go to other cities and that they should not take these rejections and failed attempts personally. Therefore, he urged them to only accept his "yoke" of obedience to God which will give them rest from the burden of accomplishment. This has nothing to do with the Sabbath.
+
+Jesus himself kept the Sabbath (Luke 4:16).
 
 ### Jesus did not keep the Sabbath
 
@@ -160,5 +164,7 @@ At that time there were no Jewish nation yet. This proves that God sanctified th
 1. God Himself kept the Sabbath (Genesis 2:2-3).
 2. God declared it a permanent sign of a covenant throughout all generations (Exodus 31:16-17). 
 3. God repeatedly confirmed the Sabbath commandment multiple times throughout the Old Testament via different prophets (Isaiah 58:13-14; Jeremiah 17:21-22).
+4. Jesus kept the Sabbath (Luke 4:16).
+5. The apostles kept the Sabbath even after Jesus' resurrection (Acts 13:14,42-44, 16:13, 17:2-2, 18:4; Hebrews 4:9-11).
 
 Who are we to know better?
