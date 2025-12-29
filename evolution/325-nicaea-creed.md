@@ -1,6 +1,10 @@
-# 325 AD (1st Nicaea Creed)
+---
+description: The Council of Nicaea in 325 AD established the divinity of Jesus, formulated the Nicene Creed, and separated Easter from Jewish Passover to unify the church.
+keywords: Council of Nicaea, 325 AD, Nicene Creed, Arianism, Emperor Constantine, Trinity, Easter, divinity of Jesus, church history
+---
+# 325 (1st Nicaea Creed)
 
-Around 318 AD, Arius from Alexandria began preaching his doctrine that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This view challenged Constantine's view that Jesus is God. This resulted in a split in the church which was referred to as [Arianism](https://en.wikipedia.org/wiki/Arianism).
+Around 318 AD, Arius from Alexandria began preaching his doctrine that Jesus, [the Son of God](https://son.ofgod.info), was created by God and not eternally divine or of the same substance as God the Father. This view challenged Constantine's view that Jesus is God. This resulted in a split in the church, referred to as [Arianism](https://en.wikipedia.org/wiki/Arianism).
 
 Therefore, the church leaders gathered in 325 AD at [the council of Nicaea](https://www.historyskills.com/classroom/ancient-history/council-of-nicaea/) to prevent further church splits by:
 
@@ -11,13 +15,14 @@ Therefore, the church leaders gathered in 325 AD at [the council of Nicaea](http
 
 [The Emperor Constantine](https://eternal.family.net.za/kingdom/history/constantine) actively participated in the proceedings, and 300 bishops and church leaders from across the Roman Empire attended.
  
-One of the council's challenges was to determine how to consolidate the divinity of Jesus Christ with monotheism (belief in one God). The solution was to define [the concept of the Trinity](https://son.ofgod.info/trinity), which posits that God exists as three persons (Father, Son, and Holy Spirit) but is one being. This allowed Christians to maintain their monotheistic beliefs while also acknowledging the divinity of Jesus Christ. 
+One of the council's challenges was to determine how to reconcile the divinity of Jesus Christ with monotheism (belief in one God). The solution was to define [the concept of the Trinity](https://son.ofgod.info/trinity), which posits that God exists as three persons (Father, Son, and Holy Spirit) but is one being. This allowed Christians to maintain their monotheistic beliefs while also acknowledging the divinity of Jesus Christ. 
  
-At that time the Trinity was already a familiar concept which was first used by Tertullian about a century earlier. However, Christians initially rejected his doctrine in fear of polytheism (worship of multiple gods). Therefore the council had to carefully and clearly define the Trinity to avoid misunderstandings. 
+At that time, the Trinity was already a familiar concept, first used by Tertullian about a century earlier. However, Christians initially rejected his doctrine in fear of polytheism (worship of multiple gods). Therefore, the council had to carefully and clearly define the Trinity to avoid misunderstandings. 
  
 This led to the establishment of [the Nicene Creed](https://www.fourthcentury.com/urkunde-24/), which declared:
 
-> * We believe in [one God](https://son.ofgod.info/shema), [the Father Almighty](https://ofgod.info), Maker of all things seen and unseen.
+> * We believe in [one God](https://son.ofgod.info/shema), [the Father Almighty](https://ofgod.info), 
+>   * Maker of all things seen and unseen.
 > * And in one Lord, Jesus Christ [the Son of God](https://son.ofgod.info), 
 >   * begotten of the Father, 
 >   * the only-begotten, that is, of ***the essence of the Father***, 
@@ -40,7 +45,7 @@ This creed left no room or grace for Arianism. Eusebius initially showed sympath
 * **Established the authority and jurisdictions of bishops within the Church hierarchy**
 * **Disciplinary matters within the church hierarchy**
 * **Specifying rules regarding clergy conduct and qualifications**
-* **Producedures for handling lapsed believers**
+* **Procedures for handling lapsed believers**
 * **[Defined Easter](#defining-easter)**
 
 This creed became the cornerstone of the Christian belief and continues to be recited in many modern Christian denominations during worship services.
@@ -50,7 +55,7 @@ Reasons for this declaration are:
 * **Theological clarity**: The early church sought to clarify its beliefs in response to various theological disputes and heresies (particularly Arianism) that were spreading confusion among citizens.
 * **Doctrinal standardization**: By establishing a single, authoritative creed, the church could distinguish orthodox Christian belief from "heretical" views, ensuring all Christians adhered to the same foundational teachings.
 
-In 336 Arius died, potentially [poisoned by his opponents](https://en.wikipedia.org/wiki/Arius#Exile,_return,_and_death), others claim it was the result of "God's punishment for his heretical views".
+In 336, Arius died, potentially [poisoned by his opponents](https://en.wikipedia.org/wiki/Arius#Exile,_return,_and_death); others claim it was the result of "God's punishment for his heretical views".
 
 > The history of Christian thought is filled with condemned positions — each one representing not just theological error, but the natural destination of common ways of thinking about how God can be both three and one.
 >
@@ -66,15 +71,19 @@ In 336 Arius died, potentially [poisoned by his opponents](https://en.wikipedia.
 >
 > Yet even after Nicaea supposedly settled the question of Christ’s divinity in 325 AD, the doctrine remained incomplete and contested. The original Nicene Creed said almost nothing about the Holy Spirit — just a brief phrase: “And *[we believe]* in the Holy Spirit.” It took another half-century and the work of the Cappadocian Fathers — Basil of Caesarea, Gregory of Nazianzus, and Gregory of Nyssa — before the Spirit’s full divinity was officially recognized at the Council of Constantinople in 381 AD. Even then, disputes persisted. The Western church later added the filioque clause, stating the Spirit proceeds from the Father “and the Son,” while the Eastern church rejected this addition.
 >
-> -- [Quran Talk Blog](https://qurantalkblog.com/2025/10/03/most-christians-do-not-understand-the-trinity/)
+> — [Quran Talk Blog](https://qurantalkblog.com/2025/10/03/most-christians-do-not-understand-the-trinity/)
 
 ## Defining Easter
 
 [Constantine supported **the separation of the date of Easter from the Jewish Passover**](https://en.wikipedia.org/wiki/Constantine_the_Great_and_Judaism). According to Eusebius's *Life of Constantine*, Constantine wrote to the churches following the Council stating:
 
-> "... it appeared an unworthy thing that in the celebration of this most holy feast we should follow the practice of the Jews, who have impiously defiled their hands with enormous sin, and are, therefore, deservedly afflicted with blindness of soul ... Let us then have nothing in common with the detestable Jewish crowd; for we have received from our Saviour a different way." -- [Eusebius, Life of Constantine Vol. III Ch. XVIII Life of Constantine (Book III)](http://www.newadvent.org/fathers/25023.htm)
+> "... it appeared an unworthy thing that in the celebration of this most holy feast we should follow the practice of the Jews, who have impiously defiled their hands with enormous sin, and are, therefore, deservedly afflicted with blindness of soul ... Let us then have nothing in common with the detestable Jewish crowd; for we have received from our Saviour a different way."
+>
+> — [Eusebius, Life of Constantine Vol. III Ch. XVIII Life of Constantine (Book III)](http://www.newadvent.org/fathers/25023.htm)
 
-> The Council of Nicaea in 325 established the principle that Easter should be celebrated on a Sunday and never on the day of the Jewish Passover. The specific astronomical rule — the first Sunday after the first full moon occurring on or after the spring equinox (March 21) — was standardized at the Council, with Easter falling between March 22 and April 25. The precise calculations were refined over subsequent centuries. -- [Britannica](https://www.britannica.com/topic/Easter-holiday)
+> The Council of Nicaea in 325 established the principle that Easter should be celebrated on a Sunday and never on the day of the Jewish Passover. The specific astronomical rule — the first Sunday after the first full moon occurring on or after the spring equinox (March 21) — was standardized at the Council, with Easter falling between March 22 and April 25. The precise calculations were refined over subsequent centuries.
+>
+> — [Britannica](https://www.britannica.com/topic/Easter-holiday)
 
 ### Pagan Influences
 

@@ -4,16 +4,18 @@ While the Church has a rich history influenced by various factors, this article 
 
 # Christian Influences
 
-| Period | Influencers                                          | Influence                                                                                                                                                                                                              |
-| ------ | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 321 AD | [Constantine decreed "DIES SOLIS"](terms/sundays.md) | The Roman Emperor Constantine the Great, who issued a civil decree throughout the Roman Empire.                                                                                                                        |
-| 325 AD | [The first Nicaea Creed](evolution/325.md)           | Church authority was supported by the government<br/>Christians were obliged to confess Jesus' divinity<br/>The Trinity gets defined<br/>Christian discouraged to keep "Jewish" Passover<br/>Date of Easter formulated |
-| 336 AD | [The first Christmas](evolution/336.md)              | The first Christmas was celebrated                                                                                                                                                                                     |
-| 363 AD | [The Council of Laodicea](evolution/363.md)          | [Sabbath keeping](terms/sundays.md) became outlawed                                                                                                                                                                    |
+| Period | Influencers                                                                  | Influence                                                                                                                                                                                                                                                         |
+| ------ | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 321    | Constantine decreed "DIES SOLIS"                                             | [Sundays were declared a day of rest.](terms/sundays.md)                                                                                                                                                                                                          |
+| 325    | [The Nicaea Creed](evolution/325-nicaea-creed.md)                            | Church authority was supported by the government<br/>Christians were obliged to confess Jesus' divinity<br/>The Trinity gets defined<br/>Christian discouraged to keep "Jewish" Passover<br/>Date of Easter formulated                                            |
+| 336    | Pope Julius I                                                                | [The first Christmas was celebrated](evolution/336-christmas.md)                                                                                                                                                                                                  |
+| 363    | The Council of Laodicea                                                      | [The Sabbath was outlawed](evolution/363-outlawing-sabbath.md)                                                                                                                                                                                                    |
+| 380    | The Edict of Thessalonica                                                    | [Christianity became the State Religion of the Roman Empire](evolution/380-state-religion.md)                                                                                                                                                                     |
+| 381    | [The Niceno-Constantinopolitan Creed](evolution/381-nicaea-creed-updated.md) | Declared:<br/>- the incarnation of Jesus<br/>- all members of the Trinity must be worshipped<br/>- The Holy Spirit is the 3rd member of the Trinity<br/>- The Holy Spirit speaks to the Catholic Church<br/>- There is only 1 church which is the Catholic Church |
+| 1215   | The Council of Florence                                                      | [The Seven Sacraments](evolution/7-sacraments.md) were defined as necessary for salvation                                                                                                                                                                         |
 
 ---
 
 *Disclaimer: This placeholder article is a draft, incomplete, subject to change and may contain errors. Please contribute if you have insight in church history or spot any issues.*
 
 ---
-    
