@@ -3,7 +3,7 @@ description: Explore the history of Christmas starting from its first recorded c
 keywords: Christmas history, 336 AD, Saturnalia, Sol Invictus, pagan roots, Christmas evolution, St. Nicholas, Christmas traditions, Puritan ban, Victorian Christmas
 ---
 
-# 336 AD (Christmas)
+# 336 (Christmas)
 
 > There is no mention of birth celebrations in the writings of early Christian writers such as Irenaeus (c. 130–200) or Tertullian (c. 160–225). Origen of Alexandria (c. 165–264) goes so far as to mock Roman celebrations of birth anniversaries, dismissing them as “pagan” practices—a strong indication that Jesus’ birth was not marked with similar festivities at that place and time. As far as we can tell, Christmas was not celebrated at all at this point... — [Warden and President of Trinity College at the University of Melbourne, Australia](https://www.historynewsnetwork.org/article/andrew-mcgowan-how-december-25-became-christmas)
 

@@ -3,7 +3,7 @@ description: In 363 AD, the Council of Laodicea issued decrees outlawing Sabbath
 keywords: Council of Laodicea, Sabbath, Sunday rest, Canon 29, Church history, Constantinian dynasty, antisemitism, Christian law
 ---
 
-# 363 AD (Outlawing Sabbath)
+# 363 (Outlawing Sabbath)
 
 During the Constantinian dynasty, **[institutional roles like the pope, bishops and clerics gradually evolved to maintain order in the church](https://www.britannica.com/topic/Christianity/The-alliance-between-church-and-empire)**.
 
