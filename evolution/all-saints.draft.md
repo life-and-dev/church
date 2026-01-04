@@ -12,7 +12,7 @@ Have you ever wondered about the origins of Halloween and its connection to the 
 
 ## Origins of All Saints' Day
 
-The tradition of honoring all Christian saints began in the early 7th century. In 609, Pope Boniface IV dedicated the Pantheon in Rome as a church in honor of the Blessed Virgin and all martyrs, establishing a feast day on May 13.
+The tradition of honoring all Christian saints began in the early 7th century. In 609, [Pope Boniface IV](https://www.britannica.com/biography/Saint-Boniface-IV) dedicated the Pantheon in Rome as a church in honor of the Blessed Virgin and all martyrs, establishing a feast day on May 13.
 
 However, it was Pope Gregory III who, in 731, moved the observance to November 1. He [instituted "All Saints' Day"](https://www.britannica.com/topic/All-Saints-Day) on this date when he dedicated a chapel in St. Peter's Basilica to commemorate all the saints of the church who have attained heaven. This decision played a key role in the [widespread adoption of November 1st for the celebration](https://www.christianity.com/church/church-history/all-saints-day-november-1.html).
 
