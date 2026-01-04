@@ -3,7 +3,7 @@ description: The Fourth Lateran Council of 1215 established seven sacraments as 
 keywords: Fourth Lateran Council, 1215, 7 sacraments, salvation, Pope Innocent III, Council of Florence, catholic church doctrine, extra ecclesiam nulla salus
 ---
 
-# 1215: The Seven Sacraments
+# 1215 (7 Sacraments)
 
 In 1215, [the Fourth Lateran Council](https://www.catholic.org/encyclopedia/view.php?id=6883) was convened by Pope Innocent III and was attended by over 400 bishops from all over Europe. The council decreed that **seven sacraments are necessary for [salvation](/eternal/saved.md)**, namely:
 
