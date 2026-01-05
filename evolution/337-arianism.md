@@ -5,7 +5,7 @@ description: Explore the surprising resilience of Arianism after the Council of 
 keywords: Arianism, Constantius II, Bishop Ulfilas, Council of Nicaea, 4th century Christianity, Gothic Bible, Arian controversy, Nicene creed
 ---
 
-# The spread of Arianism
+# 337 (Spread of Arianism)
 
 Arianism, a doctrine that challenged the divinity of Christ, didn't fade away after the Council of Nicaea. This article explores how key figures and political currents in the 4th century Roman Empire contributed to its surprising resilience and spread.
 
@@ -17,7 +17,7 @@ Constantius actively promoted Arianism, convening councils such as Sirmium (347-
 
 Constantius also enacted laws that limited Jewish slave ownership and prohibited interfaith marriages between Jews and Christians.
 
-![Presumed bust of Constantius II (or Valens), from an exhibition at the Colosseum, 2013](constantius.jpg)
+![Presumed bust of Constantius II (or Valens), from an exhibition at the Colosseum, 2013](337-arianism.constantius.jpg)
 
 ## Bishop Ulfilas
 
