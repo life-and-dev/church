@@ -73,7 +73,7 @@ Constantine's true intent and dedication to Christianity is questionable:
 
 * On 7 March 321, [Constantine decreed "DIES SOLIS"](https://sabbathsentinel.org/2016/10/13/constantine-march-321-ad/) which means "the day of the Sun", known today as "Sunday" – as the Roman day of rest: "On the venerable day of the Sun let the magistrates and people residing in cities rest, and let all workshops be closed."
 
-This is why our weekdays are named:
+[This is why our weekdays are named](https://en.wikipedia.org/wiki/Names_of_the_days_of_the_week):
 
 | English   | Latin         | Name of god                                           |
 | --------- | ------------- | ----------------------------------------------------- |
