@@ -3,13 +3,14 @@ title: Constantine
 published: false
 description: Explore the complex legacy of Constantine the Great, who legitimized Christianity while merging it with Roman pagan traditions like Sol Invictus.
 keywords: Constantine the Great, Christianity, Sol Invictus, Edict of Milan, Council of Nicaea, church history, Roman Empire
+reviewed: true
 ---
 
 # Constantine the Great and Christianity
 
 Constantine the Great's reign marked a pivotal turning point for Christianity, elevating it from a persecuted sect to the dominant religion of the Roman Empire. But was his conversion a genuine act of faith, a calculated political strategy, or something in between? This article explores the emperor's complex relationship with the church, examining how he used Christianity to legitimize his rule while simultaneously blending it with pagan traditions, forever changing the course of both Roman and Christian history.
 
-Through military power and a series of victories against his rivals, Constantine became the emperor in 306 AD, marking the start of [the Constantinian dynasty](https://en.wikipedia.org/wiki/Constantinian_dynasty). In 312 AD, at [the Battle of the Milvian Bridge](https://en.wikipedia.org/wiki/Constantine_the_Great), Constantine secured his control over the western Roman Empire.
+In 312 AD, at [the Battle of the Milvian Bridge](https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge), Constantine secured his control over the western Roman Empire.
 
 ![Statue of Constantine the Great in York, United Kingdom](statue_of_constantine.jpg)
 
@@ -25,14 +26,14 @@ Through military power and a series of victories against his rivals, Constantine
 >
 > — [Cameron Hughes, MA Field Archaeology, MA Politics](https://www.thecollector.com/constantine-great-conversion-christianity)
 
-In February 313, the [Edict of Milan](https://www.britannica.com/topic/Edict-of-Milan) was issued by the Roman Emperors Constantine and Licinius. The proclamation:
+In February 313, the [Edict of Milan](https://en.wikipedia.org/wiki/Edict_of_Milan) was issued by the Roman Emperors Constantine and Licinius. The proclamation:
 * granted religious toleration to all religions, including Christianity throughout the Roman Empire;
 * ceased Christian persecutions of [the Great Persecution under Diocletian](https://courses.lumenlearning.com/suny-fmcc-worldhistory/chapter/the-rise-of-christianity/);
 * recognised Christianity as a legitimate religion, which allowed Christians to worship and practice their faith openly;
 
 This allowed Christians to hold public offices, which had previously been denied to them.
 
-[Constantine elevated bishops to positions of political influence](https://www.britannica.com/topic/Christianity/The-alliance-between-church-and-empire), appointing them and convening councils like Nicaea to resolve theological disputes.
+[Constantine elevated bishops to positions of political influence](https://www.thecollector.com/constantine-the-great-history-christianity/), appointing them and convening councils like Nicaea to resolve theological disputes.
 
 ## Merging Jesus with Sol Invictus
 
@@ -48,7 +49,7 @@ Similarities between Sol Invictus and Jesus Christ:
 | -------------------------------------- | ---------------------------------------------------------------- |
 | Calls himself the ["Unconquered Sun"](https://bigthink.com/the-past/sol-invictus/) | Calls himself "the light" |
 | [The birthday was celebrated on 25 December (Dies Natalis Solis Invicti)](https://mythology.net/roman/roman-gods/sol-invictus/) | The birthday is still celebrated on 25 December by Christians |
-| [The birthday mark the winter solstice and the sun's "rebirth" after its darkest period](https://www.academia.edu/126448683/Sol_Invictus_The_Unconquered_Sun_and_the_Light_of_Eternity) | Some Christians belief Jesus was "rebirth" from God into a human form |
+| [The birthday mark the winter solstice and the sun's "rebirth" after its darkest period](https://www.nationalgeographic.com/history/article/christmas-jesus-birthday-ancient-rome-saturnalia-sol-invictus) | Some Christians believe Jesus was "rebirth" from God into a human form |
 | [Considered a "protector" by Roman soldiers](https://roman-empire.net/religion/sol/) | Considered a saviour by Christians |
 
 ![Ceiling Mosaic - Christus helios, the mosaic of Sol in Mausoleum M, which is interpreted as Christ-Sol (Christ as the Sun).](christ_as_sol.jpg)
