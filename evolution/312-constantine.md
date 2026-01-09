@@ -6,13 +6,13 @@ keywords: Constantine the Great, Christianity, Sol Invictus, Edict of Milan, Cou
 reviewed: true
 ---
 
-# Constantine the Great and Christianity
+# 312 (Constantine)
 
 Constantine the Great's reign marked a pivotal turning point for Christianity, elevating it from a persecuted sect to the dominant religion of the Roman Empire. But was his conversion a genuine act of faith, a calculated political strategy, or something in between? This article explores the emperor's complex relationship with the church, examining how he used Christianity to legitimize his rule while simultaneously blending it with pagan traditions, forever changing the course of both Roman and Christian history.
 
 In 312 AD, at [the Battle of the Milvian Bridge](https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge), Constantine secured his control over the western Roman Empire.
 
-![Statue of Constantine the Great in York, United Kingdom](statue_of_constantine.jpg)
+![Statue of Constantine the Great in York, United Kingdom](312-constantine/statue_of_constantine.jpg)
 
 [Constantine could not legitimize his rule as emperor based on his bloodline.](https://www.thecollector.com/constantine-great-conversion-christianity) He also noticed that his predecessors, such as Diocletian, had failed to secure unchallenged legitimacy, despite [styling themselves as godlike rulers](https://www.thecollector.com/constantine-great-conversion-christianity).
 
@@ -45,14 +45,14 @@ This allowed Christians to hold public offices, which had previously been denied
 
 Similarities between Sol Invictus and Jesus Christ:
 
-| Sol Invictus                           | Jesus Christ                                                     |
-| -------------------------------------- | ---------------------------------------------------------------- |
-| Calls himself the ["Unconquered Sun"](https://bigthink.com/the-past/sol-invictus/) | Calls himself "the light" |
-| [The birthday was celebrated on 25 December (Dies Natalis Solis Invicti)](https://mythology.net/roman/roman-gods/sol-invictus/) | The birthday is still celebrated on 25 December by Christians |
+| Sol Invictus                                                                                                                                                                                               | Jesus Christ                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Calls himself the ["Unconquered Sun"](https://bigthink.com/the-past/sol-invictus/)                                                                                                                         | Calls himself "the light"                                              |
+| [The birthday was celebrated on 25 December (Dies Natalis Solis Invicti)](https://mythology.net/roman/roman-gods/sol-invictus/)                                                                            | The birthday is still celebrated on 25 December by Christians          |
 | [The birthday mark the winter solstice and the sun's "rebirth" after its darkest period](https://www.nationalgeographic.com/history/article/christmas-jesus-birthday-ancient-rome-saturnalia-sol-invictus) | Some Christians believe Jesus was "rebirth" from God into a human form |
-| [Considered a "protector" by Roman soldiers](https://roman-empire.net/religion/sol/) | Considered a saviour by Christians |
+| [Considered a "protector" by Roman soldiers](https://roman-empire.net/religion/sol/)                                                                                                                       | Considered a saviour by Christians                                     |
 
-![Ceiling Mosaic - Christus helios, the mosaic of Sol in Mausoleum M, which is interpreted as Christ-Sol (Christ as the Sun).](christ_as_sol.jpg)
+![Ceiling Mosaic - Christus helios, the mosaic of Sol in Mausoleum M, which is interpreted as Christ-Sol (Christ as the Sun).](312-constantine/christ_as_sol.jpg)
 
 > "... it appeared an unworthy thing that in the celebration of this most holy feast we should follow the practice of the Jews, who have impiously defiled their hands with enormous sin, and are, therefore, deservedly afflicted with blindness of soul ... Let us then have nothing in common with the detestable Jewish crowd; for we have received from our Saviour a different way."
 
@@ -66,11 +66,11 @@ Constantine's true intent and dedication to Christianity is questionable:
 
 * The Arch of Constantine was carefully positioned to [align with the colossal statue of Sol Invictus](https://en.wikipedia.org/wiki/Sol_Invictus) by the Colosseum, so that Sol formed the dominant backdrop when seen from the direction of the main approach towards the arch.
 
-![Sol Invictus on Arch of Constantine](sol_invictus_on_arch.jpg)
+![Sol Invictus on Arch of Constantine](312-constantine/sol_invictus_on_arch.jpg)
 
 * Constantine's official [coinage continues to bear images of Sol Invictus](https://en.wikipedia.org/wiki/Sol_Invictus) until 325.
 
-![Sol standing facing, head left, right hand raised and holding globe in left](constantine_sol_coins.jpg)
+![Sol standing facing, head left, right hand raised and holding globe in left](312-constantine/constantine_sol_coins.jpg)
 
 * On 7 March 321, [Constantine decreed "DIES SOLIS"](https://sabbathsentinel.org/2016/10/13/constantine-march-321-ad/) which means "the day of the Sun", known today as "Sunday" – as the Roman day of rest: "On the venerable day of the Sun let the magistrates and people residing in cities rest, and let all workshops be closed."
 
@@ -102,7 +102,7 @@ Jews living in the Roman Empire were legally obliged to pay the [Fiscus Judaicus
 
 [Constantine's mother was Helena, a staunch Christian and one of the first pilgrims,](https://www.thecollector.com/who-was-constantine-the-great-and-accomplishments/) who has likely also influenced Constantine's decision to favour Christianity. [Legends say that Helena ordered a pagan temple that was built upon the site of Calvary to be torn down](https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I) and that the excavations led to the discovery of [the true cross](https://en.wikipedia.org/wiki/True_Cross), which became a symbol that is still visible in modern Christian churches.
 
-![Helena of Constantinople by Cima da Conegliano, 1495 (National Gallery of Art, Washington, D.C.)](helena_of_constantinople.jpg)
+![Helena of Constantinople by Cima da Conegliano, 1495 (National Gallery of Art, Washington, D.C.)](312-constantine/helena_of_constantinople.jpg)
 
 ## Church buildings
 
@@ -112,7 +112,7 @@ Before Constantine's reign, there was not much that distinguished Christian chur
 
 The [first known Christian church was built around 293 to 303 AD in Aqaba, Jordan](https://www.guinnessworldrecords.com/world-records/first-purpose-built-church/). Its walls were about 4.5 meters high, and it could initially hold 60 people.
 
-![Ruins of early church of Aqaba; rear, a Byzantine era city wall](aqaba_church.jpg)
+![Ruins of early church of Aqaba; rear, a Byzantine era city wall](312-constantine/aqaba_church.jpg)
 
 The exact reason why this church was originally built is unknown.
 
