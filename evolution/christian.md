@@ -1,13 +1,17 @@
 ---
 title: The first Christians
 description: "Explore the origins of the term 'Christian.' Was it a derogatory nickname from Antioch, or a divinely given title? This article examines the historical and scholarly debate."
-keywords: "first Christians, Antioch, origin of Christian, chrematisai, derogatory label, Christian name"
+keywords: "first Christians, Antioch, origin of Christian, chrematisai, derogatory label, Christian name, The Way"
 reviewed: true
 ---
 
 # The First Christians
 
 Have you ever wondered how the followers of Jesus came to be known as "Christians"? This article delves into the historical context and scholarly debate surrounding the origin of this globally recognized term, exploring whether it began as a casual descriptor, a derogatory label, or something else entirely.
+
+## Followers of "The Way"
+
+Before they were called Christians, the earliest followers of Jesus were known as followers of "The Way." This designation appears several times in the book of Acts. For instance, Saul (who later became the Apostle Paul) persecuted the church by seeking to arrest "any who were of the Way" (Acts 9:2). Later, in his own defense, Paul states, "I admit that I worship the God of our ancestors as a follower of the Way, which they call a sect" (Acts 24:14). This suggests that "The Way" was an early, self-identifying term for the nascent Christian community, emphasizing a new path of life and faith centered on Jesus's teachings. Jesus himself had declared, "I am the way and the truth and the life" (John 14:6), which likely served as the foundational inspiration for this name.
 
 ## The Nickname from Antioch
 
@@ -25,4 +29,4 @@ Regardless of its origin, the followers of Jesus quickly embraced the "Christian
 
 ## Conclusion
 
-The term "Christian" first emerged in [Antioch](#the-nickname-from-antioch) as a way to identify the followers of Jesus. While scholars debate whether it was [derogatory or descriptive](#a-derogatory-label-or-a-badge-of-honor), it is clear that early believers [fully embraced the name](#embracing-the-title) as their own, transforming it into the enduring identity of a global religion.
+Before being known as [Christians](#the-nickname-from-antioch), the first believers identified as followers of ["The Way."](#followers-of-the-way) The term "Christian" later emerged in Antioch, and while its origins are debated as either [derogatory or descriptive,](#a-derogatory-label-or-a-badge-of-honor) it was [embraced by the early church](#embracing-the-title) and became the enduring name for a global faith.
