@@ -1,6 +1,7 @@
 ---
 title: Constantine
 published: false
+reviewed: true
 description: Explore the complex legacy of Constantine the Great, who legitimized Christianity while merging it with Roman pagan traditions like Sol Invictus.
 keywords: Constantine the Great, Christianity, Sol Invictus, Edict of Milan, Council of Nicaea, church history, Roman Empire
 ---
@@ -48,7 +49,7 @@ Similarities between Sol Invictus and Jesus Christ:
 | -------------------------------------- | ---------------------------------------------------------------- |
 | Calls himself the ["Unconquered Sun"](https://bigthink.com/the-past/sol-invictus/) | Calls himself "the light" |
 | [The birthday was celebrated on 25 December (Dies Natalis Solis Invicti)](https://mythology.net/roman/roman-gods/sol-invictus/) | The birthday is still celebrated on 25 December by Christians |
-| [The birthday mark the winter solstice and the sun's "rebirth" after its darkest period](https://www.academia.edu/126448683/Sol_Invictus_The_Unconquered_Sun_and_the_Light_of_Eternity) | Some Christians belief Jesus was "rebirth" from God into a human form |
+| The birthday mark the winter solstice and the sun's "rebirth" after its darkest period | Some Christians believe Jesus was "rebirth" from God into a human form |
 | [Considered a "protector" by Roman soldiers](https://roman-empire.net/religion/sol/) | Considered a saviour by Christians |
 
 ![Ceiling Mosaic - Christus helios, the mosaic of Sol in Mausoleum M, which is interpreted as Christ-Sol (Christ as the Sun).](christ_as_sol.jpg)
@@ -59,7 +60,7 @@ Constantine's true intent and dedication to Christianity is questionable:
 
 ### Pagan examples
 
-* Constantine constructed a triumphal arch at Rome, but the inscription on ‘[The Arch of Constantine](https://en.wikipedia.org/wiki/Arch_of_Constantine)’ fails to mention Christianity, instead attributing the victory after the Milvian Bridge battle to [an unnamed ‘divine power’ and ‘the greatness of Constantine’s mind’](https://www.wondriumdaily.com/constantine-i-contributions-to-christianity-and-other-accomplishments/).
+* Constantine constructed a triumphal arch at Rome, but the inscription on ‘[The Arch of Constantine](https://en.wikipedia.org/wiki/Arch_of_Constantine)’ fails to mention Christianity, instead attributing the victory after the Milvian Bridge battle to an unnamed ‘divine power’ and ‘the greatness of Constantine’s mind’.
 
 * [Statuettes of Sol Invictus](https://en.wikipedia.org/wiki/Sol_Invictus), carried by the standard-bearers, also appear in three places in reliefs on the Arch of Constantine.
 
@@ -71,7 +72,7 @@ Constantine's true intent and dedication to Christianity is questionable:
 
 ![Sol standing facing, head left, right hand raised and holding globe in left](constantine_sol_coins.jpg)
 
-* On 7 March 321, [Constantine decreed "DIES SOLIS"](https://sabbathsentinel.org/2016/10/13/constantine-march-321-ad/) which means "the day of the Sun", known today as "Sunday" – as the Roman day of rest: "On the venerable day of the Sun let the magistrates and people residing in cities rest, and let all workshops be closed."
+* On 7 March 321, [Constantine decreed "DIES SOLIS"](https://sabbathsentinel.org/2016/10/13/constantine-march-321-ad/) which means "the day of the Sun", known today as "Sunday." He declared it the Roman day of rest: "On the venerable day of the Sun let the magistrates and people residing in cities rest, and let all workshops be closed."
 
 [This is why our weekdays are named](https://en.wikipedia.org/wiki/Names_of_the_days_of_the_week):
 
@@ -85,9 +86,25 @@ Constantine's true intent and dedication to Christianity is questionable:
 | Friday    | dies Veneris  | Frigg, the Germanic goddess / Venus the Roman goddess |
 | Saturday  | dies Saturn   | Saturn, the Roman god                                 |
 
-### Resistance against the merge
+### Resistance Against the Merge
 
-[Around 321 AD, Arius, a presbyter in Alexandria was excommunicated by his bishop](https://www.johnsanidopoulos.com/2019/05/saint-alexander-patriarch-of-alexandria.html), Alexander, because Arius taught that Christ was the Son of God and not of the same substance as God the Father. This teaching clashed with the Trinity doctrine, which taught that the Son and the Father are equal and the same.
+The merging of Christian and pagan traditions did not go unchallenged. One of the most significant theological controversies of the era was Arianism, which directly questioned the nature of Christ and his relationship to God the Father.
+
+[Around 321 AD, Arius, a presbyter in Alexandria, was excommunicated by his bishop](https://www.johnsanidopoulos.com/2019/05/saint-alexander-patriarch-of-alexandria.html), Alexander, because Arius taught that Christ was the Son of God, created by God the Father, and therefore not co-eternal or of the same substance as the Father. This teaching, known as Arianism, gained a significant following and clashed with the emerging Trinitarian doctrine, which held that the Son and the Father are equal and of the same substance.
+
+#### The Council of Nicaea
+
+To address the growing division caused by the Arian controversy, Constantine convened the [First Council of Nicaea in 325 AD](https://en.wikipedia.org/wiki/First_Council_of_Nicaea). This was the first ecumenical council of the Christian church, bringing together bishops from across the Roman Empire.
+
+The council's primary purpose was to settle the debate over the nature of Christ. After much deliberation, the council condemned Arianism as heresy and formulated the Nicene Creed, which affirmed the Trinitarian belief that the Son is "of one substance with the Father" (*homoousios*).
+
+The Council of Nicaea was a pivotal moment in Christian history. It not only established the foundational doctrine of the Trinity but also set a precedent for future emperors' involvement in church affairs, further solidifying the alliance between the church and the Roman state.
+
+> For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
+>
+> — 1 John 5:7 (KJV)
+
+This verse is often cited as a direct reference to the Trinity, although its interpretation is a subject of ongoing scholarly debate.
 
 ## Anti-Judaic legislation
 
