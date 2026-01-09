@@ -1,11 +1,9 @@
 ---
-title: The first Christians
 description: "Explore the origins of the term 'Christian.' Was it a derogatory nickname from Antioch, or a divinely given title? This article examines the historical and scholarly debate."
 keywords: "first Christians, Antioch, origin of Christian, chrematisai, derogatory label, Christian name, The Way"
-reviewed: true
 ---
 
-# The First Christians
+# 1st Century (First Christians)
 
 Have you ever wondered how the followers of Jesus came to be known as "Christians"? This article delves into the historical context and scholarly debate surrounding the origin of this globally recognized term, exploring whether it began as a casual descriptor, a derogatory label, or something else entirely.
 
