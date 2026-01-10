@@ -1,14 +1,34 @@
 ---
 title: Montanism
+description: Explore Montanism, a 2nd-century movement that challenged the early church with new prophecies and a strict moral code. Discover its origins and impact.
+keywords: Montanism, Montanus, New Prophecy, early Christianity, church history, Phrygia, Priscilla, Maximilla, Tertullian, heresy
+reviewed: true
 ---
 
-In 156 AD, [Montanus](https://www.britannica.com/biography/Montanus-religious-leader) converted to Christianity in Ardabau, a small village in [Phrygia](https://www.britannica.com/place/Phrygia) in [Asia Minor](https://www.britannica.com/place/Anatolia) (modern Turkey). He fell into a trance and began to "prophesy under the influence of the Spirit" and was soon joined by two young women, Prisca (or Priscilla), and Maximilla, who also began to prophesy. They called themselves, "the Three". Montanus claimed to be [the embodiment of the "Spirit of the Truth"](https://www.gotquestions.org/montanism.html) and claimed that Jesus continued to give him new and more advanced revelations which the church had to accept. This was considered heretical by the mainstream Christian Church of that time.
+# Montanism
 
-[Montanism taught](https://www.britannica.com/topic/Montanism):
-* Legalistic moral rigorism: The Montanists did indeed emphasise strict adherence to moral codes and taught that Christians should strive for a higher level of spiritual perfection.
-* Lengthened fasting times: They advocated for longer periods of fasting, which was seen as a way to mortify the flesh and demonstrate devotion to God.
-* Forbidding flight from martyrdom: [The Montanists forbade fleeing from persecution](https://www.newadvent.org/cathen/10521a.htm), believing that [Christians should accept martyrdom](https://www.thegospelcoalition.org/themelios/article/why-were-the-montanists-condemned/) rather than escape. [Flight from persecution was considered unlawful](https://www.gotquestions.org/montanism.html), contrasting with orthodox teaching that permitted flight (Matthew 10:23).
-* Discouraging marriage: Some Montanist leaders taught that married life was not essential to Christian living, which led to a rejection of marriage and family life by some of their adherents.
-* Prohibition on second marriages: The Montanists also prohibited remarriage after the death of one's spouse or divorce, believing that this helped to maintain purity of heart and dedication to God.
+What happens when a new prophetic movement emerges within the church, claiming to receive direct revelations from God? In the 2nd century AD, a movement known as Montanism posed this very challenge to early Christianity, forcing the church to confront questions of authority, revelation, and the ongoing work of the Holy Spirit.
 
-Although [Montanism gradually disappeared between the 5th and 9th centuries](https://www.britannica.com/topic/Montanism) and the church rejected these teachings, it still [influenced the Christian church's theology](/kingdom/church/history/tertullian), apostolic traditions, authoritative roles and encouraged the church to canonise bible scriptures to define clear boundaries between "divine revelation" and "heretical movements".
+## The Origins of the New Prophecy
+
+Around 156 AD in the region of Phrygia (modern-day Turkey), a recent convert to Christianity named [Montanus](https://www.britannica.com/biography/Montanus-religious-leader) fell into a trance and began to prophesy. He was soon joined by two women, Prisca (or Priscilla) and Maximilla, who also claimed to receive divine revelations in a similar ecstatic state. Together, they referred to themselves as "the Three" and their movement became known as the New Prophecy.
+
+Montanus claimed to be [the embodiment of the "Spirit of the Truth"](https://www.gotquestions.org/montanism.html), asserting that his revelations were new and more advanced teachings from Jesus that the church was obligated to accept. This claim to ongoing, authoritative revelation outside of the established apostolic tradition was a direct challenge to the early church's leadership and was ultimately deemed heretical.
+
+## Core Teachings of Montanism
+
+The teachings of [Montanism](https://www.britannica.com/topic/Montanism) were characterized by a focus on legalistic moral rigorism and spiritual purity. Adherents were called to a higher level of spiritual perfection, which was demonstrated through practices such as:
+
+*   **Lengthened fasting times** to mortify the flesh and show devotion.
+*   **A strict stance on martyrdom**, forbidding followers from fleeing persecution. [The Montanists believed](https://www.newadvent.org/cathen/10521a.htm) that [Christians should embrace martyrdom](https://www.thegospelcoalition.org/themelios/article/why-were-the-montanists-condemned/) rather than escape it, a view that contrasted with the orthodox teaching that permitted flight (Matthew 10:23).
+*   **Discouraging marriage** and prohibiting second marriages after the death of a spouse or divorce, which was seen as a way to maintain purity and dedication to God.
+
+## The Church's Response and Lasting Impact
+
+Although [Montanism gradually disappeared between the 5th and 9th centuries](https://www.britannica.com/topic/Montanism), its influence on the Christian church was significant. The movement's claims to new revelation and its challenge to ecclesiastical authority pushed the church to more formally define the boundaries of orthodox belief. This led to a greater emphasis on the authority of apostolic traditions and helped to accelerate the canonization of the biblical scriptures as a closed and final source of divine revelation.
+
+The New Prophecy also attracted notable figures, including the influential church father [Tertullian](tertullian.draft.md), whose later writings were heavily shaped by Montanist teachings on ethics and church discipline.
+
+## Conclusion
+
+Montanism emerged in the 2nd century as a prophetic movement that challenged the early church's understanding of [divine revelation and authority](#the-origins-of-the-new-prophecy). Its [emphasis on moral rigorism and martyrdom](#core-teachings-of-montanism) set it apart from mainstream Christianity, and while the movement was ultimately rejected as heretical, it left a [lasting impact on Christian theology and the formation of the biblical canon](#the-churchs-response-and-lasting-impact).
