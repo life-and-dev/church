@@ -10,7 +10,7 @@ Have you ever wondered how the Bible was preserved and transmitted through the c
 
 ## The Need for a New Translation
 
-At the time [the Gospels](/bible/books) was written, [the Jews used Koine Greek, especially in the Septuagint, to communicate with Gentiles](https://en.wikipedia.org/wiki/Jewish_Koine_Greek). [Koine Greek was the lingua franca of the Eastern Mediterranean following Alexander the Great's conquests.](https://bibleinterp.arizona.edu/articles/2015/09/gle398009) However, in the Western Roman Empire, Latin was the common tongue. As the Church grew, there was a growing need for a standardized and reliable Latin version of the Scriptures.
+At the time [the Gospels](https://word.ofgod.info/books) was written, [the Jews used Koine Greek, especially in the Septuagint, to communicate with Gentiles](https://en.wikipedia.org/wiki/Jewish_Koine_Greek). [Koine Greek was the lingua franca of the Eastern Mediterranean following Alexander the Great's conquests.](https://bibleinterp.arizona.edu/articles/2015/09/gle398009) However, in the Western Roman Empire, Latin was the common tongue. As the Church grew, there was a growing need for a standardized and reliable Latin version of the Scriptures.
 
 ## Jerome's Monumental Task
 
@@ -18,11 +18,11 @@ Therefore, [in 382 AD, the Bible (Vulgate) was translated into Latin by St. Jero
 
 ## Theological Influences
 
-St. Jerome was a staunch supporter of [Nicene orthodoxy](/kingdom/church/history/state-religion), which upheld [the doctrine of the Trinity](/bible/doctrines/trinitarian) and opposed [Arianism](/kingdom/church/history/arianism). Some scholars suggest that his theological commitments may have influenced his translation choices in theologically ambiguous passages.
+St. Jerome was a staunch supporter of [Nicene orthodoxy](380-state-religion.md), which upheld [the doctrine of the Trinity](https://son.ofgod.info/trinity) and opposed [Arianism](337-arianism.md). Some scholars suggest that his theological commitments may have influenced his translation choices in theologically ambiguous passages.
 
 ## Legacy and Impact
 
-This translation eventually became [the standard Latin version of the Bible](https://en.wikipedia.org/wiki/Vulgate) for the Western churches where [Latin gradually became a prominent language](https://bibleinterp.arizona.edu/articles/2015/09/gle398009) under Roman rule. Many early vernacular [translations](/bible/translations), such as [the Wycliffe Bible](https://en.wikipedia.org/wiki/John_Wycliffe) (the first Middle English translation) and the Douay-Rheims Bible, were directly based on the Vulgate. This English translation remained the standard for Roman Catholics until the 20th century. Likewise, many other modern Catholic Bible translations, including the Confraternity Bible (1941), Knox Bible (1945), Jerusalem Bible (1966), RSV-CE (1966), Nova Vulgata (1979), and NRSV-CE (1989), also used the Vulgate as a source.
+This translation eventually became [the standard Latin version of the Bible](https://en.wikipedia.org/wiki/Vulgate) for the Western churches where [Latin gradually became a prominent language](https://bibleinterp.arizona.edu/articles/2015/09/gle398009) under Roman rule. Many early vernacular [translations](https://word.ofgod.info/translations), such as [the Wycliffe Bible](https://en.wikipedia.org/wiki/John_Wycliffe) (the first Middle English translation) and the Douay-Rheims Bible, were directly based on the Vulgate. This English translation remained the standard for Roman Catholics until the 20th century. Likewise, many other modern Catholic Bible translations, including the Confraternity Bible (1941), Knox Bible (1945), Jerusalem Bible (1966), RSV-CE (1966), Nova Vulgata (1979), and NRSV-CE (1989), also used the Vulgate as a source.
 
 ## Conclusion
 
