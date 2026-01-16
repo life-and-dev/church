@@ -27,9 +27,7 @@ The teachings of Montanism presented a vision of the Christian faith that was in
 
 ## Lasting Impact and Legacy
 
-Although [Montanism gradually disappeared between the 5th and 9th centuries](https://www.britannica.com/topic/Montanism) and the church rejected these teachings, it still [influenced the Christian church's theology](/kingdom/church/history/tertullian.md), apostolic traditions, authoritative roles and encouraged the church to canonise bible scriptures to define clear boundaries between "divine revelation" and "heretical movements". The movement's emphasis on the Holy Spirit's continuing work and its call for a higher standard of Christian living left a lasting mark on the church, prompting it to formalize its doctrines and canon of scripture.
-
----
+Although [Montanism gradually disappeared between the 5th and 9th centuries](https://www.britannica.com/topic/Montanism) and the church rejected these teachings, it still influenced the Christian church's theology, apostolic traditions, authoritative roles and encouraged the church to canonise bible scriptures to define clear boundaries between "divine revelation" and "heretical movements". The movement's emphasis on the Holy Spirit's continuing work and its call for a higher standard of Christian living left a lasting mark on the church, prompting it to formalize its doctrines and canon of scripture.
 
 ## Conclusion
 
