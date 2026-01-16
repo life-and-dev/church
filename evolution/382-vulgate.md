@@ -1,10 +1,9 @@
 ---
-title: The Vulgate Bible
 description: For over 1,000 years, one Bible shaped Western Christianity. Explore the story of the Vulgate, St. Jerome's Latin translation, and its enduring impact on faith.
 keywords: vulgate, st jerome, latin bible, bible translation history, pope damascus i, vetus latina, septuagint, nicene orthodoxy
-published: true
 ---
-# The Vulgate: A Bible for the People
+
+# 382 (Vulgate Bible)
 
 Have you ever wondered how the Bible was preserved and transmitted through the centuries? For over a thousand years, one Latin translation stood as the authoritative text for Western Christianity. This article explores the history and impact of the Vulgate, a monumental work that shaped the language of faith for generations.
 
