@@ -1,10 +1,9 @@
 ---
-title: Montanism
 description: "Explore Montanism, an early Christian movement that challenged the church with new prophecies and strict moral codes. Discover its origins, teachings, and lasting impact."
 keywords: ["Montanism", "New Prophecy", "Montanus", "Prisca", "Maximilla", "Phrygian heresy", "early Christian movements", "prophetic revelation"]
 ---
 
-# Montanism
+# 156 (Montanism)
 
 In the 2nd century, a controversial movement known as Montanism emerged, challenging the early Christian church with claims of new, divine revelations. This movement, founded by a man named Montanus and two prophetesses, Prisca and Maximilla, questioned the finality of apostolic teaching and introduced a set of rigorous moral and ascetic demands. What was it about Montanism that both attracted followers and drew condemnation from the wider church?
 
