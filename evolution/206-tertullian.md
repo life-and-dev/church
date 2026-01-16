@@ -1,10 +1,9 @@
 ---
-title: Tertullian
 description: Explore the theological contributions of Tertullian, the early Christian author who coined the term 'Trinity' and shaped Western theology.
 keywords: [Tertullian, Trinity, Trinitas, substantia, persona, subordinationism, Montanism, early Church Fathers]
 ---
 
-# Tertullian
+# 206 (Tertullian)
 
 Tertullian, a prolific early Christian author, left an indelible mark on Western theology. But how did this trained Roman lawyer, who later in life adopted the controversial Montanist movement, come to shape foundational Christian doctrines? This article explores his most significant contributions, from coining the term "Trinity" to his views on church structure, and examines which of his ideas were embraced and which were ultimately rejected by the Church.
 

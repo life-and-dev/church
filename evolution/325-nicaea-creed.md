@@ -17,7 +17,7 @@ Therefore, the church leaders gathered in 325 AD at [the council of Nicaea](http
  
 One of the council's challenges was to determine how to reconcile the divinity of Jesus Christ with monotheism (belief in one God). The solution was to define [the concept of the Trinity](https://son.ofgod.info/trinity), which posits that God exists as three persons (Father, Son, and Holy Spirit) but is one being. This allowed Christians to maintain their monotheistic beliefs while also acknowledging the divinity of Jesus Christ. 
  
-At that time, the Trinity was already a familiar concept, first used by Tertullian about a century earlier. However, Christians initially rejected his doctrine in fear of polytheism (worship of multiple gods). Therefore, the council had to carefully and clearly define the Trinity to avoid misunderstandings. 
+At that time, the Trinity was already a familiar concept, first used by [Tertullian](206-tertullian.md) about a century earlier. However, Christians initially rejected his doctrine in fear of polytheism (worship of multiple gods). Therefore, the council had to carefully and clearly define the Trinity to avoid misunderstandings. 
  
 This led to the establishment of [the Nicene Creed](https://www.fourthcentury.com/urkunde-24/), which declared:
 
