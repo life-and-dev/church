@@ -33,7 +33,7 @@ To summarise, according to Tertullian, the unity of God can be explained as:
 
 ## Ecclesiastical Views
 
-In addition, Tertullian supported the following views, which were initially debated but eventually adopted by the Roman Catholic Church:
+In addition, Tertullian supported the following views, which were adopted by the Catholic Church:
 
 *   [**Apostolic succession**](https://en.wikipedia.org/wiki/Apostolic_succession): The belief that the ministry of the Christian Church is derived from the apostles through a continuous succession, usually associated with a line of bishops.
 *   **The Eucharist**: He affirmed the significance of the [Eucharist](https://en.wikipedia.org/wiki/Lord%27s_Supper_in_Reformed_theology) in Christian worship.
