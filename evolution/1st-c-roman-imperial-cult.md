@@ -1,15 +1,13 @@
 ---
-title: The Roman Imperial Cult
-published: true
 description: "Explore the Roman Imperial Cult, where emperors were deified, and its impact on early Christians, who faced persecution for refusing to worship the emperors."
 keywords: ["Roman Imperial Cult", "emperor worship", "deification", "early Christianity", "Nero", "persecution"]
 ---
 
-# The Roman Imperial Cult and its Impact on Early Christianity
+# 1st Century (Roman Imperial Cult)
 
 The deification of rulers in the early Roman Empire created a state-sanctioned religion known as the Roman Imperial Cult. This article explores the origins of this cult, its key figures, and the profound impact it had on the nascent Christian faith, leading to widespread persecution.
 
-![Remains of the temple of Julius Caesar, seen from the back.](temple_of_julius_caesar.jpg)
+![Remains of the temple of Julius Caesar, seen from the back.](1st-c-roman-imperial-cult.temple_of_julius_caesar.jpg)
 
 ## The Divine Emperors
 
@@ -24,7 +22,7 @@ The deification of rulers in the early Roman Empire created a state-sanctioned r
 This established an imperial cult with a close association between political power and religion authority. Not surprisingly, the Romans named the months after these gods in [the Roman Calendar](https://en.wikipedia.org/wiki/Roman_calendar) which was later converted to [the Julian Calendar](https://en.wikipedia.org/wiki/Julian_calendar) (Julius Caesar's Calendar):
 
 | English   | Name of god                                                                                                                           |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------|
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | January   | [Janus](https://en.wikipedia.org/wiki/Janus_(god)), the Roman god of beginnings and endings                                           |
 | February  | [Februus](https://simple.wikipedia.org/wiki/Februus), the Roman god of purification of the underworld                                 |
 | March     | [Mars](https://en.wikipedia.org/wiki/Mars_(god)), the Roman god of war                                                                |
