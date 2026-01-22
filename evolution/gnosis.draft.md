@@ -25,20 +25,17 @@ Gnostic philosophy is complex, with many variations, but some common themes incl
 
 These ideas were in sharp contrast to the teachings of the emerging proto-orthodox Christian church, which condemned them as "heresy."
 
-## Gnosticism and Christianity: Influence or Coincidence?
+## Contrasts with Mainstream Christianity
 
-The relationship between Gnosticism and early Christianity is a subject of ongoing scholarly debate. While some argue that Gnosticism was a Christian heresy, others suggest it may have been a separate, pre-Christian movement that later incorporated Christian elements. The following table highlights some of the conceptual parallels that have led to this discussion:
+While Gnosticism and early Christianity coexisted and sometimes used similar language, their core tenets were fundamentally opposed, leading the [proto-orthodox church to condemn Gnosticism as heresy](https://en.wikipedia.org/wiki/Gnosticism#Relation_with_early_Christianity). These differences created starkly different worldviews with varying societal implications.
 
-| Gnosticism                                                                    | Mainstream Christianity                                                                |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| The divine realm (Pleroma) is inhabited by spiritual beings called aeons.       | God resides in Heaven, and is attended by angels.                                      |
-| Aeons are emanations from a single, ultimate God.                               | The Godhead consists of three persons: the Father, the Son, and the Holy Spirit.       |
-| Jesus is a divine being, an aeon, sent from the Pleroma to aid humanity.        | Jesus is the Son of God, sent from Heaven to save humanity.                            |
-| The highest aeons can act as mediators to God.                                  | Jesus acts as the sole mediator between God and humanity.                              |
-| Salvation is achieved through gnosis (secret knowledge).                        | Salvation is achieved through faith in Jesus Christ.                                   |
-| The Gnostic cross symbol.                                                     | The Christian cross symbol.                                                            |
-
-*Note: This table highlights general themes. Beliefs varied significantly among different Gnostic and Christian groups.*
+| Aspect | Gnosticism | Mainstream Christianity |
+| --- | --- | --- |
+| **Nature of God** | The ultimate God is remote, unknowable, and entirely separate from the flawed material world. A lesser, ignorant, or malevolent being (the demiurge) created the universe. | God is a personal, loving creator who is actively involved in His creation. He is both transcendent and immanent. ([Genesis 1](https://www.biblegateway.com/passage/?search=Genesis+1&version=ESV), [John 3:16](https://www.biblegateway.com/passage/?search=John+3%3A16&version=ESV)) |
+| **Creation** | The material world is seen as a prison, inherently flawed or evil, created as a mistake by the demiurge. | Creation is inherently good, a deliberate act of God. The world is fallen due to human sin, but it is not intrinsically evil. ([Genesis 1:31](https://www.biblegateway.com/passage/?search=Genesis+1%3A31&version=ESV)) |
+| **Salvation** | Salvation is achieved by a select few through *gnosis*—a secret, esoteric knowledge that awakens the divine spark within, allowing the soul to escape the material prison. It is a path of self-liberation. | Salvation is a gift from God, open to all through faith in the sacrificial death and resurrection of Jesus Christ. It is not earned through secret knowledge but received through grace. ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=ESV)) |
+| **Jesus Christ** | Christ is often viewed as a purely spiritual being or an emissary of the high God who only appeared to be human (a belief known as [docetism](https://en.wikipedia.org/wiki/Docetism)). His purpose was to impart gnosis. | Jesus Christ is both fully God and fully human, the Word made flesh. His physical suffering and bodily resurrection are central to salvation. ([John 1:14](https://www.biblegateway.com/passage/?search=John+1%3A14&version=ESV)) |
+| **Societal View**| Tended towards asceticism and withdrawal from the world, which was seen as an evil trap. Engagement in society, family, and procreation was often viewed negatively as it perpetuated entrapment in the material world. | Teaches believers to be "in the world, but not of the world," engaging with and serving society as "salt and light." Affirms marriage, family, and stewardship of the created world. ([Matthew 5:13-16](https://www.biblegateway.com/passage/?search=Matthew+5%3A13-16&version=ESV)) |
 
 ![Gnostic cross on the left compared with the Byzantine Christian cross on the right](gnosis.crosses.webp "Gnostic and Byzantine Crosses")
 
@@ -46,4 +43,4 @@ The relationship between Gnosticism and early Christianity is a subject of ongoi
 
 ## Conclusion
 
-The Gnostics represented a diverse and fascinating branch of early spiritual thought that challenged the developing doctrines of mainstream Christianity. While ultimately condemned as heresy, [Gnosticism's complex mythology](./#core-gnostic-beliefs) and emphasis on [secret knowledge](./#core-gnostic-beliefs) offer a glimpse into the vibrant and often contentious world of early Christianities. The debate over its [origins and influence](./#simon-magus-and-gnosticism) continues to this day, reminding us that the story of early Christianity is more complex than is often assumed.
+Gnosticism presented a distinct and [competing worldview](./#contrasts-with-mainstream-christianity) to that of early Christianity. While it addressed similar questions of origin, suffering, and salvation, its answers were fundamentally different. Its emphasis on a [remote God, a flawed creation, and salvation through secret knowledge](./#core-gnostic-beliefs) stood in stark contrast to the emerging Christian orthodoxy of a personal God, a good creation, and salvation through faith in Christ. Though ultimately labeled a heresy and marginalized, Gnosticism remains a significant example of the diverse spiritual philosophies that competed for followers in the ancient world.
