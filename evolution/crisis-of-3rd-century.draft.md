@@ -20,7 +20,25 @@ By this time emperors were no longer claiming to be divine. However, it was stil
 In 274 AD, the Roman [emperor Aurelian](https://en.wikipedia.org/wiki/Aurelian) established the cult of [Sol Invictus](https://en.wikipedia.org/wiki/Sol_Invictus) ("Unconquered Sun") as an official religion, alongside the traditional Roman cults. [While tradition claims a temple dedication on December 25, 274](https://www.thecollector.com/cult-sol-invictus-roman-empire/), modern scholars dispute this specific date, [noting limited evidence for a December 25 Sol festival before the mid-4th century](https://medium.com/christian-history-and-culture/why-is-christmas-on-december-25-7b7b6334fd84).
 
 <a name="diocletian"></a>
-The Crisis of the Third Century only [ended when Diocletian became emperor](https://www.thecollector.com/what-was-the-crisis-of-the-third-century/) in 284. Diocletian stabilized the empire with a co-emperor system and clear lines of succession and governance. 
+The Crisis of the Third Century only [ended when Diocletian became emperor](https://www.thecollector.com/what-was-the-crisis-of-the-third-century/) in 284. To address the empire's vast challenges, Diocletian implemented a series of sweeping reforms that fundamentally restructured the Roman government, military, and economy.
+
+### Shift in Imperial Divinity
+
+After the crisis, the perception of the emperor's divinity underwent a significant transformation. Instead of being worshipped as gods themselves, emperors like Diocletian positioned themselves as chosen instruments of the divine. Diocletian, for example, adopted the title "Jovius," linking himself to the god Jupiter, not as a deity but as the god's earthly representative. This ideological shift helped legitimize imperial authority by grounding it in divine sanction, moving away from the chaotic cycle of military acclamations that defined the crisis. This new form of rule, known as the Dominate, emphasized the emperor's supreme and autocratic power, a stark contrast to the earlier Principate's illusion of shared governance with the Senate.
+
+### Political and Administrative Reforms
+
+Diocletian's most famous reform was the creation of the [Tetrarchy, or "rule of four"](https://en.wikipedia.org/wiki/Diocletian#Tetrarchy). Recognizing that the empire was too large for one person to govern effectively, he appointed Maximian as a co-emperor (Augustus) in the West, while he ruled the East. Later, he appointed two junior emperors (Caesars), Galerius and Constantius, creating a system of succession and dividing the empire's administrative and military burdens.
+
+To further centralize control and reduce the power of provincial governors, Diocletian [doubled the number of provinces to almost 100](https://en.wikipedia.org/wiki/Diocletian#Administrative) and grouped them into twelve dioceses. He also separated civil and military authority, ensuring that no single individual could command both an army and the resources of a wealthy province—a common recipe for usurpation during the crisis.
+
+### Military Expansion
+
+Under Diocletian, the Roman army was significantly [enlarged and reorganized](https://en.wikipedia.org/wiki/Diocletian#Military) to better defend its vast frontiers. He increased the number of legions and established a network of new forts and roads, including the *Strata Diocletiana* in the east, to improve communication and rapid deployment of troops. This expansion helped secure the borders against barbarian incursions and restored a sense of security after decades of constant threat.
+
+### Economic Stabilization
+
+To fund the expanded army and bureaucracy, Diocletian instituted a [comprehensive tax reform](https://en.wikipedia.org/wiki/Diocletian#Taxation) based on a regular census of population (*capita*) and land (*iuga*). This new system created a more predictable and stable source of revenue for the state, replacing the chaotic and often corrupt system of requisitions that had prevailed during the crisis. He also attempted to combat hyperinflation by issuing the [Edict on Maximum Prices in 301](https://en.wikipedia.org/wiki/Edict_on_Maximum_Prices), which set fixed prices for thousands of goods and services. Though the edict was largely unenforceable and ultimately failed, it represented an unprecedented effort to bring the empire's spiraling economy under control.
 
 ## Conclusion
 
