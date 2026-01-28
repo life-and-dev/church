@@ -1,37 +1,52 @@
 ---
 title: The Gnostics
 published: true
+description: Explores the mystical world of Gnosticism, a historical counterpart to early Christianity. Delve into its origins, core beliefs, and surprising parallels.
+keywords: Gnosticism, early Christianity, Simon Magus, Gnostic beliefs, Christian doctrine, heresy, dualism, emanations, demiurge
+reviewed: true
 ---
 
-Acts 8:9-24 possibly refers to [Simon Magus](https://en.wikipedia.org/wiki/Simon_Magus) as a Gnostic teacher. Whether he originated [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism) is debatable, however from this we can see the Gnosticism was already active when [the first Christian gatherings](/kingdom/church/history/christian) was formed.
+What if the early Christian church wasn't the only interpretation of Jesus' teachings? What if another, more mystical movement existed alongside it, one that saw the material world as a prison and salvation as a secret knowledge? This was the world of the Gnostics, a diverse group of thinkers who challenged the very foundations of what would become mainstream Christianity. This article explores the origins, core beliefs, and the surprising parallels between these two ancient faiths.
 
-Like [Christianity](/kingdom/church/history/christian), Gnosis also originates from the Middle East.
+## Origins
 
-In short gnostic philosophers reason:
+Acts 8:9-24 possibly refers to [Simon Magus](https://en.wikipedia.org/wiki/Simon_Magus) as a Gnostic teacher. Whether he originated [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism) is debatable, however from this we can see that Gnosticism was already active when the first Christian gatherings were formed.
 
-* There is a good spiritual world and an evil or flawed material world
-* Living beings are emanations (smaller material manifestation) of the same God
-* Human souls are fallen sparks of divine (emanations), trapped in the material world created by the evil demiurge (the God of the Old Testament)
+Like Christianity, Gnosis also originates from the Middle East.
 
-The original christian church rejected these philosophies as "heresy".
+## Core Beliefs
 
-However, some of Gnostic ideas could have potentially influenced Christianity, for example:
+In short, gnostic philosophers reason:
 
-| Gnosticism                                                                     | Christianity                                                                        |
-|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| There are many aeons within one God.                                           | There are three members within one [godhead](/bible/concepts/godhead).              |
-| Aeons are emanations of one God.                                               | Members of the godhead are of the same substance of one God.                        |
-| Jesus is an Aeon, an emanation of God.                                         | [Jesus](/god/son) is a member of the godhead.                                       |
-| God resides in the Pleroma.                                                    | God resides in the [Heaven](/bible/concepts/heaven).                                |
-| The highest aeons may act as a mediators to God.                               | [The exalted Son (Jesus)](/god/son/essence/as-god/lord), acts as a mediator to God. |
-| Only the mediator can bridge the gap between the material and spiritual world. | [We need to pray through Jesus](/life/prayer), our mediator, to God.                |
-| Jesus was sent from the Pleroma to aid humanity.                               | Jesus was sent [from Heaven](/bible/idioms) to aid humanity.                        | 
-| Jesus appeared as a human, but was still an Aeon.                              | [Jesus appeared as a human](/god/son/essence), but was 100% God at the same time.   |
-| You need to have enough gnosis (secret knowledge) for salvation.               | Your need to have enough [faith](/life/faith) for [salvation](/eternal/saved).      |
-| The Gnostic cross symbol                                                       | [The Christian cross symbol.](/bible/symbolism/cross)                               |
+*   There is a good spiritual world and an evil or flawed material world.
+*   Living beings are emanations (smaller material manifestations) of the same God.
+*   Human souls are fallen sparks of the divine (emanations), trapped in the material world created by an evil demiurge (often identified with the God of the Old Testament).
+
+The early Christian church rejected these philosophies as "heresy."
+
+## Parallels with Christian Doctrine
+
+However, some Gnostic ideas could have potentially influenced Christianity. The following table highlights some of these parallels:
+
+| Gnosticism | Christianity |
+| --- | --- |
+| There are many aeons within one God. | There are three members within one godhead. |
+| Aeons are emanations of one God. | Members of the godhead are of the same substance of one God. |
+| Jesus is an Aeon, an emanation of God. | Jesus is a member of the godhead. |
+| God resides in the Pleroma. | God resides in the Heaven. |
+| The highest aeons may act as mediators to God. | The exalted Son (Jesus), acts as a mediator to God. |
+| Only the mediator can bridge the gap between the material and spiritual world. | We need to pray through Jesus, our mediator, to God. |
+| Jesus was sent from the Pleroma to aid humanity. | Jesus was sent from Heaven to aid humanity. |
+| Jesus appeared as a human but was still an Aeon. | Jesus appeared as a human, but was 100% God at the same time. |
+| You need to have enough gnosis (secret knowledge) for salvation. | Your need to have enough faith for salvation. |
+| The Gnostic cross symbol. | The Christian cross symbol. |
 
 *Note that not all gnostics and christians share the same views. This table only highlights where these religions could have influenced each other's views.*
 
-![Cross symbol comparison](crosses.webp)
+![A comparison of the Gnostic cross on the left and the Byzantine Christian cross on the right.](gnosis.cross-comparison.webp)
 
-*Gnostic cross on the left compared with the Byzantine Christian cross on the right*
+*Gnostic cross (left) and Byzantine Christian cross (right).*
+
+## Conclusion
+
+Gnosticism presented a significant, alternative spiritual path in the early centuries of the common era. While its [origins](#origins) are debated, its [core beliefs](#core-beliefs) centered on a dualistic worldview and the pursuit of secret knowledge. Despite being labeled a heresy by the early church, Gnosticism shares some intriguing [parallels with Christian doctrine](#parallels-with-christian-doctrine), suggesting a complex and intertwined history.
