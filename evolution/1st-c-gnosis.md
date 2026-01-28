@@ -4,6 +4,8 @@ keywords: Gnosticism, early Christianity, Simon Magus, Gnostic beliefs, Christia
 reviewed: true
 ---
 
+# 1st Century (Gnosis)
+
 What if the early Christian church wasn't the only interpretation of Jesus' teachings? What if another, more mystical movement existed alongside it, one that saw the material world as a prison and salvation as a secret knowledge? This was the world of the Gnostics, a diverse group of thinkers who challenged the very foundations of what would become mainstream Christianity. This article explores the origins, core beliefs, and the surprising parallels between these two ancient faiths.
 
 ## Origins
