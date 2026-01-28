@@ -1,11 +1,9 @@
 ---
-title: Valentine's Day
-published: true
 description: "Explore the complex history of Valentine's Day, from its debated pagan roots in Lupercalia to the Christian martyr who inspired its name."
 keywords: "Valentine's Day history, Lupercalia, Saint Valentine, Pope Gelasius I, Christianization of pagan festivals, origin of Valentine's Day"
 ---
 
-# The Evolution of Valentine's Day
+# 494 (Valentine's Day)
 
 Every February 14th, many celebrate a day of love and romance, but few know the complex and centuries-old story behind Valentine's Day. Was it a Christian replacement for a wild pagan festival, or does its origin lie with a martyred saint? This article explores the historical threads that wove together to create the holiday we know today.
 
