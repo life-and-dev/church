@@ -1,23 +1,7 @@
 ---
-title: The Dark Ages
-published: true
 reviewed: true
 description: "This article explores the key events of the Dark Ages, from the split of the Roman Empire to the fall of the Arian nations, and how they reshaped Europe."
-keywords:
-    - Dark Ages
-    - Roman Empire split
-    - fall of Western Roman Empire
-    - Arian nations
-    - Theodosius I
-    - Odovacar
-    - Germanic kingdoms
-    - Byzantine Empire
-    - Visigoths
-    - Vandals
-    - Ostrogoths
-    - Lombards
-    - Arianism
-    - Nicene orthodoxy
+keywords: Dark Ages, Roman Empire split, fall of Western Roman Empire, Arian nations, Theodosius I, Odovacar, Germanic kingdoms, Byzantine Empire, Visigoths, Vandals, Ostrogoths, Lombards, Arianism, Nicene orthodoxy
 ---
 
 # The Dark Ages
