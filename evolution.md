@@ -2,13 +2,19 @@
 
 While the Church has a rich history influenced by various factors, this article primarily focuses on the key events that influenced church traditions, beliefs and rules.
 
+## Jewish Influences
+
+| Period            | Influencers                                   | Influence                               |
+| ----------------- | --------------------------------------------- | --------------------------------------- |
+| After the Messiah | [Messianic Era](evolution/1st-c-messianic.md) | Persecution and spreading of the Gospel |
+
 ## Christian Influences
 
 | Period      | Influencers                                                                  | Influence                                                                                                                                                                                                                                                                            |
 | ----------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1st Century | [Roman Imperial Cult](evolution/1st-c-roman-imperial-cult.md)                | More intense persecution, changing calendar to honour Greek and Roman gods                                                                                                                                                                                                           |
 | 1st Century | [First Christians](evolution/1st-c-christians.md)                            | The adoption of the Christian name "Christian"                                                                                                                                                                                                                                       |
-| 1st century | [Gnosis](evolution/1st-c-gnosis)                                         | Various Gnostic "wisdom" that influenced Christianity                                                                                                                                                      |
+| 1st century | [Gnosis](evolution/1st-c-gnosis)                                             | Various Gnostic "wisdom" that influenced Christianity                                                                                                                                                                                                                                |
 | 156         | [Montanism](evolution/156-montanism.md)                                      | Encouraged authoritative church roles and the canonisation of the bible                                                                                                                                                                                                              |
 | 206         | [Tertullian](evolution/206-tertullian.md)                                    | The invention of:<ul><li>the Trinity theology</li><li>apostolic succession</li><li>Eucharist</li>                                                                                                                                                                                    |
 | 312         | [Emperor Constantine](evolution/312-constantine.md)                          | The Catholic Church was institutionalised<br/>The sun god, Sol Invictus, was considered "Jesus Christ"                                                                                                                                                                               |

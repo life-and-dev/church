@@ -1,14 +1,11 @@
 ---
-title: Messianic Era
 description: Discover the early history of the Messianic era, the persecution of the first disciples, and the origins of "The Way" before they were known as Christians.
 keywords: "Messianic Era, The Way, early church persecution, Herod Agrippa, first century Christianity, Nazarenes"
-published: true
-reviewed: true
 ---
 
-# Messianic Era
+# 1st Century (Messianic Era)
 
-The period following the resurrection of Jesus and the day of Pentecost marked a tumultuous time for his followers. Often referred to as the Messianic era, this first generation of disciples faced intense pressure and persecution as they navigated their identity within the Jewish community and the broader Roman Empire. This article explores the challenges faced by these early believers and how their faith spread despite opposition.
+The period following the resurrection of Jesus and the day of Pentecost marked a tumultuous time for his followers. This first generation of mostly Jewish disciples faced intense pressure and persecution as they navigated their identity within the Jewish community and the broader Roman Empire. This article explores the challenges faced by these early believers and how their faith spread despite opposition.
 
 ## Early Persecution in Jerusalem
 
@@ -22,7 +19,7 @@ This first generation of disciples often identified themselves as the Way. This 
 
 > "I am the way, and the truth, and the life." — John 14:6 (ESV)
 
-It could also be a shortened version of "the way to salvation" (Acts 16:17).
+It could also be a shortened version of "the way of salvation" (Acts 16:17).
 
 ## Expansion through Adversity
 
