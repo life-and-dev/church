@@ -1,20 +1,9 @@
 ---
-title: The Crisis of the Third Century
-published: true
-reviewed: true
 description: Explore the Crisis of the Third Century, a 50-year period of intense political instability, economic turmoil, and foreign invasions that nearly shattered the Roman Empire.
-keywords:
-- Crisis of the Third Century
-- Roman Empire
-- Barracks Emperors
-- Aurelian
-- Diocletian
-- Sol Invictus
-- Gallic Empire
-- Palmyrene Empire
+keywords: Crisis of the Third Century, Roman Empire, Barracks Emperors, Aurelian, Diocletian, Sol Invictus, Gallic Empire, Palmyrene Empire
 ---
 
-# The Crisis of the Third Century
+# 235 (Crisis of 3rd Century)
 
 The Roman Empire, at its zenith, appeared an unshakeable colossus. Yet, a perfect storm of internal decay and external pressures would bring it to its knees. What were the catalysts for this near-collapse, and how did the empire pull itself back from the brink of annihilation?
 
@@ -24,7 +13,7 @@ The Roman Empire, at its zenith, appeared an unshakeable colossus. Yet, a perfec
 
 A significant shift occurred in the perception of imperial authority. While emperors were no longer deified as in earlier times, they still held a divine association, though this was no longer tied to their lineage but rather their ability to command the loyalty of the military.
 
-![A map illustrating the numerous emperors who died during the Crisis of the Third Century, highlighting the political instability of the era.](crisis-of-3rd-century.jpg)
+![A map illustrating the numerous emperors who died during the Crisis of the Third Century, highlighting the political instability of the era.](235-crisis-of-3rd-century.jpg)
 
 ## Religious Shifts and Imperial Reforms
 
