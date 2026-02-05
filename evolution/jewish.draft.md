@@ -1,25 +1,49 @@
 ---
 title: Jewish Era
 published: true
+description: "Explores the origins of the Hebrew Bible (Tanakh), the historical context of the Jewish nation, and the significant shift from using YHVH to Adonai for God's name."
+keywords: ["Tanakh", "Hebrew Bible", "YHVH", "Adonai", "Second Temple era", "Jewish history", "Moses"]
 ---
 
-[The earliest known date of a canonical writing](/bible/history) is the Book of Genesis which is estimated to be written around 1445-1405 BC by [Moses](/bible/authors). Since Moses, many authoritative judges, kings and prophets contributed to the [Tanakh](https://en.wikipedia.org/wiki/Hebrew_Bible) (Hebrew bible). These books are written around the history of Israel, how the nation came into existence, the fall of Israel and how God maintained the remnant after the Babylonian exile, but also include important literature about God, His creation, wisdom, principles, laws, teachings, prophecies, blessings and songs which are very important to non-Jewish nations, even to the [Christians](/bible/concepts/christian) in the modern era.
+# The Jewish Era and the Coming of the Messiah
 
-Bible books written between 400 BC and the birth of [Jesus](/god/son) the [Christ](/god/son/christ) are considered [Apocrypha](/bible/books/apocrypha) by the Christian Protestants who do not accept the authority of these books and did not include them in their bibles, although the Catholic churches do accept these books.
+The roots of Christian faith are deeply embedded in Jewish history, beginning with the foundational texts of the Tanakh, or Hebrew Bible. This article explores the historical backdrop of ancient Israel, the evolution of key religious practices, and the pivotal moments that preceded the arrival of Jesus Christ, setting the stage for a new chapter in spiritual history.
 
-Although God identified Himself in Hebrew as יְהוָ֖ה, which directly translates to the Tetragrammaton [YHVH](/god/name/father#yhvh), we noticed that some time before the birth of Jesus (most likely during the Second Temple era), **the Jews replaced the God's name "YHVH" with "Adonai" which means "Lord" in English**. This is also evident in the Greek manuscripts when the Jews refer to God as simply "Lord". 
+## The Foundation of the Tanakh
 
-Although scholars disagree on the exact date Jesus was born, all agree that it was around the time the Anno Domini year system switched from BC era years to AD era years. The Jews refuse to accept this system because the system starts counting from the birth of Jesus [Christ (Messiah)](/bible/concepts/christ) whom they rejected.
+The earliest known date of a canonical writing is the Book of Genesis, which is estimated to have been written around 1445-1405 BC by Moses. Following Moses, numerous authoritative judges, kings, and prophets contributed to the [Tanakh](https://en.wikipedia.org/wiki/Hebrew_Bible), also known as the Hebrew Bible. These sacred texts chronicle the history of Israel, from its origins and the establishment of the nation to its eventual fall and the preservation of a remnant after the Babylonian exile. The Tanakh also contains a rich collection of literature about God, His creation, wisdom, laws, and teachings, which have held profound significance for non-Jewish nations, including Christians, into the modern era.
 
-In the Tanakh we read how the Israelites refused to approach God, how the temple was build and the priestly and sacrificial system was introduced to cleanse people from their sin in order to be [righteous](/bible/concepts/righteousness) with God.
+## The Apocrypha Question
 
-While Jesus was alive, he taught, demonstrated and set moral standards to many disciples (mainly Jews) to follow his teachings which include
-* fresh revelations on how people ought to interpret the Mosaic laws, with the focus on love and [righteous](/bible/concepts/righteousness) with God and their neighbours, instead of obeying religious rituals
-* he gave people a fresh perspective of [Who God is](/god/father) (His character) and what [God's plan](/bible/concepts/word) or motives are for humanity
-* the revelation of God's kingdom
-* the gospel of [salvation](/eternal/saved) which means people do not need priests and rituals to be saved
-* warnings and prophecies about the future
+A collection of books written between 400 BC and the birth of Jesus the Christ, known as the Apocrypha, is not accepted as authoritative by Protestant Christians and is therefore not included in their Bibles. The Catholic Church, however, does accept these books as part of its canon.
 
-These teachings caused a stir in the Jewish community of his time and he eventually received the death sentence for [claiming to be the Christ](/god/son/essence/as-god/witnesses/accusers) which according to the Jewish priests were considered "[blasphemy](/bible/concepts/blasphemy)" which was punishable by death.
+## The Substitution of God's Name
 
-Many scholars agree that Jesus was ["crucified"](/bible/symbolism/cross) around AD 30–33.
+Although God identified Himself in Hebrew as יְהוָ֖ה, which translates to the Tetragrammaton YHVH, historical evidence suggests that a significant shift occurred sometime before the birth of Jesus, likely during the Second Temple era. At that time, **it became customary among the Jewish people to substitute "Adonai," meaning "Lord" in English, for the divine name "YHVH."** This practice is also reflected in Greek manuscripts, where references to God are often translated simply as "Lord." [This practice is detailed in the Wikipedia article on the Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton).
+
+## The Anno Domini Era
+
+While scholars disagree on the exact year of Jesus's birth, there is a general consensus that it occurred around the transition from the BC to the AD era in the Anno Domini year-numbering system. The Jewish community has traditionally not adopted this system, as it is based on the birth of Jesus Christ, whom they do not recognize as the Messiah.
+
+## The Temple and Sacrificial System
+
+The Tanakh describes how the ancient Israelites established a formal system of worship centered on the Temple, which included priestly rituals and animal sacrifices. This system was designed to provide a means for the people to be cleansed of their sins and achieve righteousness before God, particularly as they felt unworthy to approach Him directly.
+
+## The Revolutionary Teachings of Jesus
+
+During his lifetime, Jesus delivered a series of teachings that offered new interpretations of the Mosaic Law and challenged the religious and social norms of his time. He taught his disciples, who were primarily Jewish, about:
+* A renewed understanding of the Mosaic laws, emphasizing love for God and neighbor over the strict observance of religious rituals.
+* A fresh perspective on the character of God and His divine plan for humanity.
+* The coming of the kingdom of God.
+* The gospel of salvation, which taught that individuals could be saved without the need for priests or ritualistic sacrifices.
+* Prophecies and warnings about future events.
+
+These teachings created significant controversy within the Jewish community, and Jesus was ultimately sentenced to death for blasphemy after claiming to be the Christ—a title that the Jewish religious authorities of the time reserved for a prophesied savior of Israel.
+
+## The Crucifixion of the Messiah
+
+Many scholars agree that Jesus was crucified around AD 30–33.
+
+## Conclusion
+
+The Jewish era laid a foundational stone for what would become Christianity, providing the scriptures, prophecies, and the very cultural context for Jesus's ministry. From [the writing of the Tanakh](#the-foundation-of-the-tanakh) to [the shift in how God's name was spoken](#the-substitution-of-gods-name), this period was marked by significant theological developments. The [teachings of Jesus](#the-revolutionary-teachings-of-jesus) would later challenge and reinterpret these long-standing traditions, ultimately leading to his [crucifixion](#the-crucifixion-of-the-messiah) and the birth of a new faith.
