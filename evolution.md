@@ -4,9 +4,11 @@ While the Church has a rich history influenced by various factors, this article 
 
 ## Jewish Influences
 
-| Period            | Influencers                                   | Influence                               |
-| ----------------- | --------------------------------------------- | --------------------------------------- |
-| After the Messiah | [Messianic Era](evolution/1st-c-messianic.md) | Persecution and spreading of the Gospel |
+| Period               | Influencers                                   | Influence                                                                                                                                      |
+| -------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Before Christ        | [Jewish Era](evolution/-1445-jewish-era.md)   | <ul><li>Tanakh</li><li>Apocrypha</li><li>Temple</li><li>Priesthood</li><li>Calendar</li><li>Chronology</li><li>Removal of God's name</li></ul> |
+| During Christ's life | [Jesus](evolution/1st-c-jesus.md)             | <ul><li>Jesus' teachings</li><li>Jesus' ultimate sacrifice</li><li>Resurrection of Jesus</li></ul>                                             |
+| After Christ         | [Messianic Era](evolution/1st-c-messianic.md) | Persecution and spreading of the Gospel                                                                                                        |
 
 ## Christian Influences
 
