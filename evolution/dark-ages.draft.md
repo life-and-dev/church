@@ -28,13 +28,13 @@ Following the fall of the Western Roman Empire, its territories fragmented into 
 
 The religious landscape of Europe shifted significantly as Arian kingdoms fell or converted to the Nicene faith. Arianism, which differed from the state-sanctioned Nicene creed regarding the nature of God, was the predominant faith among many Germanic tribes.
 
-In 507, the Visigoths were defeated by the Franks under Clovis I at the Battle of Vouillé. This victory expanded Frankish control and promoted Nicene Christianity in the region.
+In 507, the [Visigoths](https://en.wikipedia.org/wiki/Visigoths) were defeated by the Franks under Clovis I at the Battle of Vouillé. This victory expanded Frankish control and promoted Nicene Christianity in the region.
 
-In 534, the Vandals, an Arian Germanic group, were militarily defeated by the Byzantine Empire during the Vandalic War. Their remnants were dispersed, and they ceased to function as a cohesive Arian nation.
+In 534, the [Vandals](https://en.wikipedia.org/wiki/Arianism), an Arian Germanic group, were militarily defeated by the Byzantine Empire during the Vandalic War. Their remnants were dispersed, and they ceased to function as a cohesive Arian nation.
 
-In 553, the Ostrogoths were defeated by the Byzantine Empire, ending their rule in Italy.
+In 553, the [Ostrogoths](https://en.wikipedia.org/wiki/Ostrogoths) were defeated by the Byzantine Empire, ending their rule in Italy.
 
-In 653, the Lombards adopted Nicene orthodoxy under King Aripert I, marking the end of Arianism as a state-sponsored religion.
+In 653, the [Lombards](https://en.wikipedia.org/wiki/Arianism) adopted Nicene orthodoxy under King Aripert I, marking the end of Arianism as a state-sponsored religion.
 
 Thus, no Arian nations survived as distinct political entities, but [Arianism persisted among certain Germanic groups](https://en.wikipedia.org/wiki/Arianism). This process of uprooting kingdoms to establish a new power structure mirrors the biblical description of a rising power that would put down three kings.
 
