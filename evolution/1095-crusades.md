@@ -6,7 +6,7 @@ published: true
 reviewed: true
 ---
 
-# The Crusades
+# 1095 (Crusades)
 
 For centuries, the landscape of the Middle East was a mosaic of shifting powers and religious fervor. The 11th century marked a turning point when a series of military expeditions began to reshape the relationship between Europe and the Holy Land. These conflicts, known as the Crusades, were driven by a complex blend of faith, politics, and ambition. What compelled thousands of people to leave their homes and march toward a distant horizon?
 
@@ -39,11 +39,11 @@ The various Crusades took place over several centuries with differing goals and 
 ## Contrasting Worldviews
 The Crusades highlight a significant contrast between different belief systems of the time. The Islamic view of Jihad, which included both spiritual struggle and territorial expansion, met with the Western concept of Crusade. Both sides believed their actions were divinely mandated.
 
-| Aspect | Crusading View | Islamic View |
-| --- | --- | --- |
-| Primary Goal | Recapture holy sites and defend the faith | Expand the reach of Islam and protect the Caliphate |
-| Authority | The Pope and Christian monarchs | The Caliph and religious leaders |
-| Spiritual Reward | Remission of sins and eternal life | Martyrdom and rewards in paradise |
+| Aspect           | Crusading View                            | Islamic View                                        |
+| ---------------- | ----------------------------------------- | --------------------------------------------------- |
+| Primary Goal     | Recapture holy sites and defend the faith | Expand the reach of Islam and protect the Caliphate |
+| Authority        | The Pope and Christian monarchs           | The Caliph and religious leaders                    |
+| Spiritual Reward | Remission of sins and eternal life        | Martyrdom and rewards in paradise                   |
 
 These viewpoints led to centuries of conflict. Each side perceived their struggle as a defense of their core tenets. Proponents of the Crusades argued that their actions were necessary for the survival of Christianity in the East.
 
