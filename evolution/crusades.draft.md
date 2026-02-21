@@ -16,20 +16,7 @@ In 1071, [the Byzantine Empire lost territory to the Muslims](https://en.wikiped
 ## Religious Justifications for Warfare
 The call for the First Crusade came from Pope Urban II in 1095. He framed the military expedition as a divinely sanctioned act of devotion. Proponents argued that **[securing salvation through participation in the Crusades](https://smarthistory.org/how-was-crusading-justified-2-of-4/)** was a legitimate spiritual goal. The popes continued to call for these Crusades as "God's will." This ideology was built upon the concept of "just war," which had been discussed by early theologians like St. Augustine of Hippo.
 
-One significant religious incentive was the promise of an indulgence. This was a remission of the temporal punishment for sins. The belief was that those who died in battle during a crusade would receive immediate entry into heaven. This concept is reflected in later church councils, such as the [Fourth Lateran Council in 1215](1215-7-sacraments.md), which emphasized the role of the church in the process of salvation. Proponents might have also looked to certain scriptures in the Old Testament to support the idea of a warrior of God.
-
-> "Blessed be the LORD, my rock, who trains my hands for war, and my fingers for battle;" — Psalm 144:1 (ESV)
-
-## Biblical Perspectives on Violence
-While the Crusades were framed as holy missions, their methods and goals often contrasted with the teachings found in the New Testament. Critics frequently point to the words of Jesus Christ as a challenge to the concept of religious warfare. Jesus taught his followers to respond to hostility with love rather than violence.
-
-> "But I say to you, Love your enemies and pray for those who persecute you," — Matthew 5:44 (ESV)
-
-Jesus also emphasized that his kingdom was not of a worldly nature. He did not seek to establish a political or military empire through force.
-
-> "Jesus answered, 'My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.'" — John 18:36 (ESV)
-
-Critics argue that the use of violence to defend religious faith is contrary to the peaceful nature of the Gospel. However, defenders of the Crusades maintained that these expeditions were defensive measures. They viewed them as necessary responses to the loss of Christian lands and the persecution of pilgrims. They believed that the protection of the followers of Christ necessitated military action.
+One significant religious incentive was the promise of an indulgence. This was a remission of the temporal punishment for sins. The belief was that those who died in battle during a crusade would receive immediate entry into heaven. This concept is reflected in later church councils, such as the [Fourth Lateran Council in 1215](1215-7-sacraments.md), which emphasized the role of the church in the process of salvation.
 
 ## Economic and Political Factors
 Beyond religious zeal, several practical factors influenced the Crusades. Economic motivations played a major role. Merchants sought to gain control over lucrative trade routes in the East. There were also opportunities to profit from transporting and supplying the massive armies of crusaders. Politically, the Crusades allowed European monarchs and nobles to expand their influence and seek new territories. This expansion helped to consolidate power in a fragmented Europe.
@@ -61,4 +48,4 @@ The Crusades highlight a significant contrast between different belief systems o
 These viewpoints led to centuries of conflict. Each side perceived their struggle as a defense of their core tenets. Proponents of the Crusades argued that their actions were necessary for the survival of Christianity in the East.
 
 ## Conclusion
-The Crusades were complex events driven by [religious justifications](#religious-justifications-for-warfare) and the promise of spiritual rewards. They were also influenced by [economic and political interests](#economic-and-political-factors) among European powers. These expeditions often stood in contrast to [Biblical perspectives](#biblical-perspectives-on-violence) regarding peace and the nature of the kingdom of God. The history of these [military campaigns](#overview-of-major-expeditions) reflects the intense tensions between [competing worldviews](#contrasting-worldviews) in the medieval period.
+The Crusades were complex events driven by [religious justifications](#religious-justifications-for-warfare) and the promise of spiritual rewards. They were also influenced by [economic and political interests](#economic-and-political-factors) among European powers. The history of these [military campaigns](#overview-of-major-expeditions) reflects the intense tensions between [competing worldviews](#contrasting-worldviews) in the medieval period.
