@@ -1,30 +1,88 @@
 ---
 title: The Dark Ages
+description: Explore the historical transitions of the Roman Empire and the
+  decline of Arian nations during the early Middle Ages.
+keywords: Roman Empire split, fall of Western Rome, Arian kingdoms, Visigoths,
+  Vandals, Ostrogoths, Lombards, Early Middle Ages
 published: true
+reviewed: true
 ---
 
-# The split of the Roman Empire
+# The Dark Ages
 
-In 395 CE the [Roman Empire split into two separate states](https://study.com/academy/lesson/the-division-of-rome-into-eastern-and-western-empires.html) after the death of the Roman emperor Theodosius I, who was succeeded by his two sons Honorius (the Western Roman Empire) and Arcadius (the Eastern Roman Empire).
+The early Middle Ages, often called the Dark Ages, was a period of profound
+transformation for the Roman world. This era witnessed the fragmentation of a
+once-unified empire and the rise and fall of various Germanic kingdoms.
+Understanding these shifts provides a window into how the political and
+religious landscape of Europe was fundamentally reshaped.
 
-![Roman Empire Split](roman_empires.jpg)
+## The Imperial Split
 
-# The fall of the Western Roman Empire
+In 395 CE, the [Roman Empire split into two separate
+states](https://study.com/academy/lesson/the-division-of-rome-into-eastern-and-western-empires.html).
+This occurred after the death of the Roman emperor Theodosius I. His two sons,
+Honorius and Arcadius, succeeded him. Honorius ruled the Western Roman Empire.
+Arcadius governed the Eastern Roman Empire.
 
-In 476 CE [the Western Roman Empire fell](https://en.wikipedia.org/wiki/Deposition_of_Romulus_Augustus) to Odovacar, the Germanic ("Barbarian") King. This event traditionally marks [the end of the Western Roman Empire](https://dlab.epfl.ch/wikispeedia/wpcd/wp/r/Romulus_Augustus.htm), because Odavacar sent the western imperial regalia (crown, scepter, orb, etc.) to Constantinople, the capital of the rival Eastern Roman Empire (Byzantine Empire) as an acknowledgement to the supremacy of the Eastern Emperor.
+![A map showing the Roman Empire split into Western and Eastern halves in 395
+CE](roman_empires.jpg)
 
-Following the fall of the Western Roman Empire, its territories fragmented into various Germanic kingdoms and other successor states, such as the Ostrogothic Kingdom in Italy and the Visigothic Kingdom in Spain.
+## Western Rome's Fall
 
-# The fall of the Arian nations
+In 476 CE, [the Western Roman Empire
+fell](https://en.wikipedia.org/wiki/Deposition_of_Romulus_Augustus) to
+Odovacar, the Germanic king. This event traditionally marks [the end of the
+Western Roman
+Empire](https://dlab.epfl.ch/wikispeedia/wpcd/wp/r/Romulus_Augustus.htm).
+Odovacar sent the western imperial regalia, including the crown and scepter, to
+Constantinople. This capital served the rival Eastern Roman Empire, also known
+as the Byzantine Empire. The gesture acknowledged the supremacy of the Eastern
+Emperor.
 
-In 507, the [Visigothic](https://en.wikipedia.org/wiki/Visigoths), was defeated by the Franks under Clovis I, who defeated them in the Battle of Vouillé.
+Following this fall, the western territories fragmented into various Germanic
+kingdoms. These successor states included the Ostrogothic Kingdom in Italy and
+the Visigothic Kingdom in Spain.
 
-In 534, the [Vandals](https://en.wikipedia.org/wiki/Arianism), an Arian Germanic tribe, were militarily defeated by the Byzantine Empire during the Vandalic War. Their remnants were dispersed, and they ceased to function as a cohesive Arian nation.
+## Arian Kingdom Transitions
 
-In 553, the [Ostrogoths](https://en.wikipedia.org/wiki/Ostrogoths), were defeated by the Byzantine Empire.
+In 507 CE, the Visigothic Kingdom suffered defeat by the Franks under Clovis I.
+This took place at the Battle of Vouillé.
 
-In 653, the [Lombards](https://en.wikipedia.org/wiki/Arianism) adopted the Nice orthodoxy under King Aripert I.
+In 534 CE, the [Vandals](https://en.wikipedia.org/wiki/Vandalic_War) were
+militarily defeated by the Byzantine Empire during the Vandalic War. The
+Vandals were an Arian Germanic tribe. After their defeat, their remnants
+dispersed. They ceased to function as a cohesive Arian nation.
 
-Thus, no Arian nations survived as distinct political entities, but [Arianism persisted among certain Germanic groups](https://en.wikipedia.org/wiki/Arianism).
+In 553 CE, the Byzantine Empire defeated the
+[Ostrogoths](https://en.wikipedia.org/wiki/Ostrogoths).
 
-![Arian Empires](arian_empires.jpg)
+In 653 CE, the [Lombards](https://en.wikipedia.org/wiki/Aripert_I) adopted
+Nicene orthodoxy under King Aripert I. He was the first Lombard king to
+officially embrace this faith.
+
+No Arian nations survived as distinct political entities. However, [Arianism
+persisted among certain Germanic groups](https://en.wikipedia.org/wiki/Arianism).
+
+These historical shifts align with biblical descriptions of rising and falling
+kingdoms. The prophet Daniel spoke of ten horns representing kings that would
+arise. Another would then rise and subdue three of them.
+
+> As for the ten horns, out of this kingdom ten kings shall arise, and another
+shall arise after them; he shall be different from the former ones, and shall
+put down three kings. He shall speak words against the Most High, and shall
+wear out the saints of the Most High, and shall think to change the times and
+the law; and they shall be given into his hand for a time, times, and half a
+time. — Daniel 7:24-25 (ESV)
+
+![A map of Europe and North Africa showing various Arian Germanic kingdoms and
+the Byzantine Empire](arian_empires.jpg)
+
+## Conclusion
+
+The early Middle Ages saw the Roman Empire transition from a unified power to a
+collection of fragmented kingdoms. The [split of the
+empire](#the-imperial-split) and the [subsequent fall of the
+west](#western-romes-fall) paved the way for new political entities. The
+eventual [decline or conversion of Arian
+kingdoms](#arian-kingdom-transitions) further consolidated the religious and
+political map of the era.
