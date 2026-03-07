@@ -1,11 +1,13 @@
 ---
-description: Explore the origins of the Papal Inquisition in 1233, its systematic use of torture and execution, and how these practices contradicted the teachings of Jesus.
-keywords: Papal Inquisition, Pope Gregory IX, Ad extirpanda, torture, heretics, Catharism, Middle Ages, church history
+description: Explore the origins of the Papal Inquisition in 1233, its systematic methods, and how its practices of torture and execution compared with the teachings of Jesus.
+keywords: Papal Inquisition, Pope Gregory IX, Ad extirpanda, medieval heresy, church history, Catharism, inquisitorial process, religious violence
 ---
 
-# 1233 (The Papal Inquisition)
+# 1233 (Papal Inquisition)
 
-How did a message of love and sacrifice transform into a system of institutionalized terror? In 1233, the Roman Catholic Church transitioned from localized efforts to a centralized, papal-controlled apparatus dedicated to the "extirpation" of heresy. This system, known as the [Papal Inquisition](https://www.ebsco.com/research-starters/history/papal-inquisition), introduced systematic methods of investigation, interrogation, and punishment that redefined the relationship between the church and dissent.
+How did a message of love and sacrifice transform into a system of institutionalized terror? 
+
+In 1233, the Roman Catholic Church transitioned from localized efforts to a centralized, papal-controlled apparatus dedicated to the "extirpation" of heresy. This system, known as the [Papal Inquisition](https://www.ebsco.com/research-starters/history/papal-inquisition), introduced systematic methods of investigation, interrogation, and punishment that redefined the relationship between the church and dissent.
 
 ## The Centralization of Power
 
@@ -25,13 +27,13 @@ The Inquisition was designed to be impossible to escape. Its methods were revolu
 
 Initially, the church avoided physical violence, following the principle *Ecclesia non sitit sanguinem* ("The Church does not thirst for blood"). However, as the fight against heresy intensified, this restraint was abandoned.
 
-On 15 May 1252, Pope Innocent IV issued the bull [**Ad extirpanda**](http://www.documentacatholicaomnia.eu/01p/1243-1254,_Innocentius_IV,_Bullarium,_LT.pdf) (PDF link to Latin text; [English summary here](https://en.wikipedia.org/wiki/Ad_extirpanda)). This document officially authorized inquisitors to use **torture** as a tool for extracting confessions. While the bull technically forbade torture that caused the loss of life or limb, in practice, these limits were frequently circumvented by treating repeated torture sessions as a single "continued" session.
+On 15 May 1252, Pope Innocent IV issued the bull [**Ad extirpanda**](https://en.wikipedia.org/wiki/Ad_extirpanda). This document officially authorized inquisitors to use **torture** as a tool for extracting confessions. While the bull technically forbade torture that caused the loss of life or limb, in practice, these limits were frequently circumvented by treating repeated torture sessions as a single "continued" session.
 
 ## Execution by Fire
 
-For the church, a "heretic" was not just someone with a different opinion; they were a "cancer" on the body of Christ that had to be removed. If an accused person refused to recant their beliefs, or if they relapsed after a first confession, they were "handed over to the secular arm" for execution.
+If an accused person refused to recant their beliefs, or if they relapsed after a first confession, they were "handed over to the secular arm" for execution.
 
-The preferred method was **burning at the stake**. By using the state (the "secular arm") to carry out the killing, the church maintained the legal fiction that it was not directly responsible for shedding blood, even though it was the church that passed the sentence.
+The preferred method was burning at the stake. By using the state (the "secular arm") to carry out the killing, the church maintained the legal fiction that it was not directly responsible for shedding blood, even though it was the church that passed the sentence.
 
 > "The heretic is to be handed over to the secular power to be punished according to the law [execution by fire]." — Decree of Pope Gregory IX, 1231.
 
