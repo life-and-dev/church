@@ -1,132 +1,184 @@
+---
+reviewed: true
+description: Explore the biblical meaning of righteousness as a gift from God,
+  its historical roots, and common misconceptions about morality and faith.
+keywords: righteousness, justification, faith, grace, right standing,
+  biblical ethics, salvation
+---
+
 # Righteousness
 
-# Defining righteousness
+Have you ever wondered what it truly means to be "right" with God? Is it about
+following a strict set of rules, or is there something deeper at play? The
+concept of righteousness has shaped centuries of theological thought, yet it
+remains one of the most misunderstood terms in the Bible. Exploring its origins
+and scriptural context reveals a perspective that might challenge conventional
+ideas of morality and perfection.
 
-Righteousness according to Dictionary.com
+## Definition
 
-> 1. characterized by uprightness or morality: a righteous observance of the law.
+The word righteousness carries several layers of meaning. According to
+Dictionary.com, it is defined as:
+
+> 1. characterized by uprightness or morality: a righteous observance of the
+> law.
 > 2. morally right or justifiable: righteous indignation.
 > 3. acting in an upright, moral way; virtuous: a righteous and godly person.
 
-> [William Tyndale](https://en.wikipedia.org/wiki/William_Tyndale) (Bible translator into English in 1526) remodelled the word after an earlier word *rihtwis*, which would have yielded modern English *rightwise* or *rightways*. He used it to translate the Hebrew root צדק ([tzadik](https://en.wikipedia.org/wiki/Tzadik)), which appears over five hundred times in the Hebrew Bible, and the Greek word δίκαιος (dikaios), which appears more than two hundred times in the New Testament. -- [Wikipedia](https://en.wikipedia.org/wiki/Righteousness)
+Historically, William Tyndale, the 1526 English Bible translator, remodeled the
+word from an earlier term, *rihtwis*. This would have yielded the modern
+English *rightwise* or *rightways*. He used it to translate the Hebrew root
+צדק ([tzadik](https://en.wikipedia.org/wiki/Tzadik)), which appears over five
+hundred times in the Hebrew Bible. He also used it for the Greek word δίκαιος
+(dikaios), which appears more than two hundred times in the New Testament. —
+[Wikipedia](https://en.wikipedia.org/wiki/Righteousness)
 
-> *Righteousness is right standing, or good standing with God*.
+In a spiritual context, righteousness is often described as right standing, or
+good standing with God. It does not mean human perfection. Instead, a person is
+considered righteous because God declares them to be so. Some may wonder about
+Romans 3:10, which states that no one is righteous. However, that passage
+quotes the Old Testament to prove that both Jews and Gentiles are guilty before
+God and in need of salvation. The surrounding verses, such as Romans 3:22 and
+Romans 3:24, explain that people can now be made righteous through faith in
+Jesus Christ. [A Bible Devotion][1]
+
+## Justification by Faith
+
+Scripture emphasizes that righteousness is a status granted by God rather than
+an earned achievement.
+
+> Who shall bring any charge against God's elect? It is God who
+> justifies. — Romans 8:33 (ESV)
+
+The Apostle Paul provided a detailed explanation in his letter to the Romans:
+
+> All have sinned and fall short of the glory of God, and are justified by his
+> grace as a gift, through the redemption that is in Christ Jesus, whom God put
+> forward as a [propitiation][2] by his blood, to be received by
+> faith. — Romans 3:23-25 (ESV)
+
+Paul also cited the example of Abraham to show that this principle dates back
+to the earliest days of faith:
+
+> For what does the Scripture say? "Abraham believed God, and it was counted to
+> him as righteousness." — Romans 4:3 (ESV)
+
+This refers to the promise given to Abraham, which was fulfilled not through
+his adherence to a law, but through his trust in God's word. Paul explained
+that if inheritance depended on the law, faith would be void and the promise
+would be null. Since the law brings wrath by highlighting transgressions, the
+promise must rest on grace. This ensures it is guaranteed to all who share the
+faith of Abraham.
+
+> That is why it depends on faith, in order that the promise may rest on grace
+> and be guaranteed to all his offspring—not only to the adherent of the law
+> but also to the one who shares the faith of Abraham, who is the father of us
+> all... It will be counted to us who believe in him who raised from the dead
+> Jesus our Lord, who was delivered up for our trespasses and raised for our
+> justification. — Romans 4:16,24-25 (ESV)
+
+Furthermore, Paul's writings to other churches reinforce this theme:
+
+> And because of him you are in Christ Jesus, who became to us wisdom from God,
+> righteousness and sanctification and redemption. — 1 Corinthians 1:30 (ESV)
 >
-> It does not mean human "perfection." You are righteous because God says you are.
+> For our sake he made him to be sin who knew no sin, so that in him we might
+> become the righteousness of God. — 2 Corinthians 5:21 (ESV)
+
+## Misconceptions
+
+A common misconception is that righteousness is achieved by perfectly keeping
+every religious law. Paul addressed this directly when he wrote that if
+righteousness could come through the law, then Christ's death would have been
+in vain.
+
+> I do not nullify the grace of God, for if righteousness were through the law,
+> then Christ died for no purpose. — Galatians 2:21 (ESV)
+
+The Law serves to make people conscious of sin rather than to make them right
+with God. This truth was recognized even in the Old Testament.
+
+> Behold, his soul is puffed up; it is not upright within him, but the
+> righteous shall live by his faith. — Habakkuk 2:4 (ESV)
+
+## Faith and Works
+
+Critics of the idea of "justification by faith" often point to the necessity
+of good deeds. They may argue that a person must prove their righteousness
+through their actions. However, the biblical perspective suggests that works
+are the evidence of righteousness rather than its cause.
+
+Right standing with God is a gift of grace received through faith. Subsequent
+right living is the natural result of this new identity. A healthy tree
+produces good fruit as a result of its nature, not to become a tree. In the
+same way, the righteous acts of a believer flow from the fact that they have
+already been made right with God.
+
+## Trusting God
+
+Having faith in God means to trust Him completely. When individuals trust in
+God's provision, protection, and authority, they find no need to live
+independently from Him. Temptations often present alternative solutions to
+problems, leading away from this trust. However, those who receive the gift of
+righteousness are empowered to live in triumph.
+
+> For if, because of one man's trespass, death reigned through that one man,
+> much more will those who receive the abundance of grace and the free gift of
+> righteousness reign in life through the one man Jesus Christ. — Romans 5:17
+> (ESV)
+
+This righteousness is maintained through a constant relationship of trust. It
+is about being united with a loving Father.
+
+> For with the heart one believes and is justified, and with the mouth one
+> confesses and is saved. — Romans 10:10 (ESV)
+
+## God's Character
+
+While humans receive righteousness as a gift, God Himself is the definition of
+righteousness. In this context, it refers to His absolute fairness and
+justice. Jesus addressed God as "righteous Father" in his prayers.
+
+> O righteous Father, even though the world does not know you, I know you, and
+> these know that you have sent me. — John 17:25 (ESV)
+
+Moses also taught about the upright nature of the LORD:
+
+> For I will proclaim the name of the LORD; ascribe greatness to our God! The
+> Rock, his work is perfect, for all his ways are justice. A God of
+> faithfulness and without iniquity, just and upright is he. — Deuteronomy
+> 32:3-4 (ESV)
+
+The Psalms and prophetic books further celebrate God's just character:
+
+> But the LORD sits enthroned forever; he has established his throne for
+> justice, and he judges the world with righteousness; he judges the peoples
+> with uprightness. — Psalm 9:7-8 (ESV)
 >
-> You may wonder about Romans 3:10 which says no one is righteous. Yes, it does say that, but it is quoting an Old Testament passage to prove that both Jews and Gentiles were guilty before God and needed [salvation](/bible/concepts/salvation). It immediately goes on to say in the next few verses (see Romans 3:22,24) that now we can be [righteous through faith](/life/faith/salvation) in Jesus Christ.
->
-> -- [A Bible Devotion](https://www.adevotion.org/archive/right-standing-with-god-is-a-gift)
+> But the LORD of hosts is exalted in justice, and the Holy God shows himself
+> holy in righteousness. — Isaiah 5:16 (ESV)
 
-> Who shall bring any charge against God’s elect? 
-> 
-> **It is God who justifies.**
-> 
-> -- Romans 8:33 (ESV); Isaiah 45:24-25
+Even during times of national failure, the prophet Daniel recognized that God
+remained fair.
 
-Paul's explanation to the Romans:
+> Therefore the LORD has kept ready the calamity and has brought it upon us,
+> for the LORD our God is righteous in all the works that he has done, and we
+> have not obeyed his voice. — Daniel 9:14 (ESV)
 
-> All have [sinned](/bible/concepts/sin) and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in [Christ](/bible/concepts/christ) Jesus, whom God put forward as a [propitiation](https://www.vocabulary.com/dictionary/propitiation) by his blood, to be received by [faith](/eternal/saved/belief). -- Romans 3:23-25 (ESV)
+## Conclusion
 
-> For what does the Scripture say? 
->
->> “Abraham **[believed God](/eternal/saved/belief)**, and it was counted to him as **righteousness**.” -- Genesis 15:6
->
-> -– Romans 4:3
+Righteousness is primarily a right standing with God that is received as a
+gift through faith in Jesus Christ ([Justification by Faith][3]).
+While it is often confused with legalistic adherence to rules, scripture
+clarifies that no one is declared righteous by works alone
+([Misconceptions][4]). This gift enables a life of trust in God's
+authority and provision ([Trusting God][5]). Ultimately, human
+righteousness is a reflection of God's own fair and trustworthy character
+([God's Character][6]).
 
-Then Paul explains his statement:
-
-> For the promise to Abraham and his offspring that he would be heir of the world did not come through the law but through the righteousness of [faith](/life/faith). For if it is the adherents of the law who are to be the heirs, faith is null and the promise is void. For the law brings wrath, but where there is no law there is no [transgression](/bible/concepts/transgression).
-> 
-> That is why [it depends on faith](/eternal/saved/belief), in order that the promise may rest on grace and be guaranteed to all his offspring — not only to the adherent of the law but also to the one who shares the faith of Abraham, who is the father of us all, as it is written, 
->
->> “I have made you the father of many nations”
->
-> in the presence of **the God in whom he believed**, who gives life to the dead and calls into existence the things that do not exist. In hope he believed against hope, that he should become the father of many nations, as he had been old, 
->
->> “So shall your offspring be.”
->
-> He did not weaken in faith when he considered his own body, which was as good as dead (since he was about a hundred years old), or when he considered the barrenness of Sarah’s womb. No unbelief made him waver concerning the promise of God, but **he grew strong in his faith as he gave glory to God**, fully convinced that God was able to do what he had promised. That is why **his faith was *“counted to him as righteousness.”*** 
-> 
-> But the words *“it was counted to him”* were not written for his sake alone, but for ours also. **It will be counted to us who believe in Him** Who raised from the dead Jesus our Lord, who was delivered up for our trespasses and **raised for our justification**.
->
-> Therefore, since we have been **justified by faith**, we have peace with God **through our Lord Jesus Christ**. Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God. -- Romans 4:13-5:2
-
-Paul's explanation to the Corinthians:
-
-> God has united you with Christ Jesus. For our benefit God made him to be wisdom itself. **Christ made us right with God; he made us pure and holy, and he freed us from sin**. -- 1 Corinthians 1:30 (NLT)
-
-> For God was in Christ, reconciling the world to himself, no longer counting people's sins against them. For God made Christ, who never sinned, to be the offering for our sin, so that **we could be made right with God through Christ**. -- 2 Corinthians 5:19,21 (NLT)
-
-Paul's explanation to the Galatians:
-
-> Yet we know that **a person is made right with God by faith in Jesus Christ, not by obeying the law**. And we have believed in Christ Jesus, so that we might be made right with God because of our faith in Christ, not because we have obeyed the law. For **no one will ever be made right with God by obeying the law**." -- Galatians 2:16 (NLT)
-
-Paul's explanation to Titus:
-
-> ... **he saved us, not because of the righteous things we had done, but because of his mercy**. He washed away our sins, giving us a new birth and new life through the Holy Spirit. -- Titus 3:5 (NLT) 
-
-# Misconceptions about righteousness
-
-Some people think that you need to keep every law to be righteous, however Paul addresses this issue:
-
-> If righteousness comes through the law, then Christ died in vain. -- Galatians 2:21 (NKJV)
-
-> No one will be declared righteous in his sight by observing the law; rather, through the law we become conscious of sin. We all fall short of the glory of God. -- Romans 3:23 (NIV)
-
-The prophet Habakkuk also wrote:
-
-> The just shall live by his **faith** -- Habakkuk 2:4 (NKJV)
-
-# Trusting God
-
-Having "[faith](/life/faith) in God", means to [trust](/life/faith) God completely. When we trust [God's provision, protection and authority](/kingdom/darkness), we will have no need to try to live independently from God. 
-
-All the devil's temptations are alternative solutions or coping mechanisms to our problems to live independently from God, which all leads to sin. However, when we trust God, we will triumph these sin:
-
-> For the [sin](/bible/concepts/sin) of this one man, Adam, caused death to rule over many. But even greater is God's wonderful grace and His **gift of righteousness**, for all who receive it will live in **triumph over sin and death** through this one man, Jesus [Christ](/god/son/christ). -- Romans 5:17 (NLT)
-
-We cannot blindly have faith in our own capacity, nor can we [save](/eternal/saved) ourselves. Righteousness is a "gift" that we can only receive when we are reconciliation with the Father through [the blood covenant](/god/covenants/christ) of [His son](/god/son).
-
-> For it is by **believing in your heart that you are made right with God**, and it is by **confessing with your mouth that you are saved**. -- Romans 10:10 (NLT)
-
-Like any intimate relationship, you need maintain to maintain your righteousness by constantly trusting "that you are made right with God" which naturally means you will also have no problem to "confess" your trust "with your mouth".
-
-"Right standing with God" means to be [saved](/eternal/saved) and united (John 17:21) with a loving [Father](/god/father) (John 17:26).
-
-# God is fair and trustworthy
-
-We receive *righteousness*, but God Himself **is** *righteousness*. This this context it means God has always been "just".
-
-Jesus called God:
-
-> O **[righteous](https://biblehub.com/greek/1342.htm)** Father! -- John 17:25 (NKJV)
-
-Moses taught:
-
-> For I proclaim [the name](/bible/concepts/name) of [the LORD](/god/father/name#lord): 
->
-> * Ascribe greatness to our God. 
-> * He is the Rock, 
-> * His work is perfect; 
-> * For **all His ways are justice**, a God of truth and without injustice: **[Righteous](https://biblehub.com/hebrew/6662.htm) and [upright](https://biblehub.com/hebrew/3477.htm)** is He. 
->
-> -- Deuteronomy 32:3-4 (NKJV)
-
-David wrote:
-
-> The LORD shall endure forever:  
-> He has prepared His throne for judgment.
-> He shall judge the world in **righteousness**, and He shall administer judgment for the peoples in **uprightness**. 
->
-> -- Psalms 9:7-8 (NKJV)
-
-Isaiah wrote:
-
-> The LORD of hosts shall be exalted in judgment, and God Who is holy shall be hallowed in **righteousness**. -- Isaiah 5:16 (NKJV)
-
-Daniel understood that his nation was unfair, but that God is fair as he pleaded:
-
-> Therefore the LORD has kept the disaster in mind, and brought it upon us; for **the LORD our God is righteous** in all the works which He does, though we have not obeyed His voice. And now, O Lord our God, Who brought Your people out of the land of Egypt with a mighty hand, and made Yourself [a name](/bible/concepts/name), as it is this day — we have sinned, we have done wickedly! 
->
-> “O Lord, according to all **Your righteousness**, I pray, let Your anger and Your fury be turned away from Your city Jerusalem, Your holy mountain; because for our sins, and for the iniquities of our fathers, Jerusalem and Your people are a reproach to all those around us. Now therefore, our God, hear the prayer of Your servant, and his supplications, and for the Lord’s sake cause Your face to shine on Your sanctuary, which is desolate. O my God, incline Your ear and hear; open Your eyes and see our desolations, and the city which is called by Your name; for we do not present our supplications before You because of **our righteous deeds**, but because of Your great mercies. -- Daniel 9:14-18 (NKJV)
+[1]: https://www.adevotion.org/archive/right-standing-with-god-is-a-gift
+[2]: https://www.vocabulary.com/dictionary/propitiation
+[3]: #justification-by-faith
+[4]: #misconceptions
+[5]: #trusting-god
+[6]: #gods-character
