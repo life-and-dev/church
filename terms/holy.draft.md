@@ -1,198 +1,156 @@
+---
+description: Explore the biblical meaning of holiness. Learn how the Hebrew
+  "qadosh" and Greek "hagios" define God's unique character and the dedication
+  of His creation.
+keywords: holiness, sacred, qadosh, hagios, biblical definition,
+  sanctification, divine purity, consecration
+reviewed: true
+---
+
 # Holy
 
-> [You are to distinguish between the holy and the common](/god/holy), and between the unclean and the clean, and you are to teach the people of Israel all the statutes that the LORD has spoken to them by Moses. -- Leviticus 10:10-11 (ESV)
+What does it mean to be "holy"? Many people associate the term with religious
+perfection or a life of strict piety. However, the biblical concept of
+holiness is much deeper than simple moral excellence. It describes a
+fundamental distinction between what is common and what is set apart for a
+higher purpose. Understanding this term reveals why God's nature is so unique
+and why He calls His followers to a different way of living.
 
-# Secular definition of Holy
+## Linguistic Roots
 
-[Strong's Concordance](https://biblehub.com/hebrew/6918.htm) define "holy" in Hebrew as:
+The word "holy" finds its origin in ancient languages that emphasize separation
+and dedication. In the Hebrew Scriptures, the word is *qadosh* (קָדוֹשׁ).
+Strong's Concordance defines this term as sacred or holy. It suggests
+something that is ceremonially or morally set apart from the ordinary.
 
-```
-qadosh            : sacred, holy
-Original Word     : קָדוֹשׁ
-Part of Speech    : Adjective
-Transliteration   : qadosh
-Phonetic Spelling : (kaw-doshe')
-Definition        : sacred, holy
-```
+Similarly, the New Testament uses the Greek word *hagios* (ἅγιος). This term
+also means sacred or set apart for God. For a believer, it implies a likeness
+of nature with the LORD because they are different from the world around them.
+While English dictionaries sometimes provide varying or overlapping definitions
+for "holy" and "sacred," most agree that to be sacred means to be devoted
+exclusively to a single use, purpose, or person.
 
-Or in Greek:
+> 1. made, declared, or believed to be holy; devoted to a deity or some
+> religious ceremony or use.
+> 2. worthy of religious veneration.
+> 3. concerned with religion or religious purposes.
+> 4. worthy of respect or dedication.
+> 5. (often followed by 'to') devoted exclusively to a single use or purpose
+> or person. — vocabulary.com
 
-```
-hagios            : sacred, holy
-Original Word     : ἅγιος, ία, ον
-Part of Speech    : Adjective
-Transliteration   : hagios
-Phonetic Spelling : (hag'-ee-os)
-Definition        : sacred, holy
-```
+## The Holiness of God
 
-So, according to Strong's Concordance "holy" means "sacred". It is surprisingly hard to find a proper definition of "holy" or "sacred" in English dictionaries which seems to contradict each other. However, commonly most agree that "sacred" means:
+The Bible identifies the LORD as the ultimate standard of holiness. His
+holiness is not just a quality He possesses. It is the very essence of who He
+is. This nature is characterized by His role as a just judge and His absolute
+purity.
 
-> 1. made, declared, or believed to be holy; devoted to a deity or some religious ceremony or use
-> 2. worthy of religious veneration
-> 3. concerned with religion or religious purposes
-> 4. worthy of respect or dedication
-> 5. (often followed by `to') devoted exclusively to a single use or purpose or person
->
-> -- [vocabulary.com](https://www.vocabulary.com/dictionary/sacred)
-
-# Biblical definition of Holy
-
-[YHVH](/god/father/name) is holy, which means He is:
-
-* a [just judge](#just-judge),
-* [almighty God](#almighty-god),
-* [worthy of dedication](#worthy-of-dedication),
-* [pure and clean](#pure-and-clean)
-
-Any persons or item that is holy means that the person, or it has to:
-
-* [be dedicated](#dedication) (set apart) for YHVH's purpose,
-* [be clean](#clean) (from wickedness or sin) 
-
-In addition, the following is also considered holy:
-
-* [God's Holy Name](/god/father/name) ([reputation or authority](/biblical/concepts/name)) (Leviticus 22:32; 1 Chronicles 16:10,35; Ezekiel 36:22-23)
-* [God's Holy Son](/god/son) (Mark 1:24; Luke 1:35, 4:34; John 6:69; Acts 2:27 & 13:35 quoting Psalm 16:10; Hebrews 7:26)
-* [God's Holy Spirit](/god/spirit) (Psalm 51:11; Isaiah 63:10-13; Matthew 1:18, 3:11, 12:32; Luke 11:13, Ephesians 1:13, Ephesians 4:30, 2 Peter 1:21)
-
-## Holiness of God
-
-> Are You not from everlasting, O LORD my God, my **Holy One**?
->
+> Are you not from everlasting,
+> O LORD my God, my Holy One?
 > We shall not die.
 >
-> * O LORD, You have appointed them for judgment;
-> * O Rock, You have marked them for correction.
-> * You are of purer eyes than to behold evil, and cannot look on wickedness.
->
-> -- Habakkuk 1:12 (NKJV)
+> O LORD, you have ordained them as a judgment,
+> and you, O Rock, have established them for reproof.
+> You who are of purer eyes than to see evil
+> and cannot look at wrong. — Habakkuk 1:12-13 (ESV)
 
-In other words, according to Habakkuk, the "Holy One" is:
-* a [just judge](#just-judge)
-* [pure and clean](#pure-and-clean)
+The prophet Habakkuk highlights that God's holiness makes it impossible for Him
+to tolerate wickedness. This purity defines His interactions with humanity.
 
-### Just Judge
+### A Just Judge
 
-> I will not execute my burning anger; I will not again destroy Ephraim; for I am God and not a man, **the Holy One** in your midst, and I will not come in wrath. -- Hosea 11:9 (ESV)
+Because God is holy, He is a just judge who acts with integrity. He does not
+act out of arbitrary anger but according to His righteous character.
 
-### Almighty God
+> I will not execute my burning anger; I will not again destroy Ephraim; for I
+> am God and not a man, the Holy One in your midst, and I will not come in
+> wrath. — Hosea 11:9 (ESV)
 
-> Then He *(YHVH)* struck the men of Beth Shemesh, because they had looked into the ark of the LORD. He struck fifty thousand and seventy men of the people, and the people lamented because the LORD had struck the people with a great slaughter.
->
-> And the men of Beth Shemesh said,
->
-> “Who is able to stand before this **holy LORD God**?<br/>
-> And to whom shall it go up from us?”
->
-> -- 1 Samuel 6:19-20 (NKJV)
+### Almighty and Worthy
 
-### Worthy of dedication
+The holiness of God also evokes a sense of awe and reverence. In the presence
+of the "holy LORD God," people throughout history have felt their own
+limitations and the weight of His power.
 
-> The four living creatures, each having six wings, were full of eyes around and within. And they do not rest day or night, saying:
->
-> “**Holy, holy, holy**, Lord God Almighty, Who was and is and is to come!”
->
-> Whenever the living creatures give glory and honor and thanks to Him who sits on the throne, Who lives forever and ever, the twenty-four elders fall down before Him who sits on the throne and worship Him who lives forever and ever, and cast their crowns before the throne, saying:
->
-> “You are worthy, O Lord, to receive glory and honor and power;
-> For You created all things, and by Your will they exist and were created.”
->
-> -- Revelation 4:8-11 (NKJV)
+> And the men of Beth-shemesh said, "Who is able to stand before the LORD, this
+> holy God? And to whom shall he go up away from us?" — 1 Samuel 6:20 (ESV)
 
-### Pure and clean
+In the heavenly realm, this holiness is the subject of eternal worship. The
+book of Revelation describes living creatures who never cease to acknowledge
+the supreme holiness of the Creator.
 
-> For I am the LORD your God.
->
-> * Consecrate yourselves *([set yourself apart](https://biblehub.com/hebrew/6942.htm))* therefore, and **be holy**, for **I am holy**.
-> * You shall **not defile yourselves** with any swarming thing that crawls on the ground.
->
-> For I am the LORD who brought you up out of the land of Egypt to be your God. **You shall therefore be holy, for I am holy**.”
->
-> -- Leviticus 11:44-45 (ESV)
+> "Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!"
+> — Revelation 4:8 (ESV)
 
-God will not defile Himself. Therefore, if you want to serve God, you had to be clean.
+## Holiness in Creation
 
-> But Joshua said to the people, “**You are not able to serve the LORD, for He is a holy God**. He is a jealous God; he will not forgive your transgressions or your sins. -- Joshua 24:19 (ESV)
+While God is inherently holy, created things can also be considered holy. This
+occurs when a person, place, or object is dedicated exclusively to the LORD's
+service. Since God is pure and clean, anything in His presence must also be
+free from contamination.
 
-Therefore, everything dedicated to God is also considered Holy to avoid contamination of uncleanness.
+### Consecration and Purity
 
-## Holiness of creation
+In the biblical tradition, holiness is often contrasted with the "common" or
+"unclean." To be holy is to be set apart and kept clean from sin and
+wickedness.
 
-Created persons or items is considered holy when they are set apart exclusively for YHVH's purpose or ownership. Since YHVH Himself is pure and clean, anything in His presence should also be pure, clean and righteous. Therefore, the priests had to do proper sacrificial worship and cleaning before they were allowed to enter the most holy place of God. Likewise, no human has access to YHVH without the sacrificial blood of Jesus Christ our mediator to God who washes believers clean from sin so that they too may be holy.
+> For I am the LORD your God. Consecrate yourselves therefore, and be holy, for
+> I am holy. You shall not defile yourselves with any swarming thing that
+> crawls on the ground. For I am the LORD who brought you up out of the land of
+> Egypt to be your God. You shall therefore be holy, for I am holy.
+> — Leviticus 11:44-45 (ESV)
 
-### Clean
+Because God is holy, those who serve Him must also pursue holiness. This is
+not always an easy task. Joshua warned the Israelites that serving a holy God
+requires absolute commitment and the removal of transgressions.
 
-> “Thus says the LORD of hosts:
->
-> Ask the priests about the law: ‘If someone carries holy meat in the fold of his garment and touches with his fold bread or stew or wine or oil or any kind of food, does it become holy?’”<br/>
-> The priests answered and said, “No.”<br/>
-> Then Haggai said, “If someone who is unclean by contact with a dead body touches any of these, does it become unclean?”<br/>
-> The priests answered and said, “It does become unclean.”
->
-> -- Haggai 2:11-13 (ESV)
+> But Joshua said to the people, "You are not able to serve the LORD, for he is
+> a holy God. He is a jealous God; he will not forgive your transgressions or
+> your sins." — Joshua 24:19 (ESV)
 
-If you want to be God's child in His presence, you should be holy too:
+### Manifestations of Holiness
 
-> As obedient children, do not be conformed to the passions of your former ignorance, but as **He who called you is holy, you also be holy** in all your conduct, since it is written, ***“You shall be holy, for I am holy.”*** -- 1 Peter 1:14-16 (ESV)
+Scripture identifies many things that are considered holy because of their
+connection to the LORD. These include:
 
-This is why [sin](/bible/concepts/sin) is such a big deal. It makes one "unclean" and causes separation between you and God.
+* **The Name of God:** The reputation and authority of the LORD are holy and
+  must not be profaned (Leviticus 22:32; 1 Chronicles 16:10,35;
+  Ezekiel 36:22-23).
+* **The Son of God:** Jesus Christ is described as the "Holy One of God," a
+  high priest who is innocent and unstained (Mark 1:24; Luke 1:35; John 6:69;
+  Hebrews 7:26).
+* **The Holy Spirit:** The Spirit of God is the agent of sanctification and
+  truth (Psalm 51:11; Isaiah 63:10-13; Matthew 1:18, 3:11, 12:32).
+* **People:** Believers are called to be a holy nation and "saints," which
+  literally means "holy ones" (Exodus 19:6; 1 Peter 1:14-16; Romans 1:7).
+* **Heavenly Beings:** Angels and other celestial watchers are also described
+  as holy ones because of their proximity to the divine presence (Daniel 4:13).
+* **Places and Objects:** The Sabbath day, the temple, and various tools used
+  in worship are holy because they belong to the LORD (Genesis 2:3; Exodus 3:5;
+  Leviticus 21:6). This includes items like the holy ark and garments for the
+  priests (Joshua 6:19; Exodus 28:2).
 
-### Dedication
+## Responding to Critiques
 
-Hannah's dedication:
+Some critics argue that the concept of a "holy" and "set apart" God makes Him
+seem distant or uncaring. They suggest that such extreme purity would prevent
+Him from interacting with a flawed world. However, the biblical narrative
+presents a different view. God's holiness is exactly what allows Him to be a
+reliable source of justice and love. His separation from evil does not mean He
+is removed from His creation. Instead, He provides a way for people to be made
+holy so they can enjoy His presence. This is achieved through the sacrificial
+work of Jesus Christ, who bridges the gap between a holy God and a broken
+humanity.
 
-> "For this child I prayed, and the Lord has granted me my petition which I asked of Him. Therefore I also have lent him to the LORD; as long as he lives he shall be lent to the LORD."
->
-> So they worshiped the LORD there.
->
-> And Hannah prayed and said:
->
-> “My heart rejoices in the Lord;<br/>
-> My horn is exalted in the Lord.<br/>
-> smile at my enemies,<br/>
-> Because I rejoice in Your salvation.<br/>
-> **No one is holy like the LORD, for there is none besides You**, nor is there any rock like our God."
->
-> -- 1 Samuel 1:24-2:2 (NKJV)
+## Conclusion
 
-Other [things that are considered Holy](/god/holy) which God had considered holy:
-
-God's angel:
-
-* Holy One referred as a "watcher" (Daniel 4:13, 23; 8:13)
-
-God's time:
-
-* Holy Sabbath (Genesis 2:3; Exodus 16:22-26, 31:14-15, 35:2; Deuteronomy 5:12)
-
-God's people:
-
-* God's Son (Luke 1:35; Acts 2:27 & 13:35 quoting Psalm 16:10; Hebrews 7:26)
-* [Holy Children](/god/family) (1 Peter 1:14-16)
-* Holy Assembly (Exodus 12:16-17)
-* Holy Nation (Exodus 19:3-6; Leviticus 19:1-2, 20:7)
-* Holy Priests (Exodus 29:21, 29:32-33, 30:29-30; Leviticus 21:1-9; Hebrews 7:26)
-* Holy Prophets (2 Peter 3:1-2)
-* ["Saints"](https://biblehub.com/greek/40.htm) (literal translation is "those who are holy to God") (Matthew 27:52; Acts 9:13,32,41; 26:10; Romans 1:7; 8:27; 12:13; 15:25-31; 16:2,15; 1 Corinthians 1:2; 6:1-2; etc.)
-
-God's places:
-
-* Holy Place (Exodus 3:4-5, 15:13, 26:33-34, 28:35, 28:42-43, 29:31, 40:9-11, Joshua 5:15)
-* Holy Temple (Psalm 5:7, 11:4, 138:2; 1 Kings 7:48-50; Habakkuk 2:20; Jonah 2:4)
-* Holy Mountain (Joel 2:1, 3:17; Obadiah 1:16)
-* Holy Land (Zechariah 2:12)
-* Holy City (Joel 3:17; Revelation 21:10-11)
-
-God's objects:
-
-* [Holy Bread](/bible/metaphors/bread) (Leviticus 21:6)
-* Holy Garments (Exodus 28:2-4, 29:21,29)
-* Holy Offerings (Exodus 28:38; Leviticus 2:3,10, 6:25-30, 19:23-24, 27:14, 27:21-23, 27:28-30; Numbers 5:9-10)
-* Holy Crown (Exodus 28:36, 29:6, 39:30)
-* Holy Anointing Oil (Exodus 30:33)
-* Holy Incense (Exodus 30:34-38)
-* Holy Altar (Exodus 40:10)
-* Holy Water (Numbers 5:17)
-* Holy Treasures (Joshua 6:19)
-* Holy Ark (2 Chronicles 35:3)
+The concept of holiness describes the unique "otherness" of God and the
+dedication of His creation. It is characterized by [divine
+purity](#the-holiness-of-god) and the requirement for
+[consecration](#consecration-and-purity) among those who serve Him. While
+God's holiness sets Him apart as a [just judge](#a-just-judge), it also defines
+the [various manifestations](#manifestations-of-holiness) of His presence in
+the world. Ultimately, holiness is the call for everything in creation to
+fulfill its [divine purpose](#holiness-in-creation) by being set apart for the
+LORD.
