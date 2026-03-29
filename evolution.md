@@ -1,3 +1,8 @@
+---
+description: Explore the evolution of the church from its Jewish roots through centuries of influence, including the Nicene Creed, the Crusades, and papal authority.
+keywords: church history, Jewish influences, Christian evolution, Nicene Creed, Papal authority, Crusades, ecclesiastical development, historical theology
+---
+
 # The Evolution of the Church
 
 While the Church has a rich history influenced by various factors, this article primarily focuses on the key events that influenced church traditions, beliefs and rules.
