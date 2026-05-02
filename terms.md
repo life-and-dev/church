@@ -7,7 +7,9 @@ keywords: theological terminology, Christian jargon, Christian concepts, Christi
 
 | Term                                      | Meaning                                                                                                                                                                   |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Christian](terms/christian.md)           | A devouted follower of Christ                                                                                                                                             |
 | [Godhead](https://son.ofgod.info/godhead) | Original term "Godhood" reffered to the divine nature of God (what God is), though later it changed to "Godhead" which identify the collection of the Trinity members     |
+| [Saints](terms/saints.md)                 | Originally referred to all believers, but it evolved to become an official church title for select individuals.                                                           |
 | [The Lord's Day](terms/sundays.md)        | The Christian day of rest which replaced the Sabbath                                                                                                                      |
 | [Tithing](terms/tithing.md)               | The obligation to pay the church 10% of your income                                                                                                                       |
 | [Trinity](https://son.ofgod.info/trinity) | A non-scriptural theological term used in creeds for a specific doctrine that explains how the [Godhead](https://son.ofgod.info/godhead) exists as three co-equal persons |

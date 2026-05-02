@@ -17,7 +17,7 @@ Likewise, [the Cambridge Dictionary](https://dictionary.cambridge.org/us/diction
 
 > someone who believes in and follows the teachings of Jesus Christ
 
-The Apostle Paul does not refer to his followers as "Christian". Instead, he calls them "[saints](https://biblehub.com/greek/40.htm)" (Romans 1:7 (ESV)). This term refers to people who are set apart for God.
+The Apostle Paul does not refer to his followers as "Christian". Instead, he calls them "[saints](saints.md)" (Romans 1:7 (ESV)). This term refers to people who are set apart for God.
 
 ## Biblical Context
 
