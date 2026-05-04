@@ -76,6 +76,7 @@ However, the definition of "labour" is misunderstood. That was also the point Je
 After much debate the Apostles ruled:
 
 > For it has seemed good to the Holy Spirit and to us to lay on you no greater burden than these requirements: that you abstain from
+>
 > 1. what has been sacrificed to idols, and
 > 2. from blood, and
 > 3. from what has been strangled, and
@@ -159,12 +160,34 @@ Christians often argue that this is a Jewish law or tradition not applicable to 
 
 At that time there were no Jewish nation yet. This proves that God sanctified the seventh day to all people.
 
+### Requirement for the Everlasting (New) Covenant of Christ
+
+Isaiah 52-56 prophecy about the "Everlasting Covenant" known as the "New Covenant" in the "New" Testament which Jesus the Christ established at his [crucifixion](https://kingdom.ofgod.info/christ/crucifixion). All Christians acknowledge that the "New Covenant" applies to them, however many of them ignore the conditions of the covenant which Isaiah spells out:
+
+> Thus says the LORD: “Keep justice, and do [righteousness](https://kingdom.ofgod.info/life/righteousness), for soon my salvation will come, and my righteousness be revealed. Blessed is the man who does this, and the son of man who holds it fast, who **keeps the Sabbath**, not profaning it, and keeps his hand from doing any evil.”  
+>
+> Let not the foreigner who has joined himself to the LORD say, “The LORD will surely separate me from His people”; and  
+> let not the eunuch say, “Behold, I am a dry tree.”  
+>
+> For thus says the LORD: “To the eunuchs **who keep My Sabbaths**, who choose the things that please Me and **hold fast [My covenant](https://kingdom.ofgod.info/covenants/christ)**: I will give in My house and within My walls a monument and a [name](https://eternal.family.net.za/bible/concepts/name) better than sons and daughters; I will give them an everlasting name that shall not be cut off.  
+>
+> And **the foreigners who join themselves to the LORD**, to minister to Him, to love [the name](https://word.ofgod.info/terms/name) of the LORD, and to be His servants, **everyone** who **keeps the Sabbath and does not profane it**, and **holds fast [My covenant](https://kingdom.ofgod.info/covenants/christ)**: these I will bring to My holy mountain, and make them joyful in My house of prayer; their burnt offerings and their sacrifices will be accepted on my altar; for my house shall be called a house of prayer for **all peoples**.”  
+>
+> The Lord GOD, Who gathers **the outcasts of Israel**, declares, “I will gather **yet others** to him besides those already gathered.”
+>
+> — Isaiah 56:1-8 (ESV)
+
+and Isaiah also warns:
+
+> “If you turn back your foot from **the Sabbath**, from **doing your pleasure on My holy day**, and **call the Sabbath a delight** and the holy day of the LORD honorable; if you honor it, not going your own ways, or seeking your own pleasure, or talking idly; then you shall take delight in the LORD, and I will make you ride on the heights of the earth; I will feed you with the heritage of Jacob your father, for the mouth of the LORD has spoken.” — Isaiah 58:13-14
+
 ## Conclusion
 
 1. God Himself kept the Sabbath (Genesis 2:2-3).
-2. God declared it a permanent sign of a covenant throughout all generations (Exodus 31:16-17). 
-3. God repeatedly confirmed the Sabbath commandment multiple times throughout the Old Testament via different prophets (Isaiah 58:13-14; Jeremiah 17:21-22).
-4. Jesus kept the Sabbath (Luke 4:16).
-5. The apostles kept the Sabbath even after Jesus' resurrection (Acts 13:14,42-44, 16:13, 17:2-2, 18:4; Hebrews 4:9-11).
+2. God declared it a permanent sign of a covenant throughout all generations (Exodus 31:16-17).
+3. It's a requirement of the New Covenant of Christ (Isaiah 56:1-8).
+4. God repeatedly confirmed the Sabbath commandment multiple times throughout the Old Testament via different prophets (Isaiah 58:13-14; Jeremiah 17:21-22).
+5. Jesus kept the Sabbath (Luke 4:16).
+6. The apostles kept the Sabbath even after Jesus' resurrection (Acts 13:14,42-44, 16:13, 17:2-2, 18:4; Hebrews 4:9-11).
 
 Who are we to know better?
