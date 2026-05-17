@@ -11,7 +11,7 @@ Tertullian, a prolific early Christian author, left an indelible mark on Western
 
 In 206 AD, [Tertullian](https://en.wikipedia.org/wiki/Tertullian) [adopted](https://www.britannica.com/biography/Tertullian) [Montanism](156-montanism.md) [^1] after [being an orthodox Christian for approximately 9-11 years](https://www.newadvent.org/cathen/14520c.htm). He invented theological concepts like:
 
-*   **"Trinitas"**[^2]: This is the Latin term for the [Trinity](https://son.ofgod.info/trinity). Tertullian's version of the Trinity was complex and leaned towards modalism [^3], which he described as "unam substantiam in tribus cohaerentibus" (one substance in three coherent and inseparable *Persons*) [^4]. This formulation is [still influential in many Latin churches today](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100066).
+*   **"Trinitas"**[^2]: This is the Latin term for the [Trinity](https://son.ofgod.info/trinity). Tertullian's version of the Trinity was complex which he described as "unam substantiam in tribus cohaerentibus" (one substance in three coherent and inseparable *Persons*) [^4]. This formulation is [still influential in many Latin churches today](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100066).
 *   **"Substantia"**[^5]: This Latin word for "substance" means ["material with particular physical characteristics"](https://dictionary.cambridge.org/dictionary/english/substance). [Tertullian used this term to explain that God was made up of one divine substance](https://www.jstor.org/stable/23954327). This differs from the modern view which sees the Trinity as three distinct persons who are of the same substance.
 *   **"Persona"**[^5]: Meaning "presence" or "person" in Latin, [Tertullian used this term to explain that God consists of three divine persons who share a single "substance"](https://www.1517.org/articles/one-substance-with-the-father). [These terms balance unity and diversity within the Trinity](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100066), allowing God to be viewed as one God in three distinct persons who can interact with each other.
 *   **"Subordinationism"**: This concept describes a hierarchical relationship within the Trinity[^6]. The Father was considered the supreme person, with the Son subordinate to Him. Tertullian viewed the divine Son as inferior to the Father. This differs from the modern view, which sees the three persons of the Trinity as equal in dignity and authority.
@@ -52,7 +52,6 @@ Tertullian's legacy is a complex one. While his [theological innovations](#theol
 
 [^1]: McGowan 2006:437
 [^2]: AP2 and 3; Migne 1844:157-158; ed. Schaff 1885a:1337-1338; cf. Hillar 2012:190-220; Quasten 1950:286
-[^3]: Haykin 2017; cf. Carl 2009:1, 3; Holmes 2012:69-70
 [^4]: AP12; Migne 1844:168; ed. Schaff 1885a:1358
 [^5]: Litfin 2019:92
 [^6]: Quasten 1950:326

@@ -20,7 +20,7 @@ The updated Niceno-Constantinopolitan Creed is:
 > * We believe in one God, the Father Almighty,
 >   * Maker of heaven and earth, and of all things visible and invisible.
 > * And in one Lord Jesus Christ,
->   * the only-begotten ~~ that is of the essence of the Father~~ [Son of God](https://son.ofgod.info), ***begotten of the Father before all worlds***;
+>   * the only-begotten ~~that is of the essence of the Father~~ [Son of God](https://son.ofgod.info), ***begotten of the Father before all worlds***;
 >   * God of God, Light of Light, very God of very God;
 >   * begotten, not made, being of one substance with the Father,
 >   * by whom all things were made, ~~both the things in heaven and on earth~~,
