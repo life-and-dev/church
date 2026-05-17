@@ -159,7 +159,7 @@ In addition, this puts Christians in a difficult position:
 
 Myth: *The concept of the Trinity had always existed, it was only clarified by the church fathers.*
 
-Truth: The concept of [the Trinity contradict the Bible](https://eternal.family.net.za/bible/doctrines/trinitarian). [There is only 1 God](https://eternal.family.net.za/bible/concepts/shema), named [YHVH](https://eternal.family.net.za/god/father/name) or introduced as God the Father by Jesus himself.
+Truth: The concept of [the Trinity contradict the Bible](https://eternal.family.net.za/bible/doctrines/trinitarian). [There is only 1 God](https://eternal.family.net.za/bible/concepts/shema), named [YHVH](https://ofgod.info/name) or introduced as God the Father by Jesus himself.
 
 This was also one of the creeds proclaimed by the council of Nicaea in 325 to counter Arianism. The idea was invented by [Tertullian](https://en.wikipedia.org/wiki/Tertullian), a North African sect leader, who lived in the previous century, who was also previously rejected by the church.
 

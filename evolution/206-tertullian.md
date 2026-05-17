@@ -1,6 +1,6 @@
 ---
 description: Explore the theological contributions of Tertullian, the early Christian author who coined the term 'Trinity' and shaped Western theology.
-keywords: [Tertullian, Trinity, Trinitas, substantia, persona, subordinationism, Montanism, early Church Fathers]
+keywords: Tertullian, Trinity, Trinitas, substantia, persona, subordinationism, Montanism, early Church Fathers
 ---
 
 # 206 (Tertullian)
@@ -9,17 +9,17 @@ Tertullian, a prolific early Christian author, left an indelible mark on Western
 
 ## Theological Contributions
 
-In 206 AD, [Tertullian](https://en.wikipedia.org/wiki/Tertullian) [adopted](https://www.britannica.com/biography/Tertullian) [Montanism](/kingdom/church/history/montanism.md)[^1] after [being an orthodox Christian for approximately 9-11 years](https://www.newadvent.org/cathen/14520c.htm). He invented theological concepts like:
+In 206 AD, [Tertullian](https://en.wikipedia.org/wiki/Tertullian) [adopted](https://www.britannica.com/biography/Tertullian) [Montanism](156-montanism.md) [^1] after [being an orthodox Christian for approximately 9-11 years](https://www.newadvent.org/cathen/14520c.htm). He invented theological concepts like:
 
-*   **"Trinitas"**[^2]: This is the Latin term for the [Trinity](/bible/doctrines/trinitarian.md). Tertullian's version of the Trinity was complex and leaned towards [modalism](/bible/interpretations/jesus/comparison.md#modalism) [^3], which he described as "unam substantiam in tribus cohaerentibus" (one substance in three coherent and inseparable [Persons]) [^4]. This formulation is [still influential in many Latin churches today](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100066).
+*   **"Trinitas"**[^2]: This is the Latin term for the [Trinity](https://son.ofgod.info/trinity). Tertullian's version of the Trinity was complex and leaned towards modalism [^3], which he described as "unam substantiam in tribus cohaerentibus" (one substance in three coherent and inseparable *Persons*) [^4]. This formulation is [still influential in many Latin churches today](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100066).
 *   **"Substantia"**[^5]: This Latin word for "substance" means ["material with particular physical characteristics"](https://dictionary.cambridge.org/dictionary/english/substance). [Tertullian used this term to explain that God was made up of one divine substance](https://www.jstor.org/stable/23954327). This differs from the modern view which sees the Trinity as three distinct persons who are of the same substance.
 *   **"Persona"**[^5]: Meaning "presence" or "person" in Latin, [Tertullian used this term to explain that God consists of three divine persons who share a single "substance"](https://www.1517.org/articles/one-substance-with-the-father). [These terms balance unity and diversity within the Trinity](https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100066), allowing God to be viewed as one God in three distinct persons who can interact with each other.
 *   **"Subordinationism"**: This concept describes a hierarchical relationship within the Trinity[^6]. The Father was considered the supreme person, with the Son subordinate to Him. Tertullian viewed the divine Son as inferior to the Father. This differs from the modern view, which sees the three persons of the Trinity as equal in dignity and authority.
-*   **"Verbum"**: The Latin for "Word," Tertullian used this term to refer to the Greek [Logos](/bible/concepts/word.md) philosophy. This philosophy teaches that [the Son is "the Word"](/god/son/essence/as-god/word.md), providing proof that He pre-existed as a person of God before creation. Although Tertullian did not invent this Greek philosophy, he documented it in Latin for the church.
+*   **"Verbum"**: The Latin for "Word," Tertullian used this term to refer to the Greek *Logos* philosophy. This philosophy teaches that [the Son is "the Word"](https://son.ofgod.info/word), providing proof that He pre-existed as a person of God before creation. Although Tertullian did not invent this Greek philosophy, he documented it in Latin for the church.
 
 Tertullian wrote:
 
-> And at the same time [the mystery](/bible/concepts/mystery) of the oikonomia is safeguarded, for the unity is distributed in a Trinity. Placed in order, the three are the Father, Son, and Spirit. They are three, however, not in condition, but in degree; not in being, but in form; not in power, but in kind; of one being, however, and one condition and one power, because he is one God of whom degrees and forms and kinds are taken into account in the name of the Father, and of the Son, and of the Holy Spirit. -- [Against Praxeas](http://www.earlychristianwritings.com/text/tertullian17.html)
+> And at the same time [the mystery](https://eternal.family.net.za/bible/concepts/mystery) of the oikonomia is safeguarded, for the unity is distributed in a Trinity. Placed in order, the three are the Father, Son, and Spirit. They are three, however, not in condition, but in degree; not in being, but in form; not in power, but in kind; of one being, however, and one condition and one power, because he is one God of whom degrees and forms and kinds are taken into account in the name of the Father, and of the Son, and of the Holy Spirit. -- [Against Praxeas](http://www.earlychristianwritings.com/text/tertullian17.html)
 
 To summarise, according to Tertullian, the unity of God can be explained as:
 
@@ -42,7 +42,7 @@ In addition, Tertullian supported the following views, which were adopted by the
 
 However, not all of Tertullian's views were acceptable to the church. For example, the following views were not accepted by the Church:
 
-*   [**Subordination**](https://en.wikipedia.org/wiki/Subordinationism) of [the Son](/god/son.md) and [the Holy Spirit](/god/spirit.md) to [the Father](/god/father.md).
+*   [**Subordination**](https://en.wikipedia.org/wiki/Subordinationism) of [the Son](https://son.ofgod.info) and [the Holy Spirit](https://eternal.family.net.za/god/spirit.md) to [the Father](https://ofgod.info).
 *   **Accepted the Apocrypha**: He considered the Shepherd of Hermas, Judith, Enoch, and the Epistle of Barnabas as authoritative.
 *   **Reservations about Mary's virginity**: Tertullian expressed some reservations about the perpetual virginity of Mary.
 
