@@ -44,7 +44,7 @@ However, another theological perspective suggests that biblical "mysteries" are 
 To support the idea that God's essence is beyond comprehension, theologians frequently cite specific passages. An examination of these verses in their historical and textual contexts, however, reveals alternative interpretations.
 
 > [!NOTE]
-> The historical development of the Trinity serves as a primary example of this tension. When early creeds attempted to reconcile strict monotheism with the divinity of Jesus, they introduced concepts like *homoousios* (of the same substance) and eternal generation. When faced with logical or scriptural conflicts—such as how a derived Son can be fully co-equal to His source, or how an immortal God can die—theology frequently relies on the appeal to "mystery" to resolve the paradox. For a detailed examination of these historical developments and their biblical arguments, see [The Trinity](file:///home/gizbar/git/life-and-dev/son/trinity.md).
+> The historical development of the [Trinity](https://son.ofgod.info/trinity) serves as a primary example of this tension. When early creeds attempted to reconcile strict monotheism with the divinity of Jesus, they introduced concepts like *homoousios* (of the same substance) and eternal generation. When faced with logical or scriptural conflicts—such as how a derived Son can be fully co-equal to His source, or how an immortal God can die—theology frequently relies on the appeal to "mystery" to resolve the paradox.
 
 ### 1 Timothy 3:16
 

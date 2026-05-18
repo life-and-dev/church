@@ -19,12 +19,12 @@ In 206 AD, [Tertullian](https://en.wikipedia.org/wiki/Tertullian) [adopted](http
 
 Tertullian wrote:
 
-> And at the same time [the mystery](https://eternal.family.net.za/bible/concepts/mystery) of the oikonomia is safeguarded, for the unity is distributed in a Trinity. Placed in order, the three are the Father, Son, and Spirit. They are three, however, not in condition, but in degree; not in being, but in form; not in power, but in kind; of one being, however, and one condition and one power, because he is one God of whom degrees and forms and kinds are taken into account in the name of the Father, and of the Son, and of the Holy Spirit. -- [Against Praxeas](http://www.earlychristianwritings.com/text/tertullian17.html)
+> And at the same time [the mystery](../terms/mystery.md) of the oikonomia is safeguarded, for the unity is distributed in a Trinity. Placed in order, the three are the Father, Son, and Spirit. They are three, however, not in condition, but in degree; not in being, but in form; not in power, but in kind; of one being, however, and one condition and one power, because he is one God of whom degrees and forms and kinds are taken into account in the name of the Father, and of the Son, and of the Holy Spirit. -- [Against Praxeas](http://www.earlychristianwritings.com/text/tertullian17.html)
 
 To summarise, according to Tertullian, the unity of God can be explained as:
 
 | God is 1 in... | God is 3 in... |
-|:---------------|:---------------|
+| :------------- | :------------- |
 | substance      | persons        |
 | condition      | degrees        |
 | being          | forms          |
