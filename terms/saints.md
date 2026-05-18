@@ -35,7 +35,7 @@ At the time when the book of Matthew and the epistles of Paul were written, the 
 | Definition        | [Holy, sacred](holy.md)                                   |
 | Meaning           | [Holy](holy.md)                                           |
 
-In the New Testament, the term was used to refer to all believers. Paul addressed his letters to the entire community of believers as saints. For example, he wrote to all those in Rome who were loved by God and called to be saints (Romans 1:7 (ESV)). He also addressed the church of God in Corinth as those sanctified in Christ Jesus and called to be saints (1 Corinthians 1:2 (ESV)). Similar greetings appear in his letters to the Ephesians and the Philippians (Ephesians 1:1 (ESV); Philippians 1:1 (ESV)).
+In the New Testament, the term was used to refer to all believers. Paul addressed his letters to the entire community of believers as saints. For example, he wrote to all those in Rome who were loved by God and called to be saints (Romans 1:7). He also addressed the church of God in Corinth as those sanctified in Christ Jesus and called to be saints (1 Corinthians 1:2). Similar greetings appear in his letters to the Ephesians and the Philippians (Ephesians 1:1; Philippians 1:1).
 
 ## Historical Development
 
