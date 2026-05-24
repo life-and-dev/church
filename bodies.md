@@ -18,7 +18,7 @@ To better understand the distinction, the following table compares the ideal fun
 
 | The Body of Christ                                                                                                           | Potential Pitfalls of Institutional Churches                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Worships [the almighty God, the Father](https://eternal.family.net.za/god/father)                                            | A risk of idolising a human leader or the institution itself.                                           |
+| Worships [the almighty God, the Father](https://ofgod.info)                                                                  | A risk of idolising a human leader or the institution itself.                                           |
 | Submits to the commands of [the Lord Jesus Christ](https://kingdom.ofgod.info/christ)                                        | A tendency to prioritise human authority or tradition over Christ's direct commands.                    |
 | Guided by [the Holy Spirit of God](https://eternal.family.net.za/god/spirit)                                                 | A reliance on institutional [creeds](evolution.md) or rigid rules that may quench the Spirit's leading. |
 | A decentralised body of followers of Christ                                                                                  | A focus on centralised church membership and control.                                                   |

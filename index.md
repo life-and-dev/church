@@ -9,9 +9,9 @@ The practices, structures, and beliefs of modern Christian churches evolved sign
 
 Today [the meaning of "church" has changed](https://eternal.family.net.za/bible/translations/differences/ekklesia) to refer to the church system. This includes the church building, organizational structures, culture and theology of a church denomination. These denominations typically submit under some sort of human authority other than [God's Spirit](https://eternal.family.net.za/god/spirit).
 
-This transformation was accomplished through the [adaption of the teachings of Moses, the prophets, Jesus and his apostles](https://eternal.family.net.za/kingdom/church/modifications) over many years of [church council meetings, crusades and reformations](https://eternal.family.net.za/kingdom/church/history). Although almost every [Christian](https://eternal.family.net.za/bible/concepts/christian) church claims to submit under the authority of [Jesus Christ](https://eternal.family.net.za/god/son), many have reduced him to a mascot for their club to support their leadership's will.
+This transformation was accomplished through the [adaption of the teachings of Moses, the prophets, Jesus and his apostles](https://eternal.family.net.za/kingdom/church/modifications) over many years of [church council meetings, crusades and reformations](evolution.md). Although almost every [Christian](terms/christian.md) church claims to submit under the authority of [Jesus Christ](https://son.ofgod.info), many have reduced him to a mascot for their club to support their leadership's will.
 
-## The original [body of Christ](https://eternal.family.net.za/kingdom/body)
+## The original [body of Christ](https://kingdom.ofgod.info/christ/body)
 
 From the bible we can tell that the earliest believers in Jesus Christ were persecuted by both Jew and Roman. They were the minority and considered as sect (Acts 24:2-5). These congregations:
 
@@ -24,7 +24,7 @@ From the bible we can tell that the earliest believers in Jesus Christ were pers
 - **Informal structure**: The early church did not have a formal hierarchy or a centralized institutional structure.
 - **Informal sacraments**: The early church did not have a formal sacramental system, like [Holy Communion](https://eternal.family.net.za/life/communion). Instead, they participated in informal gatherings (Acts 2:46) that were focused on fellowship and [praise](https://eternal.family.net.za/bible/concepts/praise).
 
-These congregations represented [the body of Christ](https://eternal.family.net.za/kingdom/body) on Earth after Christ himself ascended to heaven. Christ Himself often referred to his body as [the bread of life](https://eternal.family.net.za/bible/metaphors/bread). This meant members of his body were supposed to "feed" upon or "feed" each other (support) with their "gifts", resources, teachings and testimonies.
+These congregations represented [the body of Christ](https://kingdom.ofgod.info/christ/body) on Earth after Christ himself ascended to heaven. Christ Himself often referred to his body as [the bread of life](https://eternal.family.net.za/bible/metaphors/bread). This meant members of his body were supposed to "feed" upon or "feed" each other (support) with their "gifts", resources, teachings and testimonies.
 
 Such mutual support is only possible with a great deal of trust. Trust comes through [fellowship](https://eternal.family.net.za/bible/concepts/fellowship), a key aspect of the gospel of Christ to the glory of the Father (see Paul's letter openings and endings).
 
@@ -46,7 +46,7 @@ Today, most modern Christians continue this ancient Jewish tradition because of 
 
 ### Believers are called Christians
 
-Myth: *You need to be called a [Christian](https://eternal.family.net.za/bible/concepts/christian) to be saved.*
+Myth: *You need to be called a [Christian](terms/christian.md) to be saved.*
 
 Truth: It does not matter what people call you.
 
@@ -64,7 +64,7 @@ In Tertullian (155-220), a sect leader in North Africa believed Baptism was not 
 
 Myth: *Christians have no responsibility to avoid anything that could place a curse on them.*
 
-Truth: Anyone, including Jesus was cursed. Everyone should avoid sin which could activate [curses](https://eternal.family.net.za/life/curses) in their lives.
+Truth: Anyone, including Jesus was cursed. Everyone should avoid sin which could activate [curses](https://kingdom.ofgod.info/darkness) in their lives.
 
 The doctrine the "Christians cannot be cursed" originates from Tertullian (155-220). Unfortunately many modern churches still hold onto this doctrine which causes Christians to be ignorant of the effect of generational curses, the occult, witchcraft, addictions or any consequences of sin.
 
@@ -113,8 +113,8 @@ Despite Martin Luther's 95 theses and his call that the church should stop wasti
 
 The consequence of this is that:
 
-- Christians preach a gospel of coming to the church instead of [saving the lost soul](https://eternal.family.net.za/eternal/save.md).
-- Expensive buildings require maintenance, tax-money, salaries, etc. This [drains the Christians' money](/terms/tithing.md) and skills so that those in need are often neglected.
+- Christians preach a gospel of coming to the church instead of [saving the lost soul](https://kingdom.ofgod.info/judgement).
+- Expensive buildings require maintenance, tax-money, salaries, etc. This [drains the Christians' money](terms/tithing.md) and skills so that those in need are often neglected.
 - Many Christians feel uncomfortable to deal with Christianity outside their "safe" church.
 
 ### The cross symbolizes Christ
@@ -133,7 +133,7 @@ Truth: We do not know the exact shape of the structure, however from practical e
 
 ### Jesus was promoted to be God
 
-Myth: [_The Bible teaches that Jesus is God._](https://eternal.family.net.za/god/son/essence)
+Myth: [_The Bible teaches that Jesus is God._](https://son.ofgod.info/nature)
 
 Truth: Constantine needed to merge Jesus with Sol Invictus (the sun god) to legitimize himself as the Roman emperor.
 
@@ -145,7 +145,7 @@ In 325 the council of Nicaea, of which Emperor Constantine actively participated
 
 This creed also heavily influenced future bible translators and modern day Christianity, for example, today Christians:
 
-- Crucify God and claim that [the immortal God](https://eternal.family.net.za/god/father) died (a contradiction and blasphemy).
+- Crucify God and claim that [the immortal God](https://ofgod.info) died (a contradiction and blasphemy).
 - [Pray](https://eternal.family.net.za/god/concepts/prayer) to Jesus instead.
 - [Serve and worship](https://eternal.family.net.za/god/son/essence/as-god/worship) Jesus instead of God.
 - Often expect Jesus to fulfill [God's Spirit](https://eternal.family.net.za/god/spirit) role and is then surprised when no miracles happen.
@@ -159,11 +159,11 @@ In addition, this puts Christians in a difficult position:
 
 Myth: *The concept of the Trinity had always existed, it was only clarified by the church fathers.*
 
-Truth: The concept of [the Trinity contradict the Bible](https://eternal.family.net.za/bible/doctrines/trinitarian). [There is only 1 God](https://eternal.family.net.za/bible/concepts/shema), named [YHVH](https://ofgod.info/name) or introduced as God the Father by Jesus himself.
+Truth: The concept of [the Trinity contradict the Bible](https://son.ofgod.info/trinity). [There is only 1 God](https://son.ofgod.info/shema), named [YHVH](https://ofgod.info/name) or introduced as God the Father by Jesus himself.
 
 This was also one of the creeds proclaimed by the council of Nicaea in 325 to counter Arianism. The idea was invented by [Tertullian](https://en.wikipedia.org/wiki/Tertullian), a North African sect leader, who lived in the previous century, who was also previously rejected by the church.
 
-The consequence is that [it confuses the roles](https://eternal.family.net.za/bible/interpretations/jesus) of [the Father](https://eternal.family.net.za/god/father), [the Son](https://eternal.family.net.za/god/son) and [the Holy Spirit](https://eternal.family.net.za/god/spirit).
+The consequence is that [it confuses the roles](https://eternal.family.net.za/bible/interpretations/jesus) of [the Father](https://ofgod.info), [the Son](https://eternal.family.net.za/god/son) and [the Holy Spirit](https://eternal.family.net.za/god/spirit).
 
 ### Sabbath moved to Sundays
 
@@ -225,7 +225,7 @@ Although birthdays were never officially instituted by any church and the only m
 
 Myth: *Unless you believe in the Trinity and that Jesus is God Almighty, you cannot be saved.*
 
-Truth: The "[Trinity](https://eternal.family.net.za/bible/doctrines/trinitarian)" doctrine was invented by Tertullian almost 200 years after the Gospels were written. Athanasius I of Alexandria declared around 350 AD that Christians must believe in his creed ([Athanasian Creed](https://en.wikipedia.org/wiki/Athanasian_Creed)) or they will lose their salvation and "perish everlastingly".
+Truth: The "[Trinity](https://son.ofgod.info/trinity)" doctrine was invented by Tertullian almost 200 years after the Gospels were written. Athanasius I of Alexandria declared around 350 AD that Christians must believe in his creed ([Athanasian Creed](https://en.wikipedia.org/wiki/Athanasian_Creed)) or they will lose their salvation and "perish everlastingly".
 
 Athanasius did this to defend his teachings against [Arianism](https://en.wikipedia.org/wiki/Arianism), [Modalism](https://en.wikipedia.org/wiki/Sabellianism), [Eutychianism](https://en.wikipedia.org/wiki/Eutychianism) and [Nestorianism](https://en.wikipedia.org/wiki/Nestorianism).
 
@@ -257,7 +257,7 @@ In 382, St. Jerome translated the first Latin bible as per recommendations of Po
 
 Today most Christians mainly focus and only preach from the "New Testament" about Jesus, neglecting the Almighty God, His teachings, prophecies, ordinances and testimonies of the "Old Testament".
 
-The reason why Jesus was born was to reconcile man to [God the Father](https://eternal.family.net.za/god/father), but instead [Christians made Jesus God](https://eternal.family.net.za/god/son/essence) (Sol Invictus) and forgot about [the real God](https://eternal.family.net.za/god).
+The reason why Jesus was born was to reconcile man to [God the Father](https://ofgod.info), but instead [Christians made Jesus God](https://eternal.family.net.za/god/son/essence) (Sol Invictus) and forgot about [the real God](https://eternal.family.net.za/god).
 
 ### Bible names were changed
 
@@ -295,7 +295,7 @@ Truth: No scripture correlate church attendance with salvation. In fact the chur
 
 The bible is clear that [salvation](https://eternal.family.net.za/eternal/saved) come from [faith](https://eternal.family.net.za/eternal/saved/belief) and [repentance](https://eternal.family.net.za/eternal/saved/repent) by [baptism](https://eternal.family.net.za/eternal/saved/baptize).
 
-However, it is not advisable to live in isolation with [the body of Christ](https://eternal.family.net.za/kingdom/body).
+However, it is not advisable to live in isolation with [the body of Christ](https://kingdom.ofgod.info/christ/body).
 
 ### You need a preacher to explain the Bible
 
@@ -315,11 +315,11 @@ The Bible says, let [God's Spirit](https://eternal.family.net.za/god/spirit) tea
 
 Myth: *Jesus sacrifice is not enough to forgive sin.*
 
-Truth: Only Jesus is [the Christ](https://eternal.family.net.za/bible/concepts/christ) (saviour).
+Truth: Only Jesus is [the Christ](https://kingdom.ofgod.info/christ) (saviour).
 
 The Catholic Church taught Christians that they needed to pay the Church money for forgiveness through the practice of indulgences. They often went as far to "reverse forgiveness", according to Martin Luther.
 
-The Protestant Reformation challenged this practice and according to them [only God may forgive sin](https://eternal.family.net.za/god/son/essence/as-god/claims/forgive). However, this creates theological tensions because Jesus also forgave sin. Therefore, the Protestants continue to strongly uphold [the Trinity doctrine](https://eternal.family.net.za/bible/doctrines/trinitarian) which explains how [Jesus is God](https://eternal.family.net.za/god/son/essence/as-god).
+The Protestant Reformation challenged this practice and according to them [only God may forgive sin](https://eternal.family.net.za/god/son/essence/as-god/claims/forgive). However, this creates theological tensions because Jesus also forgave sin. Therefore, the Protestants continue to strongly uphold [the Trinity doctrine](https://son.ofgod.info/trinity) which explains how [Jesus is God](https://eternal.family.net.za/god/son/essence/as-god).
 
 ### The Eucharist
 
@@ -394,30 +394,30 @@ Myth: *The body of Christ is the church.*
 
 Truth: The body of Christ are the believers who are committed to continue the work of Christ as his original disciples did.
 
-| Biblical Pattern                                                                                       | Some Institutional Models                                                                                                     |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Worship [the almighty God, the Father](https://eternal.family.net.za/god/father.md)    | May emphasize veneration of church leaders                                                                                    |
-| Submit to [the Lord Jesus Christ](https://eternal.family.net.za/god/son.md)'s commands | May emphasize submission to human church authority                                                                            |
+| Biblical Pattern                                                                       | Some Institutional Models                                                                                     |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Worship [the almighty God, the Father](https://ofgod.info.md)                          | May emphasize veneration of church leaders                                                                    |
+| Submit to [the Lord Jesus Christ](https://eternal.family.net.za/god/son.md)'s commands | May emphasize submission to human church authority                                                            |
 | Guided by [the Holy Spirit of God](https://eternal.family.net.za/god/spirit.md)        | Guided by institutional church [creeds](https://eternal.family.net.za/church/history.md) or established rules |
-| Decentralised body                                                                                     | Centralized organizational structure                                                                                          |
-| Meet wherever practical                                                                                | Meet in dedicated church buildings                                                                                            |
-| Focus on expanding God's Kingdom (saving the lost, serving the community)                              | May focus on membership growth or organizational sustainability                                                               |
-| Praises glorify God                                                                                    | May include entertainment-oriented worship experiences                                                                        |
-| Contributions support the body and serve non-believers                                                 | Contributions support organizational infrastructure                                                                           |
-| God's Spirit may deliver messages through multiple members                                             | Typically features a single prepared sermon                                                                                   |
-| Meetings are interactive, flexible and informal                                                        | Services tend to be structured and formal                                                                                     |
-| Service is characterized by humility                                                                   | Service may involve titles, positions and public recognition                                                                  |
-| May involve difficult tasks or persecution                                                             | May emphasize member comfort and safety                                                                                       |
+| Decentralised body                                                                     | Centralized organizational structure                                                                          |
+| Meet wherever practical                                                                | Meet in dedicated church buildings                                                                            |
+| Focus on expanding God's Kingdom (saving the lost, serving the community)              | May focus on membership growth or organizational sustainability                                               |
+| Praises glorify God                                                                    | May include entertainment-oriented worship experiences                                                        |
+| Contributions support the body and serve non-believers                                 | Contributions support organizational infrastructure                                                           |
+| God's Spirit may deliver messages through multiple members                             | Typically features a single prepared sermon                                                                   |
+| Meetings are interactive, flexible and informal                                        | Services tend to be structured and formal                                                                     |
+| Service is characterized by humility                                                   | Service may involve titles, positions and public recognition                                                  |
+| May involve difficult tasks or persecution                                             | May emphasize member comfort and safety                                                                       |
 
 ### Other common misunderstandings
 
-| Myth                                                                                          | Truth                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The "name of Jesus" is a phrase (like a magic word) that catches God's attention.             | The word ["name" means authority](https://eternal.family.net.za/bible/concepts/name). It could be considered as a delegate of Jesus or under submission to Jesus' commands or teachings, you are authorized to request or do certain things. |
-| Paying obeisance to a superior and worshipping God or an idol is often confused.              | Paying obeisance to a human superior is allowed. [Worshipping](https://eternal.family.net.za/bible/concepts/worship) an idol is forbidden.                                                                                                   |
-| Praise is confused with worship, e.g. singing hymns, dancing and art is considered "worship". | [Praise](https://eternal.family.net.za/bible/concepts/praise) is a public declaration. [Worship](https://eternal.family.net.za/bible/concepts/worship) is a sacrifice.                                                                       |
-| "Brother and sisters" is a way to address church members.                                     | When you support or are supported by [your family](https://eternal.family.net.za/god/family) in faith, then they are truly your "brother" or "sister"                                                                                        |
-| "The armor of God" is scripture spoken out loud that somehow activates God's protection.      | ["The armor of God"](https://eternal.family.net.za/bible/metaphors/armor) is a metaphor to remind us what **we** needs to do to protect ourselves.                                                                                           |
+| Myth                                                                                          | Truth                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The "name of Jesus" is a phrase (like a magic word) that catches God's attention.             | The word ["name" means authority](https://word.ofgod.info/terms/name). It could be considered as a delegate of Jesus or under submission to Jesus' commands or teachings, you are authorized to request or do certain things. |
+| Paying obeisance to a superior and worshipping God or an idol is often confused.              | Paying obeisance to a human superior is allowed. [Worshipping](https://eternal.family.net.za/bible/concepts/worship) an idol is forbidden.                                                                                    |
+| Praise is confused with worship, e.g. singing hymns, dancing and art is considered "worship". | [Praise](https://eternal.family.net.za/bible/concepts/praise) is a public declaration. [Worship](https://word.ofgod.info/terms/worship) is a sacrifice.                                                                       |
+| "Brother and sisters" is a way to address church members.                                     | When you support or are supported by [your family](https://eternal.family.net.za/god/family) in faith, then they are truly your "brother" or "sister"                                                                         |
+| "The armor of God" is scripture spoken out loud that somehow activates God's protection.      | ["The armor of God"](https://eternal.family.net.za/bible/metaphors/armor) is a metaphor to remind us what **we** needs to do to protect ourselves.                                                                            |
 
 ## Conclusion
 
@@ -435,7 +435,7 @@ The history of the church reveals a consistent pattern: institutional structures
 Understanding this history doesn't require rejecting all church traditions or structures. Rather, it calls us to:
 
 1. **Test everything** against Scripture rather than accepting traditions uncritically
-2. **Focus on essentials**: Faith, repentance, baptism, love, and fellowship with [the body of Christ](https://eternal.family.net.za/kingdom/body)
+2. **Focus on essentials**: Faith, repentance, baptism, love, and fellowship with [the body of Christ](https://kingdom.ofgod.info/christ/body)
 3. **Prioritize relationship** with God through His Spirit over institutional compliance
 4. **Worship authentically** in your own context, as Paul did, adapting to circumstances while maintaining biblical principles
 5. **Remember** that salvation comes through Christ, not through church membership, rituals, or human authorities

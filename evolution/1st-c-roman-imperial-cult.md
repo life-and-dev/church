@@ -1,6 +1,6 @@
 ---
-description: "Explore the Roman Imperial Cult, where emperors were deified, and its impact on early Christians, who faced persecution for refusing to worship the emperors."
-keywords: ["Roman Imperial Cult", "emperor worship", "deification", "early Christianity", "Nero", "persecution"]
+description: Explore the Roman Imperial Cult, where emperors were deified, and its impact on early Christians, who faced persecution for refusing to worship the emperors.
+keywords: Roman Imperial Cult, emperor worship, deification, early Christianity, Nero, persecution
 ---
 
 # 1st Century (Roman Imperial Cult)

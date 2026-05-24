@@ -9,11 +9,11 @@ Have you ever wondered how the followers of Jesus came to be known as "Christian
 
 ## Followers of "The Way"
 
-Before they were called Christians, the earliest followers of Jesus were known as followers of "The Way." This designation appears several times in the book of Acts. For instance, Saul (who later became the Apostle Paul) persecuted the church by seeking to arrest "any who were of the Way" (Acts 9:2). Later, in his own defense, Paul states, "I admit that I worship the God of our ancestors as a follower of the Way, which they call a sect" (Acts 24:14). This suggests that "The Way" was an early, self-identifying term for the nascent Christian community, emphasizing a new path of life and faith centered on Jesus's teachings. Jesus himself had declared, "I am the way and the truth and the life" (John 14:6), which likely served as the foundational inspiration for this name.
+Before they were called Christians, the earliest followers of Jesus were known as followers of "The Way." This designation appears several times in the book of Acts. For instance, Saul (who later became the Apostle Paul) persecuted the church by seeking to arrest "any who were of the Way" (Acts 9:2). Later, in his own defense, Paul states, "I admit that I [worship](https://word.ofgod.info/terms/worship) the God of our ancestors as a follower of the Way, which they call a sect" (Acts 24:14). This suggests that "The Way" was an early, self-identifying term for the nascent Christian community, emphasizing a new path of life and faith centered on Jesus's teachings. Jesus himself had declared, "I am the way and the truth and the life" (John 14:6), which likely served as the foundational inspiration for this name.
 
 ## The Nickname from Antioch
 
-The first recorded use of the term "Christian" appears in the New Testament. In the bustling city of [Antioch during the first century](https://en.wikipedia.org/wiki/Christianity_in_the_1st_century), the disciples of Jesus were first called ["Christians"](/bible/concepts/christian), which means "followers of the Anointed One" (Acts 11:26). This pivotal moment marked the beginning of a distinct identity for the burgeoning faith.
+The first recorded use of the term "Christian" appears in the New Testament. In the bustling city of [Antioch during the first century](https://en.wikipedia.org/wiki/Christianity_in_the_1st_century), the disciples of Jesus were first called ["Christians"](../terms/christian.md), which means "followers of the Anointed One" (Acts 11:26). This pivotal moment marked the beginning of a distinct identity for the burgeoning faith.
 
 ## A Derogatory Label or a Badge of Honor?
 

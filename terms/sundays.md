@@ -169,7 +169,7 @@ Isaiah 52-56 prophecy about the "Everlasting Covenant" known as the "New Covenan
 > Let not the foreigner who has joined himself to the LORD say, “The LORD will surely separate me from His people”; and  
 > let not the eunuch say, “Behold, I am a dry tree.”  
 >
-> For thus says the LORD: “To the eunuchs **who keep My Sabbaths**, who choose the things that please Me and **hold fast [My covenant](https://kingdom.ofgod.info/covenants/christ)**: I will give in My house and within My walls a monument and a [name](https://eternal.family.net.za/bible/concepts/name) better than sons and daughters; I will give them an everlasting name that shall not be cut off.  
+> For thus says the LORD: “To the eunuchs **who keep My Sabbaths**, who choose the things that please Me and **hold fast [My covenant](https://kingdom.ofgod.info/covenants/christ)**: I will give in My house and within My walls a monument and a [name](https://word.ofgod.info/terms/name) better than sons and daughters; I will give them an everlasting name that shall not be cut off.  
 >
 > And **the foreigners who join themselves to the LORD**, to minister to Him, to love [the name](https://word.ofgod.info/terms/name) of the LORD, and to be His servants, **everyone** who **keeps the Sabbath and does not profane it**, and **holds fast [My covenant](https://kingdom.ofgod.info/covenants/christ)**: these I will bring to My holy mountain, and make them joyful in My house of prayer; their burnt offerings and their sacrifices will be accepted on my altar; for my house shall be called a house of prayer for **all peoples**.”  
 >
