@@ -1,32 +1,127 @@
 ---
-description: "Path: laws / ceremonies / feasts / feast-of-weeks"
-keywords: "laws, ceremonies, feasts, feast-of-weeks"
+description: Explore the significance of the Feast of Weeks (Shavuot) and Pentecost, and whether these biblical festivals remain relevant for Christians today.
+keywords: Shavuot, Pentecost, Feast of Weeks, biblical feasts, Christian observance, Colossians 2:16, Acts 20:16, harvest festival
+reviewed: true
 ---
 
-Are Feasts still applicable today?
-* Paul kept the feasts (Acts 18:21)
-* Commanded to keep Feast of passover and unleavened bread in NT! (1Co 5:7-8)
-  However:
-* "But when the completion of the time came, Elohim sent forth His son, born of a woman, born under Torah, to redeem those who were under Torah, in order to receive the adoption as sons." (Galatians 4:4-5)
-* "But now after you have known Elohim, or rather are known by Elohim, how do you turn again to the weak and poor elementary matters [Torah], to which you wish to be enslaved again?  You observe days and months and seasons and years.  I fear for you, lest by any means I have laboured for you in vain."  (Galatians 4:8-10)
-* He has made alive together with Him, having forgiven you all trespasses, having wiped out the handwriting of requirements (?????: dogma / ordinances) that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross. Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it. So let no one judge you in food or in drink, or regarding a festival or a new moon or sabbaths, which are a shadow of things to come, but the substance is of Christ. (Colossians2:13-17)
-  Understanding:
-  The ordinances (way we do or don't do feasts) is wiped out = only a shadow of something bigger. What is that something bigger? Christ. If you keep a feast without the presence of Christ (like a slave) it would have been better not to keep it at all. If you keep a feast to honour Christ and in His presence even if you do it accidentally "wrong" according to the ordinances, you enter into God's presence = blessing. Rev 3:20; Isaiah 56 (written for foreigners); Mark 2:23-28 (Jesus is the Lord of the Sabbath)
- 
----
-4. Feast of weeks (Shavout) a.k.a. Pentecost a.k.a. Harvest
-   Shavout = weeks
-   Pentacost = 50
-   "the first fruits of your labors, which you have sown in the field" (Exodus 23:16, Exodus 34:22, Deuteronomy 16:10)  --> remember your were a slave in Egypt
-   Lev 23:9-14: "... it shall be a statute forever throughout your generations in all your dwellings"
-   When?
-* From Sabbath of the day of offering of First Fruit + (7 Sabbaths or 7 x 7 + 1 = 50 days)
-  On this same day you shall:
-* make a proclamation as well; (different translation differ on this point)
-* you are to have a holy convocation [gather for ceremony].
-* You shall do no laborious work.
-* It is to be a perpetual statute in all your dwelling places throughout your generations.
-  Leviticus 23:21
-  Regarding the poor:
-* You shall not wholly reap the corners of your field when you reap, nor shall you gather any gleaning (gather grain left behind reapers) from your harvest. You shall leave them for the poor and for the stranger” Lev 23:22
-  NT Example: Acts 2:1
+# The Feast of Weeks: Harvest, History, and the Holy Spirit
+
+Why do some Christians celebrate Pentecost while others ignore the ancient
+Feast of Weeks? This festival, known in Hebrew as Shavuot, bridges the gap
+between the Old Testament harvest and the New Testament outpouring of the Holy
+Spirit. While many view these days as mere relics of the past, a closer look at
+scripture reveals a deep and ongoing connection between these appointed times
+and the walk of faith. This article explores the origins of the Feast of Weeks
+and its enduring relevance in the light of Christ.
+
+## A Shadow and Its Substance
+
+The question of whether biblical feasts remain applicable today is a subject of
+much debate. The apostle Paul frequently referenced his desire to observe these
+days. He hurried to reach Jerusalem in time for the day of Pentecost.
+
+> For Paul had decided to sail past Ephesus, so that he might not have to spend
+> time in Asia, for he was hastening to be at Jerusalem, if possible, on the
+> day of Pentecost. — Acts 20:16 (ESV)
+
+Paul also planned his travels around this festival in his letters to the
+Corinthians.
+
+> But I will stay in Ephesus until Pentecost. — 1 Corinthians 16:8 (ESV)
+
+Some argue that the law was abolished at the cross, often citing Colossians.
+However, a careful study of the Greek term *cheirographon* in Colossians 2:14
+suggests that Christ canceled the record of our spiritual debt rather than the
+law itself.
+
+> By canceling the record of debt that stood against us with its legal demands.
+> This he set aside, nailing it to the cross. — Colossians 2:14 (ESV)
+
+The festivals are described as a shadow of things to come, while the substance
+belongs to Christ.
+
+> Therefore let no one pass judgment on you in questions of food and drink, or
+> with regard to a festival or a new moon or a Sabbath. These are a shadow of
+> the things to come, but the substance belongs to Christ.
+> — Colossians 2:16-17 (ESV)
+
+This suggests that the feasts point toward Christ. Keeping them to honor Him
+allows believers to enter into His presence. If a feast is observed without
+Christ, it becomes an empty ritual. When done to honor the Lord of the Sabbath,
+it becomes a blessing.
+
+## The Biblical Foundation of Shavuot
+
+The Feast of Weeks is known by several names in scripture, including the Feast
+of Harvest and Pentecost. It was one of the three pilgrimage festivals where
+the people of Israel were commanded to appear before the LORD.
+
+> You shall keep the Feast of Harvest, of the firstfruits of your labor, of
+> what you sow in the field. — Exodus 23:16 (ESV)
+
+The LORD commanded the Israelites to observe this feast as a perpetual statute.
+It served as a reminder of their history and God's provision.
+
+> And you shall count seven full weeks from the day after the Sabbath, from the
+> day that you brought the sheaf of the wave offering. You shall count fifty
+> days to the day after the seventh Sabbath. Then you shall present a grain
+> offering of new grain to the LORD. — Leviticus 23:15-16 (ESV)
+
+The festival also included a provision for the poor and the stranger. This
+reflects the character of the LORD and His concern for the marginalized.
+
+> And when you reap the harvest of your land, you shall not reap your field
+> right up to its edge, nor shall you gather the gleanings after your harvest.
+> You shall leave them for the poor and for the foreigner: I am the LORD your
+> God. — Leviticus 23:22 (ESV)
+
+## Counting the Fifty Days
+
+The timing of Shavuot is determined by counting fifty days starting from the
+offering of the First Fruits. This period is often called the counting of the
+omer. A historical debate exists regarding the phrase "the day after the
+Sabbath" in Leviticus 23:11.
+
+The Pharisaic tradition interpreted this Sabbath as the first day of the Feast
+of Unleavened Bread. This would mean the count always begins on the sixteenth
+of Nisan. The Sadducean and Karaite view interprets it as the weekly Sabbath
+that occurs during the feast. This results in the First Fruits and Pentecost
+always falling on a Sunday.
+
+Regardless of the specific day, the command was to count seven complete weeks
+plus one day. This reached the fiftieth day, which is the meaning of the Greek
+name Pentecost.
+
+## Defense of Feast Observance
+
+Critics of feast observance often point to the writings of Paul to suggest that
+observing days and months is a return to bondage.
+
+> You observe days and months and seasons and years! I am afraid I may have
+> labored over you in vain. — Galatians 4:10-11 (ESV)
+
+However, context suggests Paul was concerned with the Galatians returning to
+"elementary principles" or using these observances as a requirement for
+salvation. When observed as a way to honor Christ, the feasts align with the
+practice of the early church. The outpouring of the Holy Spirit in Acts 2
+occurred specifically on the day of Pentecost, signifying a new fulfillment of
+the ancient harvest festival.
+
+> When the day of Pentecost arrived, they were all together in one place.
+> — Acts 2:1 (ESV)
+
+The feasts are not a means of earning salvation. They are opportunities to
+celebrate the work of God. They serve as "holy convocations" or rehearsals for
+the greater fulfillment in the kingdom of God.
+
+## Conclusion
+
+The Feast of Weeks serves as a bridge between the physical and spiritual
+harvests. It is rooted in the
+[Biblical Foundation of Shavuot](#the-biblical-foundation-of-shavuot) and finds
+its ultimate meaning in the [Shadow and Its Substance](#a-shadow-and-its-substance)
+of Christ. While some challenge its relevance, the
+[Defense of Feast Observance](#defense-of-feast-observance) is seen in the
+continued practice of the apostles and the outpouring of the Spirit. Through
+[Counting the Fifty Days](#counting-the-fifty-days), believers acknowledge
+both the history and the future of God's redemptive plan.
