@@ -36,7 +36,7 @@ This does not mean that the example set by the apostles are the only acceptable 
 
 Myth: *God's name is "Lord".*
 
-Truth: Although God identified Himself clearly as יְהוָ֖ה, which directly translates to the Tetragrammaton [YHVH](https://eternal.family.net.za/god/name/father#yhvh), we noticed that some time before the birth of Jesus, the Jews replaced the God's name "YHVH" with "Adonai" which means "Lord" in English. This is also evident in the Greek manuscripts when the Jews refer to God as simply "Lord".
+Truth: Although God identified Himself clearly as יְהוָ֖ה, which directly translates to the Tetragrammaton [YHWH](https://eternal.family.net.za/god/name/father#yhvh), we noticed that some time before the birth of Jesus, the Jews replaced the God's name "YHWH" with "Adonai" which means "Lord" in English. This is also evident in the Greek manuscripts when the Jews refer to God as simply "Lord".
 
 The Jews replaced God's name out of respect for the Jewish tradition, of not uttering the sacred name of God, which was based around the concern of misusing the name of God.
 
@@ -159,7 +159,7 @@ In addition, this puts Christians in a difficult position:
 
 Myth: *The concept of the Trinity had always existed, it was only clarified by the church fathers.*
 
-Truth: The concept of [the Trinity contradict the Bible](https://son.ofgod.info/trinity). [There is only 1 God](https://son.ofgod.info/shema), named [YHVH](https://ofgod.info/name) or introduced as God the Father by Jesus himself.
+Truth: The concept of [the Trinity contradict the Bible](https://son.ofgod.info/trinity). [There is only 1 God](https://son.ofgod.info/shema), named [YHWH](https://ofgod.info/name) or introduced as God the Father by Jesus himself.
 
 This was also one of the creeds proclaimed by the council of Nicaea in 325 to counter Arianism. The idea was invented by [Tertullian](https://en.wikipedia.org/wiki/Tertullian), a North African sect leader, who lived in the previous century, who was also previously rejected by the church.
 

@@ -17,7 +17,7 @@ Bible books written between 400 BC and the birth of Jesus the Christ are conside
 
 ## The Divine Name
 
-God identified Himself in Hebrew as יְהוָ֖ה. This name directly translates to the [Tetragrammaton](https://www.britannica.com/topic/Tetragrammaton) YHVH. Sometime before the birth of Jesus, likely during the Second Temple era, the Jews replaced the name YHVH with Adonai. This word means "Lord" in English. The shift is also evident in Greek manuscripts where the Jews refer to God as "Lord".
+God identified Himself in Hebrew as יְהוָ֖ה. This name directly translates to the [Tetragrammaton](https://www.britannica.com/topic/Tetragrammaton) YHWH. Sometime before the birth of Jesus, likely during the Second Temple era, the Jews replaced the name YHWH with Adonai. This word means "Lord" in English. The shift is also evident in Greek manuscripts where the Jews refer to God as "Lord".
 
 > God spoke to Moses, "Say this to the people of Israel: 'The LORD, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.' This is my name forever, and thus I am to be remembered throughout all generations." — Exodus 3:15 (ESV)
 

@@ -21,7 +21,7 @@ Luke did not record every event of the early church in the book of Acts, but it 
 * Although Simon believed and was baptised, he refused to repent (Acts 8:22)
 * Peter prophesied that Simon would become poison ("bitter gall") and a bond of unrighteousness ("lawlessness") (Acts 8:23)
 * Jude also warned about people like Simon (Jude 1:4)
-* The Samaritan were known to worship paganism under the disguise of YHVH (II Kings 17:24-41)
+* The Samaritan were known to worship paganism under the disguise of YHWH (II Kings 17:24-41)
 * The word "Magus" is the Chaldean/Persian word for "priest"
 
 > Harnack, a church historian, states that Simon Magus "proclaimed a doctrine in which the Jewish faith was strangely and grotesquely mixed with BABYLONIAN myths, together with some Greek additions. The mysterious worship . . . in consequence of the widened horizon and the deepening religious feeling, finally the wild SYNCRETISM [that is, blending together of religious beliefs], whose aim WAS A UNIVERSAL RELIGION, all contributed to gain adherents for Simon" [(Vol. 1, p. 244)](https://archangel16.livejournal.com/180135.html).
