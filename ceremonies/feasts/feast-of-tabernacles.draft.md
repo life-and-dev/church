@@ -1,33 +1,147 @@
 ---
-description: "Path: laws / ceremonies / feasts / feast-of-tabernacles"
-keywords: "laws, ceremonies, feasts, feast-of-tabernacles"
+description: Explore the biblical significance, historical ceremonies like the water libation, and the prophetic fulfillment of the Feast of Booths (Sukkot).
+keywords: Sukkot, Feast of Booths, Water Libation Ceremony, biblical festivals, Zechariah 14:16, John 7:37, prophetic fulfillment, temporary shelters
+reviewed: true
 ---
 
-Are Feasts still applicable today?
-* Paul kept the feasts (Acts 18:21)
-* Commanded to keep Feast of passover and unleavened bread in NT! (1Co 5:7-8)
-  However:
-* "But when the completion of the time came, Elohim sent forth His son, born of a woman, born under Torah, to redeem those who were under Torah, in order to receive the adoption as sons." (Galatians 4:4-5)
-* "But now after you have known Elohim, or rather are known by Elohim, how do you turn again to the weak and poor elementary matters [Torah], to which you wish to be enslaved again?  You observe days and months and seasons and years.  I fear for you, lest by any means I have laboured for you in vain."  (Galatians 4:8-10)
-* He has made alive together with Him, having forgiven you all trespasses, having wiped out the handwriting of requirements (?????: dogma / ordinances) that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross. Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it. So let no one judge you in food or in drink, or regarding a festival or a new moon or sabbaths, which are a shadow of things to come, but the substance is of Christ. (Colossians2:13-17)
-  Understanding:
-  The ordinances (way we do or don't do feasts) is wiped out = only a shadow of something bigger. What is that something bigger? Christ. If you keep a feast without the presence of Christ (like a slave) it would have been better not to keep it at all. If you keep a feast to honour Christ and in His presence even if you do it accidentally "wrong" according to the ordinances, you enter into God's presence = blessing. Rev 3:20; Isaiah 56 (written for foreigners); Mark 2:23-28 (Jesus is the Lord of the Sabbath)
- 
----
-7. Feast of Tabernacles/Booths/Shelters (Sukkot)
-   "Do not drink wine nor strong drink, you, nor your sons with you, when you go into the tabernacle of the congregation, lest you die: it shall be a statute for ever throughout your generations" (Lev 10:7, Lev 23:34-44, Ezekiel 45:25)
-   15th day of 7th month
+# The Feast of Booths (Sukkot)
 
-> Then the Lord spoke to Moses, saying, "Speak to the children of Israel, saying: 'The fifteenth day of this seventh month shall be the Feast of Tabernacles for seven days to the Lord. 35 On the first day there shall be a holy convocation. You shall do no customary work on it. 36 For seven days you shall offer an offering made by fire to the Lord. On the eighth day you shall have a holy convocation, and you shall offer an offering made by fire to the Lord. It is a sacred assembly, and you shall do no customary work on it. 37 These are the feasts of the Lord which you shall proclaim to be holy convocations, to offer an offering made by fire to the Lord, a burnt offering and a grain offering, a sacrifice and drink offerings, everything on its day-- 38 besides the Sabbaths of the Lord, besides your gifts, besides all your vows, and besides all your freewill offerings which you give to the Lord 39 'Also on the fifteenth day of the seventh month, when you have gathered in the fruit of the land, you shall keep the feast of the Lord for seven days; on the first day there shall be a sabbath-rest, and on the eighth day a sabbath-rest.
+The Feast of Booths, also known as Sukkot, is one of the most vibrant and joyous
+festivals in the biblical calendar. It is a time when people gather to remember
+God's provision in the wilderness and celebrate the final harvest of the year.
+While many see it as a historical event, its themes of divine presence and
+future hope continue to resonate today. This article explores the origins of the
+feast, its unique ceremonies, and its enduring significance.
 
-40 And you shall take for yourselves on the first day the fruit of beautiful trees, branches of palm trees, the boughs of leafy trees, and willows of the brook; and you shall rejoice before the Lord your God for seven days. 41 You shall keep it as a feast to the Lord for seven days in the year. It shall be a statute forever in your generations. You shall celebrate it in the seventh month. 42 You shall dwell in booths for seven days. All who are native Israelites shall dwell in booths, 43 that your generations may know that I made the children of Israel dwell in booths when I brought them out of the land of Egypt: I am the Lord your God.' " 44 So Moses declared to the children of Israel the feasts of the Lord. -- Leviticus 23:33-44 (NKJV)
+## Biblical Foundation
 
-12 On the altar of the Lord that he had built in front of the portico, Solomon sacrificed burnt offerings to the Lord, 13 according to the daily requirement for offerings commanded by Moses for the Sabbaths, the New Moons and the three annual festivals-the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Tabernacles. -- 2 Chronicles 8:12-13
+<!-- markdownlint-disable MD013 -->
+The Feast of Booths was established as a week-long celebration beginning on the fifteenth day of the seventh month. It served as a memorial of the time when the people of Israel lived in temporary shelters after their deliverance from Egypt. The historical details of this festival are well-documented ([Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/14187-tabernacles-feast-of)).
+<!-- markdownlint-enable MD013 -->
 
-So all the men of Israel assembled before King Solomon at the annual Festival of Shelters, which is held in early autumn in the month of Ethanim. -- 1 Kings 8 (NLT)
+> And the LORD spoke to Moses, saying, "Speak to the people of Israel, saying,
+> On the fifteenth day of this seventh month and for seven days is the Feast
+> of Booths to the LORD. On the first day shall be a holy convocation; you
+> shall not do any ordinary work. For seven days you shall present food
+> offerings to the LORD. On the eighth day you shall hold a holy convocation
+> and present a food offering to the LORD. It is a sacred assembly; you shall
+> not do any ordinary work. . . . You shall dwell in booths for seven days.
+> All native Israelites shall dwell in booths, that your generations may know
+> that I made the people of Israel dwell in booths when I brought them out of
+> the land of Egypt: I am the LORD your God." — Leviticus 23:33-36, 42-43
+> (ESV)
 
----
+This festival was not only a time of remembrance but also a time of great
+rejoicing before the LORD. It was one of the three annual festivals where all
+males were required to appear before the LORD in Jerusalem.
 
-> Now qthe Jews’ Feast of rBooths was at hand. -- John 7:1 (ESV)
->...
-> On the last day of the feast, the great day, Jesus stood up and cried out, z“If anyone thirsts, let him acome to me and drink. 38 Whoever believes in me, bas6 the Scripture has said, c‘Out of his heart will flow rivers of dliving water.’ ” 39 Now ethis he said about the Spirit, fwhom those who believed in him were to receive, gfor as yet the Spirit had not been hgiven, ibecause Jesus was not yet glorified. -- John 7:37-39 
+> On the altar of the LORD that he had built in front of the portico, Solomon
+> sacrificed burnt offerings to the LORD, according to the daily requirement
+> for offerings commanded by Moses for the Sabbaths, the New Moons and the
+> three annual festivals — the Festival of Unleavened Bread, the Festival of
+> Weeks and the Festival of Booths. — 2 Chronicles 8:12-13 (ESV)
+
+## Apostolic Observance and Meaning
+
+The question of whether these feasts remain applicable for followers of Christ
+today is a subject of much discussion. While the specific animal sacrifices and
+temple-related ordinances were fulfilled in Christ, the spiritual essence and
+the practice of the feasts continued in the early church.
+
+Apostolic records show a continued awareness and observance of these times.
+Paul, for instance, made efforts to be in Jerusalem for the festivals.
+
+> For Paul had decided to sail past Ephesus, so that he might not have to
+> spend time in Asia, for he was hastening to be at Jerusalem, if possible, on
+> the day of Pentecost. — Acts 20:16 (ESV)
+
+> But I will stay in Ephesus until Pentecost. — 1 Corinthians 16:8 (ESV)
+
+The early believers also saw the feasts as having profound symbolic value.
+Christ is described as the fulfillment of the Passover, and the church was
+encouraged to keep the feast with sincerity and truth.
+
+> Cleanse out the old leaven that you may be a new lump, as you really are
+> unleavened. For Christ, our Passover lamb, has been sacrificed. Let us
+> therefore celebrate the festival, not with the old leaven, the leaven of
+> malice and evil, but with the unleavened bread of sincerity and truth. — 1
+> Corinthians 5:7-8 (ESV)
+
+However, the apostle Paul also cautioned against a legalistic or "enslaved"
+approach to these observances. He emphasized that these days are shadows
+pointing toward the reality found in Christ.
+
+> But when the fullness of time had come, God sent forth his Son, born of
+> woman, born under the law, to redeem those who were under the law, so that
+> we might receive adoption as sons. — Galatians 4:4-5 (ESV)
+
+> But now that you have come to know God, or rather to be known by God, how
+> can you turn back again to the weak and worthless elementary principles of
+> the world, whose slaves you want to be once more? You observe days and
+> months and seasons and years! I am afraid I may have labored over you in
+> vain. — Galatians 4:9-11 (ESV)
+
+> Therefore let no one pass judgment on you in questions of food and drink, or
+> with regard to a festival or a new moon or a Sabbath. These are a shadow of
+> the things to come, but the substance belongs to Christ. — Colossians
+> 2:16-17 (ESV)
+
+Some interpret these verses as an abolition of the biblical festivals. However,
+historical context suggests that Paul was addressing local ascetic influences in
+Colossae. These critics were likely judging the believers for how they
+celebrated. Their judgment was perhaps for the joy and feasting associated with
+the festivals rather than whether they should celebrate at all. By calling them
+a "shadow of things to come," Paul affirms that these days still point toward
+future realities in the kingdom of God.
+
+The understanding is that the outward ceremonies are shadows of something
+greater. If a feast is kept without the presence of Christ or as a heavy burden
+of law, it misses the point. But when observed to honor Christ and enjoy His
+presence, it becomes a source of blessing. Christ invites everyone into His
+presence.
+
+> Behold, I stand at the door and knock. If anyone hears my voice and opens
+> the door, I will come in to him and eat with him, and he with me. —
+> Revelation 3:20 (ESV)
+
+## The Water Libation Ceremony
+
+<!-- markdownlint-disable MD013 -->
+During the time of the Second Temple, a unique ceremony known as the Water Libation became a highlight of the Feast of Booths ([MJTI](https://www.mjti.org/the-timeliness-of-sukkot/)). Each day, a priest would draw water from the Pool of Siloam in a golden pitcher and carry it in a joyful procession to the Temple. The water was then poured out at the altar.
+<!-- markdownlint-enable MD013 -->
+
+This ceremony was associated with the prayer for rain and the promised
+outpouring of the Holy Spirit. It was on the last and greatest day of this feast
+that Jesus stood and made a monumental declaration.
+
+> On the last day of the feast, the great day, Jesus stood up and cried out,
+> "If anyone thirsts, let him come to me and drink. Whoever believes in me, as
+> the Scripture has said, 'Out of his heart will flow rivers of living
+> water.'" Now this he said about the Spirit, whom those who believed in him
+> were to receive, for as yet the Spirit had not been given, because Jesus was
+> not yet glorified. — John 7:37-39 (ESV)
+
+By doing this, Jesus identified Himself as the source of the living water that
+the ceremony anticipated.
+
+## Prophetic Significance
+
+The Feast of Booths also carries significant prophetic weight. It points toward
+a future time when all nations will recognize the sovereignty of God and join in
+worship. The prophet Zechariah speaks of a time when survivors from the nations
+will go up to Jerusalem to celebrate this feast.
+
+> Then everyone who survives of all the nations that have come against
+> Jerusalem shall go up year after year to worship the King, the LORD of
+> hosts, and to keep the Feast of Booths. And if any of the families of the
+> earth do not go up to Jerusalem to worship the King, the LORD of hosts,
+> there will be no rain on them. — Zechariah 14:16-17 (ESV)
+
+This suggests that the Feast of Booths uniquely embodies the goal of redemptive
+history: God dwelling with a gathered and joyous people in a renewed creation.
+
+## Conclusion
+
+<!-- markdownlint-disable MD013 -->
+The Feast of Booths is a celebration of [divine provision and historical remembrance](#biblical-foundation). It serves as a [shadow of the reality found in Christ](#apostolic-observance-and-meaning), who is the source of [living water](#the-water-libation-ceremony). Ultimately, the feast points toward a [future restoration](#prophetic-significance) where all nations will dwell in the presence of God.
+<!-- markdownlint-enable MD013 -->
