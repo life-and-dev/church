@@ -2,7 +2,7 @@
 description: Learn about the author's journey from doubt to faith and the mission behind this website.
 ---
 
-# About the author
+# About
 
 My journey with faith has been anything but conventional. From atheism to exploring various Christian traditions including megachurches to house churches with involvement in various traditional protestants, charismatic and messianic congregations. I've spent years asking questions about God, the Bible, and what it truly means to follow Christ.
 

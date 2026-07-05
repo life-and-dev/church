@@ -1,0 +1,106 @@
+features:
+  footer:
+    - about
+    - disclaimer
+  source-edit: https://github.com/life-and-dev/church/blob/main/
+menu:
+  - bodies
+  - evolution:
+    - "Jewish Influences": ===
+    - -1445-jewish-era
+    - 1st-c-jesus
+    - 1st-c-messianic
+    - "Christian Influences": ===
+    - 1st-c-roman-imperial-cult
+    - 1st-c-christians
+    - 1st-c-gnosis
+    - 156-montanism
+    - 206-tertullian
+    - 235-crisis-of-3rd-century
+    - 312-constantine
+    - "321 (Sunday Rest)": ../terms/sundays
+    - 325-nicaea-creed
+    - 336-christmas
+    - 337-arianism
+    - 363-outlawing-sabbath
+    - 380-state-religion
+    - 381-nicaea-creed-updated
+    - 382-vulgate
+    - 395-dark-ages
+    - 494-valentine
+    - 609-halloween
+    - 800-holy-roman-empire
+    - 1074-clerical-marriages
+    - 1095-crusades
+    - 1215-7-sacraments
+    - 1229-bible-ownership
+    - 1233-papal-inquisition
+  - terms:
+    - christian
+    - faith-manifestation
+    - Godhead: https://son.ofgod.info/godhead
+    - mystery
+    - saints
+    - sundays
+    - tithing
+    - Trinity: https://son.ofgod.info/trinity
+
+site:
+  canonical: https://church.ofgod.info
+  favicon: logo.svg
+  name: The Church of God
+themes:
+  light:
+    colors:
+      primary: '#602080'
+      secondary: '#ffffff'
+      selected: '#602080'
+      error: '#d64d5b'
+      warning: '#c29e4a'
+      info: '#548af7'
+      success: '#6aab73'
+      background: '#f6f8fa'
+      surface: '#ffffff'
+      surface-rail: '#edf1f5'
+      surface-appbar: '#e4eaf0'
+      on-surface-rail: '#32302a'
+      on-surface-appbar: '#000000'
+      on-background: '#24292f'
+      on-surface: '#24292f'
+      on-primary: '#ffffff'
+      on-secondary: '#ffffff'
+      on-selectable: '#24292f'
+      on-selected: '#ffffff'
+      on-error: '#ffffff'
+      on-warning: '#ffffff'
+      on-info: '#ffffff'
+      on-success: '#ffffff'
+      outline: '#d0d7de'
+      outline-bars: '#f3f4f6'
+  dark:
+    colors:
+      primary: '#8f5faf'
+      secondary: '#2b302d'
+      selected: '#8f5faf'
+      error: '#d64d5b'
+      warning: '#c29e4a'
+      info: '#548af7'
+      success: '#6aab73'
+      background: '#161b22'
+      surface: '#0d1117'
+      surface-rail: '#1f252d'
+      surface-appbar: '#282f38'
+      on-surface-rail: '#ced0d6'
+      on-surface-appbar: '#ffffff'
+      on-background: '#c9d1d9'
+      on-surface: '#c9d1d9'
+      on-primary: '#0d1117'
+      on-secondary: '#0d1117'
+      on-selectable: '#c9d1d9'
+      on-selected: '#ffffff'
+      on-error: '#ffffff'
+      on-warning: '#ffffff'
+      on-info: '#ffffff'
+      on-success: '#ffffff'
+      outline: '#30363d'
+      outline-bars: '#161b22'
