@@ -5,7 +5,20 @@ keywords: Sabbath, Sunday, Lord's Day, Constantine, Christian history, Ten Comma
 
 # The Lord's Day
 
-"The Lord's Day" is commonly understood by Christians to be Sunday, the first day of the week, commemorating the resurrection of Jesus Christ (Mark 16:9).
+Scripture describes severe consequences for profaning the Sabbath, emphasizing its holiness:
+
+> Everyone who profanes it shall surely be put to death; for whoever does any work on it, that person shall be cut off from among his people.” — Exodus 31:14
+
+Jeremiah also warned that failing to keep the Sabbath holy would bring judgment upon Jerusalem (Jeremiah 17:27).
+
+Throughout scripture, the definition and enforcement of the Sabbath has been highlighted:
+
+* **Gathering Manna (Exodus 16:21-30):** God tested Israel's obedience by giving a double portion of manna on the sixth day and none on the Sabbath.
+* **The Wood Gatherer (Numbers 15:32-36):** A man was put to death for gathering wood, showing that deliberate violation of the holy rest carried severe consequences.
+* **Nehemiah's Reform (Nehemiah 13:15-22):** Nehemiah locked the gates of Jerusalem to keep out merchants and traders trying to conduct business on the Sabbath.
+* **Disregarding for Commerce (Amos 8:5-7):** The prophets condemned merchants who impatiently waited for the Sabbath to end so they could resume cheating customers.
+
+However, New Testament Christians no longer keep the Sabbath. Instead they believe that "The Lord's Day" is on Sunday, the first day of the week, commemorating the resurrection of Jesus Christ (Mark 16:9).
 
 ## Institution
 
@@ -55,6 +68,17 @@ The Sabbath was not a temporary idea, but should be observed forever through all
 
 If Jesus truly truly deprecated the Sabbath, then he would not warned his disciples to pray that their flight would not be in winter or on the Sabbath (Matthew 24:20).
 
+#### How Long is "Forever"?
+
+A common argument is that because ceremonial feast days (e.g., Passover, Feast of Unleavened Bread) were also commanded to be kept "forever" (Exodus 12:14, 17), the weekly Sabbath must likewise be temporary. 
+
+However, in Hebrew (`'ōlām`) and Greek (`aiōnios`), "forever" signifies a duration limited by the nature of the thing described:
+* When applied to the immortal God, it means endless.
+* When applied to mortal man (e.g., "let the king live forever"), it means for the duration of his life.
+* When applied to the ceremonial/sacrificial system, it meant continuous observance *for as long as that typical system lasted* (1 Corinthians 5:7). 
+
+Unlike the ceremonial feasts, the weekly Sabbath is a creation ordinance instituted before sin entered the world (Genesis 2:2-3). It is part of the moral Law written by God's own finger (Exodus 20:8-11).
+
 ### Jesus replaced the Sabbath
 
 Christians interpret that Matthew 11:28-30 means that Jesus will give rest to those who follow him. Therefore the original Sabbath is redundant.
@@ -69,7 +93,13 @@ Jesus himself kept the Sabbath (Luke 4:16).
 
 Christians understood that this mean that Jesus ruled that Sabbath keeping is deprecated. In addition they also quote Matthew 12:11-12; Luke 6:6-9; Luke 13:10-17; John 5:1-18 which prove that Jesus "laboured" on the Sabbath by healing people.
 
-However, the definition of "labour" is misunderstood. That was also the point Jesus made to the Pharisees (Mark 2:24-28). Both parties agreed that it is wrong to labour on a Sabbath. They differ on what "labour" means.
+However, the definition of "labour" is misunderstood. That was also the point Jesus made to the Pharisees (Mark 2:24-28). Both parties agreed that it is wrong to labour on a Sabbath. They differ on what "labour" means. Scripture details several clear, lawful exceptions to Sabbath resting:
+
+* **Relieving distress or gathering food in emergency:** (Matthew 12:1-8, Mark 2:23-28, Luke 6:1-5)
+* **Spiritual service & teaching:** (Mark 1:21, Luke 4:16, Acts 15:21)
+* **Healing & doing good:** (Matthew 12:9-13, Luke 6:6-9, John 5:9)
+* **Saving a life:** (Luke 6:9)
+* **Hospitality and fellowship meals:** (Luke 14:1)
 
 ### The Apostles ruled that Sabbath keeping is not required
 
