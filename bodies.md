@@ -25,13 +25,14 @@ To better understand the distinction, the following table compares the ideal fun
 | Meets wherever practical (e.g. private homes, a field, public halls)                                                         | An emphasis on maintaining expensive buildings, which can divert resources.                             |
 | Focuses on expanding [God's Kingdom](https://kingdom.ofgod.info) (saving the lost, serving the community)                    | A focus on attracting more members or increasing financial income for the institution.                  |
 | Praises are directed to glorify God with a pure motive                                                                       | Worship services can become entertainment-focused to attract or retain members.                         |
-| Leadership is a function to serve the Body in humility (Ephesians 4:11-12)                                                   | Leadership can become a hierarchical position to be served, rather than a function of service.          |
+| Leadership is a function to serve the Body (Matthew 20:25-26; Mark 10:42-43; Ephesians 4:11-12)                              | Leadership often expect church members must serve them.                                                 |
+| Service is done in humility, often without recognition (Matthew 23:1-12)                                                     | Service can be tied to a hierarchical system with titles, special recognition, and public honour.       |
 | God's Spirit may deliver a message through multiple members as He guides                                                     | A single preacher delivering a planned sermon is often the exclusive format.                            |
 | Contributions are focused on having a [Kingdom](https://kingdom.ofgod.info) impact on the world                              | Contributions are primarily used to maintain the institutional system and its overhead.                 |
 | Meetings are interactive, flexible, and often informal                                                                       | Services are often non-interactive, highly structured, and formal.                                      |
-| Service is done in humility, often without recognition (Matthew 23:1-12)                                                     | Service can be tied to a hierarchical system with titles, special recognition, and public honour.       |
 | Involves a willingness to suffer persecution for the sake of God's Kingdom                                                   | A focus on convenience, comfort, and safety within the confines of the church community.                |
 | Rest on the LORD's Sabbath (Exodus 23:12, 31:13-17; Deuteronomy 5:12-15; Leviticus 23:3; Isaiah 58:13-14; Jeremiah 17:21-22) | Rest on ["the Lord's Day"](terms/sundays.md) (Sundays)                                                  |
+| Obey God's laws (Matthew 5:17-19; John 14:15,21, 15:10)                                                                      | Do not offend people.                                                                                   |
 
 ## Where is Your Allegiance?
 
