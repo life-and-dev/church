@@ -1,117 +1,180 @@
+---
+description: Discover the historical origins and theological interpretations of the
+  rapture, a concept that has shaped modern eschatological thought.
+keywords: [pretribulational rapture, John Nelson Darby, Hal Lindsey, eschatology,
+  secret return, Late Great Planet Earth]
+reviewed: true
+---
+
 # Rapture
 
-# The origin of the theory
+The concept of the rapture has fascinated and divided many for generations. While
+often associated with modern cinema and literature, its roots and biblical basis
+are subjects of intense study. This article explores where this theory began and
+how it is interpreted through various scriptural lenses.
 
-In 1827, John Nelson Darby, argued that the Bible taught a pretribulational rapture, and he convinced many other Christians of this view. Darby's leadership and teachings attracted a growing number of followers, and the movement spread to England and other parts of the world.
+## Origins of the Theory
 
-Many years later, Hal Lindsey, an American author and Christian theologian, made the Rapture theology popular with a book that he published in 1970, titled "The Late Great Planet Earth" that stated:
+The idea of a pretribulational rapture began to gain significant traction in
+1827. At that time, John Nelson Darby argued that the Bible taught this specific
+view. His leadership and teachings successfully convinced many other Christians.
+As a result, the movement spread from England to other parts of the world.
 
-> The Bible teaches that there is coming a time when Jesus Christ will return for His church. But this will not be His final return to earth. This will be **a secret, invisible return in the air to meet those who believe in Him**. It will be a moment of unbelievable joy and excitement for those who are ready. But for those who are not ready, it will be a moment of terrible shock and sorrow. The Bible calls this event the 'rapture' which will take place at a time unknown to anyone except God the Father." 
->
-> -- Hal Lindsey, The Late Great Planet Earth, Chapter 12.
+Decades later, Hal Lindsey brought this theology into the mainstream. He was an
+American author and Christian theologian who published a popular book in 1970.
+This work was titled "The Late Great Planet Earth" and it offered a vivid
+description of the event.
 
-In other words, it seems like he thought that Christians would be unexpected "teleported" to a secret place somewhere in the air to meet Jesus, while shock and sorrow will be upon those who were left behind.
+> The Bible teaches that there is coming a time when Jesus Christ will return
+> for His church. But this will not be His final return to earth. This will be
+> a secret, invisible return in the air to meet those who believe in Him. It
+> will be a moment of unbelievable joy and excitement for those who are ready.
+> But for those who are not ready, it will be a moment of terrible shock and
+> sorrow. The Bible calls this event the 'rapture' which will take place at a
+> time unknown to anyone except God the Father. — Hal Lindsey, The Late Great
+> Planet Earth, Chapter 12.
 
-In addition, some Pre-tribulationists often interpret biblical passages like 1 Thessalonians 4:13-17 and 1 Corinthians 15:51-52 to suggest two separate comings of Christ. They see the rapture as a secret, pre-tribulation event to gather believers, followed by a later, visible second coming to establish his reign on Earth.
+The author suggested that believers would be unexpectedly moved to a secret
+location in the air to meet Jesus. Meanwhile, those remaining on Earth would
+face shock and sorrow. Some proponents of this view often interpret passages
+like 1 Thessalonians 4:13-17 and 1 Corinthians 15:51-52 as evidence for two
+separate comings of Christ. They perceive the rapture as a secret event to
+gather believers before a period of tribulation. This would then be followed by
+a visible second coming to establish a reign on Earth.
 
-# Proof of the theory
+## Theological Analysis
 
-## The gathering of the elect
+Proponents and critics of the rapture theory often focus on specific biblical
+passages to support their respective positions. These interpretations
+frequently hinge on the timing of Christ's return and the meaning of the
+original Greek text.
 
-One of the verse that is quoted to proof the Rapture is:
+### The Gathering of the Elect
 
-> And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other.
->
-> -- Matthew 24:31 (ESV)
+A primary passage cited in discussions about the rapture is found in the Gospel
+of Matthew.
 
-However, according to [some sources](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament) verse 31 was added to the scripture and is missing from some texts.
+> And he will send out his angels with a loud trumpet call, and they will
+> gather his elect from the four winds, from one end of heaven to the other.
+> — Matthew 24:31 (ESV)
 
-Either way, even if the scripture is authentic, you will notice that the angels gather the elect **after** the Tribulation and the return of the "Son of Man". This disproves the Pre-tribulationists theory that the rapture will happen before the Tribulation.
+Some scholars note that certain [manuscripts][1], such as Codex Bezae, contain
+additional phrases in this section. However, the core description of a
+gathering remains. A notable detail in the context of this chapter is the
+timing. The text states that the angels gather the elect after the tribulation
+and the visible appearance of the Son of Man. This sequence is often used by
+critics to argue against a pretribulational event.
 
-## Like the days of Noah
+### Like the Days of Noah
 
-> Heaven and earth will pass away, but my words will not pass away.
->
-> But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.
->
-> **For as were the days of Noah**, so will be the coming of the Son of Man. For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and **they were unaware** until the flood came and swept them all away, so will be the coming of the Son of Man.
->
-> Then two men will be in the field; one will be [*taken*](https://biblehub.com/greek/3880.htm) and one [*left*](https://biblehub.com/greek/863.htm).  
-> Two women will be grinding at the mill; one will be [*taken*](https://biblehub.com/greek/3880.htm) and one [*left*](https://biblehub.com/greek/863.htm).
->
-> Therefore, stay awake, for **you do not know** on what day your Lord is coming. But know this, that if the master of the house **had known** in what part of the night the thief was coming, he would have stayed awake and would not have let his house be broken into. Therefore you also must be ready, for the Son of Man is coming at an hour **you do not expect**.
->
-> -- Matthew 24:35-44 (ESV)
+The unexpected nature of Christ's return is a recurring theme in the New
+Testament. Jesus compared his coming to the days of Noah.
 
-Why is the *"Rapture"* like "the days of Noah"? 
+> For as were the days of Noah, so will be the coming of the Son of Man. For as
+> in those days before the flood they were eating and drinking, marrying and
+> giving in marriage, until the day when Noah entered the ark, and they were
+> unaware until the flood came and swept them all away, so will be the coming
+> of the Son of Man. Then two men will be in the field; one will be taken and
+> one left. Two women will be grinding at the mill; one will be taken and one
+> left. — Matthew 24:37-41 (ESV)
 
-Not because Noah "escaped the flood", otherwise Jesus would have said so, but he does not.  Instead, he repeatedly echoed that the "the coming of the Son of Man" will be unexpected like the flood in the days of Noah. 
+The phrase "one will be taken and one left" is frequently interpreted as a
+sudden removal of believers from the Earth. However, an analysis of the
+original Greek terms provides a different perspective. The word translated as
+"taken" is [*paralambano*][2] (Strong's 3880). It means "to receive near" or
+"to take to oneself." It often refers to being accepted into a position or
+received by another. For instance, the same word appears when Joseph is told
+to take Mary as his wife in Matthew 1:20 (ESV).
 
-However, because Jesus repeated says this event will occur unexpectedly in combination with the words "one will be ***taken*** and one ***left***", some people belief this means that the elect would unexpectedly be teleported from Earth.
+Conversely, the word translated as "left" is [*aphiemi*][3] (Strong's 863). It
+means "to send away" or "leave alone." This term is used in the context of
+rejection or being unforgiven. In Matthew 6:15 (ESV), it describes the Father
+not forgiving transgressions. From this linguistic standpoint, the passage
+suggests a separation based on acceptance and rejection rather than a physical
+teleportation. One person is accepted into a position of stewardship or
+relationship. The other is rejected or left behind to face judgment.
 
-The original Greek word that was translated to the English "taken" is [παραλαμβάνεται (paralambanetai)](https://biblehub.com/greek/3880.htm), which is a combination of ["pará"](https://biblehub.com/greek/3844.htm) which means from close or alongside and ["ambánō"](https://biblehub.com/greek/2983.htm) which means to receive, admit or acknowledge. In other words it could possibly be explained as to be "accepted into position".
+### Meeting in the Air
 
-For example the same word was used in these scriptures:
+Another cornerstone of rapture theology is found in Paul's first letter to the
+Thessalonians.
 
-> The Lord appeared to him in a dream, saying, “Joseph, son of David, do not fear ***to take*** Mary as your wife. -- Matthew 1:20 (ESV)"
+> Then we who are alive, who are left, will be caught up together with them in
+> the clouds to meet the Lord in the air, and so we will always be with the
+> Lord. — 1 Thessalonians 4:17 (ESV)
 
-and
+Proponents often see this as the definitive "rapture" event. Critics, however,
+observe that the context involves the resurrection of the dead at the "last
+trumpet." Some interpretations suggest that "meeting the Lord in the air"
+mirrors an ancient custom. In this tradition, citizens would leave a city to
+meet a visiting dignitary and then escort them back into the city. In this
+view, the meeting in the air is a welcoming assembly for Christ's visible
+return to Earth rather than a departure to another location.
 
-> When Joseph woke from sleep, he did as the angel of the Lord commanded him: he ***took*** his wife. -- Matthew 1:24 (ESV)
+## Parables of Readiness
 
-The original Greek word that was translated to the English "left" is [ἀφίεται (aphietai)](https://biblehub.com/greek/863.htm) which means to send away or leave alone, i.e. "reject" or "unforgiven".
+The theme of being prepared for an unexpected return continues in the parables
+that follow the discourse on the days of Noah. Each story emphasizes the
+importance of faithful stewardship. These [teachings of Jesus](../evolution/1st-c-jesus.md#teachings-of-jesus)
+provide further context for his expectations of his followers.
 
-For example the same word was also used in the scripture:
+### The Faithful and Wise Servant
 
-> But if you ***do not forgive*** others, then your Father will ***not forgive*** your transgressions. -- Matthew 6:15 (NASB 1995)
+Jesus described a servant who is set over a household to provide food at the
+proper time.
 
-Jesus more likely meant, that from human perspective two persons would be considered "equal", but one will be **accepted like a bride** while the other would be **rejected**. 
+> Blessed is that servant whom his master will find so doing when he comes.
+> Truly, I say to you, he will set him over all his possessions.
+> — Matthew 24:46-47 (ESV)
 
-This theme, of being ready at any time for the Lord's unexpected return to be accepted as stewards of his kingdom, is also confirmed by the 3 parables that immediately follow this passage:
-
-### The faithful and wise servant
-
-> Who then is the faithful and wise servant, whom his master has set over his household, to give them their food at the proper time?
-> * Blessed is that servant whom his master will find so doing when he comes. Truly, I say to you, he will **set him over all his possessions**.
-> * But if that wicked servant says to himself, ‘My master is delayed,’ and begins to beat his fellow servants and eats and drinks with drunkards, the master of that servant will come on a day when he **does not expect** him and at an hour he does not know and will **cut him in pieces and put him with the hypocrites**. In that place there will be **weeping and gnashing of teeth**.
->
-> -- Matthew 24:45-51 (ESV)
+The master's return is unexpected. The servant who is found faithful is
+promoted. The servant who assumes the master is delayed and mistreats others
+faces severe consequences. This reinforces the idea that the "coming" involves
+a final evaluation of a person's conduct and readiness.
 
 ### The Ten Virgins
 
-> Then the kingdom of heaven will be like ten virgins who took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. For when the foolish took their lamps, they took no oil with them, but the wise took flasks of oil with their lamps. As the bridegroom was delayed, they all became drowsy and slept. 
-> 
-> But at midnight there was a cry, ‘Here is the bridegroom! Come out to meet him.’ 
-> 
-> Then all those virgins rose and trimmed their lamps. 
-> 
-> And the foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’  
-> But the wise answered, saying, ‘Since there will not be enough for us and for you, go rather to the dealers and buy for yourselves.’
-> 
-> And while they were going to buy, the bridegroom came, and **those who were ready went in with him to the marriage feast**, and the door was shut. 
-> 
-> Afterward the other virgins came also, saying, Lord, lord, open to us.’  
-> But he answered, ‘Truly, I say to you, **I do not know you**.’   
-> 
-> Watch therefore, for **you know neither the day nor the hour**. 
-> 
-> -- Matthew 25:1-13 (ESV)
+The parable of the ten virgins illustrates the need for constant preparation.
+Five virgins were wise and prepared with oil for their lamps. Five were
+foolish and were not ready when the bridegroom arrived.
 
-### The Talents (Matthew 25:14-30)
+> And while they were going to buy, the bridegroom came, and those who were
+> ready went in with him to the marriage feast, and the door was shut.
+> — Matthew 25:10 (ESV)
 
-> For it will be like a man going on a journey, who called his servants and entrusted to them his property. To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away. 
-> 
-> He who had received the five talents went at once and traded with them, and he made five talents more. So also he who had the two talents made two talents more. But he who had received the one talent went and dug in the ground and hid his master’s money. 
-> 
-> Now **after a long time the master of those servants came** and settled accounts with them. 
-> 
-> And he who had received the five talents came forward, bringing five talents more, saying, ‘Master, you delivered to me five talents; here, I have made five talents more.’   
-> His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. **Enter into the joy of your master**.’   
-> 
-> And he also who had the two talents came forward, saying, ‘Master, you delivered to me two talents; here, I have made two talents more.’  
-> His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. **Enter into the joy of your master**.’ 
-> 
-> He also who had received the one talent came forward, saying, ‘Master, I knew you to be a hard man, reaping where you did not sow, and gathering where you scattered no seed, so I was afraid, and I went and hid your talent in the ground. Here, you have what is yours.’   
-> But his master answered him, ‘You wicked and slothful servant! You knew that I reap where I have not sown and gather where I scattered no seed? Then you ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest. So take the talent from him and give it to him who has the ten talents. For to everyone who has will more be given, and he will have an abundance. But from the one who has not, even what he has will be taken away. And **cast the worthless servant into the outer darkness**. In that place there will be **weeping and gnashing of teeth**.’ 
-> 
-> -- Matthew 25:14-30 (ESV)
+Those who were ready were accepted into the feast. The others were rejected
+with the statement, "I do not know you." This mirrors the *paralambano* and
+*aphiemi* distinction of being received or sent away based on readiness.
+
+### The Talents
+
+In the parable of the talents, a master entrusts his property to his servants
+before a long journey. Upon his return, he settles accounts.
+
+> Well done, good and faithful servant. You have been faithful over a little;
+> I will set you over much. Enter into the joy of your master.
+> — Matthew 25:21 (ESV)
+
+The faithful servants are accepted into the master's joy and given greater
+responsibility. The "worthless servant" who did nothing with what he was given
+is cast into the outer darkness. The emphasis remains on the result of the
+master's return. This return leads to a separation of those who served
+faithfully and those who did not.
+
+## Conclusion
+
+The doctrine of the rapture gained prominence through the nineteenth-century
+teachings of [John Nelson Darby](#origins-of-the-theory) and the
+twentieth-century works of [Hal Lindsey](#origins-of-the-theory). While many
+view it as a secret removal of believers, scriptural analysis of terms like
+"taken" and "left" suggests a theme of [theological acceptance and
+rejection](#like-the-days-of-noah). The [parables of
+readiness](#parables-of-readiness) further emphasize that Christ's return
+involves an evaluation of stewardship and faithfulness. Additionally, the
+[gathering of the elect](#the-gathering-of-the-elect) and the [meeting in the
+air](#meeting-in-the-air) are frequently situated within the context of a
+final, visible return rather than a prior, hidden event.
+
+[1]: https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament#Matthew
+[2]: https://biblehub.com/greek/3880.htm
+[3]: https://biblehub.com/greek/863.htm
