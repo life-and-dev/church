@@ -1,32 +1,109 @@
 ---
-description: "Path: laws / ceremonies / feasts / feast-of-weeks"
-keywords: "laws, ceremonies, feasts, feast-of-weeks"
+description: "Explore the transition of the Feast of Weeks (Pentecost) from physical observance to its spiritual substance in Christ."
+keywords: "Feast of Weeks, Shavuot, Pentecost, biblical feasts, Shavout, Torah, harvest festival"
+reviewed: true
 ---
 
-Are Feasts still applicable today?
-* Paul kept the feasts (Acts 18:21)
-* Commanded to keep Feast of passover and unleavened bread in NT! (1Co 5:7-8)
-  However:
-* "But when the completion of the time came, Elohim sent forth His son, born of a woman, born under Torah, to redeem those who were under Torah, in order to receive the adoption as sons." (Galatians 4:4-5)
-* "But now after you have known Elohim, or rather are known by Elohim, how do you turn again to the weak and poor elementary matters [Torah], to which you wish to be enslaved again?  You observe days and months and seasons and years.  I fear for you, lest by any means I have laboured for you in vain."  (Galatians 4:8-10)
-* He has made alive together with Him, having forgiven you all trespasses, having wiped out the handwriting of requirements (?????: dogma / ordinances) that was against us, which was contrary to us. And He has taken it out of the way, having nailed it to the cross. Having disarmed principalities and powers, He made a public spectacle of them, triumphing over them in it. So let no one judge you in food or in drink, or regarding a festival or a new moon or sabbaths, which are a shadow of things to come, but the substance is of Christ. (Colossians2:13-17)
-  Understanding:
-  The ordinances (way we do or don't do feasts) is wiped out = only a shadow of something bigger. What is that something bigger? Christ. If you keep a feast without the presence of Christ (like a slave) it would have been better not to keep it at all. If you keep a feast to honour Christ and in His presence even if you do it accidentally "wrong" according to the ordinances, you enter into God's presence = blessing. Rev 3:20; Isaiah 56 (written for foreigners); Mark 2:23-28 (Jesus is the Lord of the Sabbath)
- 
----
-4. Feast of weeks (Shavout) a.k.a. Pentecost a.k.a. Harvest
-   Shavout = weeks
-   Pentacost = 50
-   "the first fruits of your labors, which you have sown in the field" (Exodus 23:16, Exodus 34:22, Deuteronomy 16:10)  --> remember your were a slave in Egypt
-   Lev 23:9-14: "... it shall be a statute forever throughout your generations in all your dwellings"
-   When?
-* From Sabbath of the day of offering of First Fruit + (7 Sabbaths or 7 x 7 + 1 = 50 days)
-  On this same day you shall:
-* make a proclamation as well; (different translation differ on this point)
-* you are to have a holy convocation [gather for ceremony].
-* You shall do no laborious work.
-* It is to be a perpetual statute in all your dwelling places throughout your generations.
-  Leviticus 23:21
-  Regarding the poor:
-* You shall not wholly reap the corners of your field when you reap, nor shall you gather any gleaning (gather grain left behind reapers) from your harvest. You shall leave them for the poor and for the stranger” Lev 23:22
-  NT Example: Acts 2:1
+# The Significance of the Feast of Weeks
+
+The biblical festivals, often viewed as ancient relics of the past, hold a
+deeper significance that transcends time. Among these, the Feast of Weeks, also
+known as Shavuot or Pentecost, stands out as a pivotal celebration. Originally a
+harvest festival, it evolved into a profound reminder of God's provision and the
+outpouring of His Spirit. Understanding how these feasts transitioned from
+physical rituals to spiritual realities in Christ is essential for a complete
+view of the biblical narrative. This article explores the continuity of these
+observances and their enduring relevance for believers today.
+
+## The Continuity of Biblical Feasts
+
+A common question among modern believers is whether the biblical feasts are
+still applicable. Historical and scriptural evidence suggests that the early
+church continued to observe these days, albeit with a renewed understanding. For
+instance, the apostle Paul intentionally planned his travels around these
+festivals. In Acts 20:16 (ESV), it is recorded that Paul "was hastening to be at
+Jerusalem, if possible, on the day of Pentecost." Similarly, in 1 Corinthians
+16:8 (ESV), he mentions his plan to "stay in Ephesus until Pentecost."
+
+Furthermore, the New Testament contains explicit instructions regarding feast
+observance. In 1 Corinthians 5:7-8 (ESV), believers are encouraged to "cleanse
+out the old leaven" and to "celebrate the festival" of Unleavened Bread with
+"the unleavened bread of sincerity and truth." These examples indicate that the
+feasts were not abruptly abolished but were instead filled with greater
+spiritual meaning following the life and work of Christ.
+
+## Origins and Observance
+
+The Feast of Weeks is known by several names, each highlighting a different
+aspect of the celebration. In Hebrew, it is called *Shavuot*, which means
+"weeks." In Greek, it is referred to as *Pentecost*, meaning "fiftieth," because
+it occurs fifty days after the offering of the firstfruits.
+
+The biblical origins of this festival are found in the Torah. It was a time to
+celebrate "the firstfruits of your labors, which you have sown in the field"
+(Exodus 23:16 (ESV)). God commanded the Israelites to remember their history of
+slavery in Egypt and to offer the results of their harvest with joy (Deuteronomy
+16:10-12 (ESV)).
+
+The timing of the feast was specific. According to Leviticus 23:15-16 (ESV), the
+people were to count seven full weeks from the day after the Sabbath of the wave
+offering. This count resulted in fifty days, culminating in a "holy convocation"
+where "no laborious work" was to be done (Leviticus 23:21 (ESV)). It was
+established as a "statute forever" throughout their generations (Leviticus 23:14
+(ESV)).
+
+The observance also included a provision for the marginalized. When reaping the
+harvest, the Israelites were commanded not to reap the corners of their fields
+or gather the gleanings. These were to be left for the poor and the sojourner
+(Leviticus 23:22 (ESV)). This practice reflected the heart of the law, ensuring
+that the blessing of the harvest was shared with those in need.
+
+## Spiritual Substance of the Feasts
+
+While the physical requirements of the feasts provided a shadow of things to
+come, the New Testament clarifies that the ultimate substance is found in
+Christ. Paul addresses this in his letter to the Colossians:
+
+> Therefore let no one pass judgment on you in questions of food and drink, or
+> with regard to a festival or a new moon or a Sabbath. These are a shadow of
+> the things to come, but the substance belongs to Christ. — Colossians 2:16-17
+> (ESV)
+
+The term often translated as "handwriting of requirements" or "ordinances"
+refers to the legal debt or record of transgressions that was nailed to the
+cross (Colossians 2:14 (ESV)). This does not mean the feasts themselves were
+abolished, but rather that the condemnation associated with failing to keep the
+law perfectly was removed.
+
+When a feast is kept as a mere ritual or "elementary matter" without Christ, it
+lacks its intended life (Galatians 4:8-10 (ESV)). However, when kept to honor
+Christ, it becomes an entry into God's presence. Jesus identified Himself as the
+"Lord of the Sabbath" (Mark 2:28 (ESV)), indicating that Him being present is
+the true fulfillment of the rest and celebration these days signify.
+
+## Theological Defense
+
+Critics of feast observance often cite Colossians 2:16-17 as proof that these
+days are no longer relevant. However, a closer examination of the context
+suggests a different interpretation. The Colossian church was facing pressure
+from ascetic groups who criticized their "eating and drinking" during these
+festivals. Paul was likely defending the believers' right to celebrate these
+days with joy in Christ, rather than according to the "commandments and
+doctrines of men" (Colossians 2:22 (ESV)).
+
+Another argument is that the "shadows" are unnecessary once the "substance" has
+arrived. Yet, shadows depend on the light and the object casting them. The
+feasts continue to serve as prophetic symbols of the kingdom of God. As long as
+the "things to come" have not yet fully arrived in their finality, these shadows
+remain useful for teaching and preparation.
+
+## Conclusion
+
+The Feast of Weeks serves as a bridge between the physical provision of the
+harvest and the spiritual harvest of the kingdom. It remains relevant as a
+[continuity of biblical feasts](#the-continuity-of-biblical-feasts) that Paul
+and the early church observed. Its [origins and observance](#origins-and-observance) remind believers of God's faithfulness and the call to care for the
+poor. Ultimately, the [spiritual substance of the feasts](#spiritual-substance-of-the-feasts) is found in Christ, who fulfills the law and invites His people
+into His presence. A proper [theological defense](#theological-defense) shows
+that these celebrations are not legalistic burdens but opportunities for joyful
+communion with God.
