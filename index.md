@@ -163,7 +163,9 @@ Truth: The concept of [the Trinity contradict the Bible](https://son.ofgod.info/
 
 This was also one of the creeds proclaimed by the council of Nicaea in 325 to counter Arianism. The idea was invented by [Tertullian](https://en.wikipedia.org/wiki/Tertullian), a North African sect leader, who lived in the previous century, who was also previously rejected by the church.
 
-The consequence is that [it confuses the roles](https://eternal.family.net.za/bible/interpretations/jesus) of [the Father](https://ofgod.info), [the Son](https://eternal.family.net.za/god/son) and [the Holy Spirit](https://eternal.family.net.za/god/spirit).
+The consequence is that [it confuses the roles](https://son.ofgod.info/nature) of [the Father](https://ofgod.info), [the Son](https://son.ofgod.info/purpose) and [the Holy Spirit](https://son.ofgod.info/trinity/holy-spirit).
+
+The [Trinitarian doctrine](https://son.ofgod.info/trinity) is one the major stumbling blocks preventing monotheistic Muslims, Jews, Sikhs and Zoroastrians to convert to Christianity. Sadly, the majority of [Christians](terms/christian.md) would rather defend their [unbiblical Trinitarian traditions](https://son.ofgod.info/trinity) than to [save billions of souls](https://kingdom.ofgod.info/light).
 
 ### Sabbath moved to Sundays
 
