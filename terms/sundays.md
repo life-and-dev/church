@@ -73,9 +73,10 @@ If Jesus truly truly deprecated the Sabbath, then he would not warned his discip
 A common argument is that because ceremonial feast days (e.g., Passover, Feast of Unleavened Bread) were also commanded to be kept "forever" (Exodus 12:14, 17), the weekly Sabbath must likewise be temporary. 
 
 However, in Hebrew (`'ōlām`) and Greek (`aiōnios`), "forever" signifies a duration limited by the nature of the thing described:
+
 * When applied to the immortal God, it means endless.
 * When applied to mortal man (e.g., "let the king live forever"), it means for the duration of his life.
-* When applied to the ceremonial/sacrificial system, it meant continuous observance *for as long as that typical system lasted* (1 Corinthians 5:7). 
+* When applied to the ceremonial/sacrificial system, it meant continuous observance *for as long as that typical system lasted* (1 Corinthians 5:7).
 
 Unlike the ceremonial feasts, the weekly Sabbath is a creation ordinance instituted before sin entered the world (Genesis 2:2-3). It is part of the moral Law written by God's own finger (Exodus 20:8-11).
 
@@ -178,7 +179,7 @@ If Christians simply comply with the pressure of the world to rest on the Sunday
 
 > And **God spoke all these words**, saying, ...
 >
-> “**Remember the Sabbath day**, to keep it holy. Six days you shall labor, and do all your work, but the seventh day is a Sabbath to the Lord your God. On it **you shall not do any work**, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. **For in six days the Lord made heaven and earth, the sea, and all that is in them, and rested on the seventh day.** Therefore the Lord blessed the Sabbath day and made it holy. — Exodus 20:1,8-11 (ESV)
+> “**Remember the Sabbath day**, to keep it holy. Six days you shall labor, and do all your work, but the seventh day is a Sabbath to the Lord your God. On it **you shall not do any [work](https://biblehub.com/hebrew/4399.htm)**, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. **For in six days the Lord made heaven and earth, the sea, and all that is in them, and [rested](https://biblehub.com/hebrew/5117.htm) on the seventh day.** Therefore the Lord blessed the Sabbath day and made it holy. — Exodus 20:1,8-11 (ESV)
 
 Moses also made it clear this is an important command in Exodus 23:12, 31:13-17; Deuteronomy 5:12-15; Leviticus 23:3 as well as by the major prophets Isaiah 58:13-14 and Jeremiah 17:21-22.
 
@@ -186,7 +187,7 @@ Christians often argue that this is a Jewish law or tradition not applicable to 
 
 ### Applies to All People
 
-> And on the seventh day God ended His work which He had done, and He rested on the seventh day from all His work which He had done. Then **God blessed the seventh day and sanctified it**, because in it He rested from all His work which God had created and made. — Genesis 2:2-3 (NKJV)
+> And on the seventh day God ended His work which He had done, and He [rested](https://biblehub.com/hebrew/7673.htm) on the seventh day from all His work which He had done. Then **God blessed the seventh day and sanctified it**, because in it He [rested](https://biblehub.com/hebrew/7673.htm) from all His work which God had created and made. — Genesis 2:2-3 (NKJV)
 
 At that time there were no Jewish nation yet. This proves that God sanctified the seventh day to all people.
 
