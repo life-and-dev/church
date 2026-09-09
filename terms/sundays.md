@@ -44,6 +44,16 @@ However, there were certain special feasts (ceremonies) which were dedicated to 
 
 Therefore, the fact that the apostles sometimes gathered on Sundays provides no proof that the Sabbath has changed to Sundays. For example:
 
+### An Apostolic Gathering on Sundays
+
+Acts 20:7 records believers gathering to break bread on Sundays ("the first day of the week"). The passage establishes that this gathering occurred, but it does not call the first day a Sabbath or command a weekly change in the day of rest.
+
+Breaking bread also occurred in settings unrelated to a particular day of the week. A first-day gathering therefore demonstrates that Christians may gather on that day, not that the seventh-day Sabbath had been transferred to it.
+
+### A First-Day Collection
+
+In 1 Corinthians 16:2–3, Paul instructs each person to set something aside on the first day of every week for the collection. The passage does not explicitly say that the congregation assembled for worship when the money was set aside, nor was any Sabbath command given.
+
 ### The Apostles gathered on Sundays
 
 Acts 20:7 made it clear that the first "church" was on the "first day" (Sunday).
@@ -70,15 +80,16 @@ If Jesus truly truly deprecated the Sabbath, then he would not warned his discip
 
 #### How Long is "Forever"?
 
-A common argument is that because ceremonial feast days (e.g., Passover, Feast of Unleavened Bread) were also commanded to be kept "forever" (Exodus 12:14, 17), the weekly Sabbath must likewise be temporary. 
+Exodus 31:16–17 says that the people of Israel should keep the Sabbath “throughout their generations” as “a covenant forever”. This is the clearest biblical statement about the duration of the Sabbath covenant.
 
-However, in Hebrew (`'ōlām`) and Greek (`aiōnios`), "forever" signifies a duration limited by the nature of the thing described:
+The Hebrew word [*‘olam*](https://biblehub.com/hebrew/5769.htm), translated “forever”, can describe an enduring or indefinite period whose extent depends on its subject and context. The argument for continuing Sabbath observance should therefore not rest on that word alone.
 
-* When applied to the immortal God, it means endless.
-* When applied to mortal man (e.g., "let the king live forever"), it means for the duration of his life.
-* When applied to the ceremonial/sacrificial system, it meant continuous observance *for as long as that typical system lasted* (1 Corinthians 5:7).
+Several passages contribute different parts of the argument:
 
-Unlike the ceremonial feasts, the weekly Sabbath is a creation ordinance instituted before sin entered the world (Genesis 2:2-3). It is part of the moral Law written by God's own finger (Exodus 20:8-11).
+* **Duration and covenant audience:** Exodus 31:16–17 calls the Sabbath a continuing covenant sign between the LORD and the people of Israel.
+* **Creation pattern:** Genesis 2:2–3 says that God blessed and sanctified the seventh day before Israel existed.
+* **Moral command:** Exodus 20:8–11 includes Sabbath observance in the commandments written by God's own finger.
+* **Foreign participation:** Isaiah 56:1–8 promises acceptance to foreigners who join themselves to the LORD, keep the Sabbath, and hold fast his covenant.
 
 ### Jesus replaced the Sabbath
 
