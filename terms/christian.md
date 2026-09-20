@@ -23,7 +23,7 @@ The Apostle Paul does not refer to his followers as "Christian". Instead, he cal
 
 Some interpretations of 1 Peter 4:16 suggest that it is a privilege to be called a "Christian" because it "glorifies" God. However, if one reads the prior verses, it appears that the name may have been an insult in the first century. Peter encourages his followers not to be ashamed of the name. Instead, they should use the opportunity to "glorify God in that name."
 
-> Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ’s sufferings, that you may also rejoice and be glad when his glory is revealed. If **you are insulted for the name of Christ**, you are blessed, because the Spirit of glory and of God rests upon you. But let none of you suffer as a murderer or a thief or an evildoer or fas a meddler. Yet if anyone suffers **as a Christian, let him not be ashamed, but let him glorify God in that name**. — 1 Peter 4:12-16 (ESV)
+> Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ’s sufferings, that you may also rejoice and be glad when his glory is revealed. If **you are insulted for the name of Christ**, you are blessed, because the Spirit of glory and of God rests upon you. But let none of you suffer as a murderer or a thief or an evildoer or as a meddler. Yet if anyone suffers **as a Christian, let him not be ashamed, but let him glorify God in that name**. — 1 Peter 4:12-16 (ESV)
 
 According to Acts 11:26, the term "Christian" originated from Antioch:
 
