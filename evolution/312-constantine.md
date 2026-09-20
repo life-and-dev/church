@@ -1,9 +1,6 @@
 ---
-title: Constantine
-published: false
 description: Explore the complex legacy of Constantine the Great, who legitimized Christianity while merging it with Roman pagan traditions like Sol Invictus.
 keywords: Constantine the Great, Christianity, Sol Invictus, Edict of Milan, Council of Nicaea, church history, Roman Empire
-reviewed: true
 ---
 
 # 312 (Constantine)
@@ -27,6 +24,7 @@ In 312 AD, at [the Battle of the Milvian Bridge](https://en.wikipedia.org/wiki/B
 > — [Cameron Hughes, MA Field Archaeology, MA Politics](https://www.thecollector.com/constantine-great-conversion-christianity)
 
 In February 313, the [Edict of Milan](https://en.wikipedia.org/wiki/Edict_of_Milan) was issued by the Roman Emperors Constantine and Licinius. The proclamation:
+
 * granted religious toleration to all religions, including Christianity throughout the Roman Empire;
 * ceased Christian persecutions of [the Great Persecution under Diocletian](https://courses.lumenlearning.com/suny-fmcc-worldhistory/chapter/the-rise-of-christianity/);
 * recognised Christianity as a legitimate religion, which allowed Christians to worship and practice their faith openly;
@@ -37,11 +35,13 @@ This allowed Christians to hold public offices, which had previously been denied
 
 ## Merging Jesus with Sol Invictus
 
-> As well as Apollo, Sol Invictus, the Unconquered Sun, was associated with Constantinian propaganda. Constantine had adopted Sol as a personal deity by the latest 305 CE and continued to mint coins bearing the Sun deity until 319 CE, seven years after his victory at the Milvian Bridge. Sol had been used in attempts by Claudius II and Aurelian to move the Empire towards a monotheistic god behind a single emperor as a political expedient to prevent continual usurpation and civil war. It seems that Constantine had initially proceeded in their footsteps but had, at some point, decided to merge the Unconquered Sun with Jesus Christ as his patron deity.
+> As well as Apollo, Sol Invictus, the Unconquered Sun, was associated with Constantinian propaganda. Constantine had adopted Sol as a personal deity by the latest 305 CE and continued to mint coins bearing the Sun deity until 319 CE, seven years after his victory at the Milvian Bridge. Sol had been used in attempts by Claudius II and Aurelian to move the Empire towards a monotheistic god behind a single emperor as a political expedient to prevent continual usurpation and civil war. It seems that Constantine had initially proceeded in their footsteps but had, at some point, decided to ***merge the Unconquered Sun with Jesus Christ as his patron deity***.
 >
 > Both the sabbath, Sunday (day of the sun), and Christmas day derive from practices and observances in the cult of Sol Invictus. The cult of the Sun God also promoted absolving sins, rebirth, abstinence, resurrection, monotheism, and a form of baptism. Constantine recounted to Eusebius (1.29) his vision of the Cross appearing in the light of the sun with the instruction ‘In Hoc Signo Vinces’, by this sign conquer. Other reports claim different visions, and it is likely that Eusebius, a Christian, had convinced Constantine that this was a sign from the Christian God. The solar signal is also reported to have presented the Greek letters Chi and Rho to Constantine, the first two letters of Christos, and therefore another sign of the Christian God. Though the Chi-Rho has also been associated with Kronos, Saturn, a disciple of Sol.
 >
 > — [Cameron Hughes, MA Field Archaeology, MA Politics](https://www.thecollector.com/constantine-great-conversion-christianity)
+
+However, no surviving source explicitly says Constantine regarded Jesus and Sol as the same deity. Other explanations include gradual "conversion", political accommodation, and Christian reinterpretations.
 
 Similarities between Sol Invictus and Jesus Christ:
 
@@ -54,7 +54,7 @@ Similarities between Sol Invictus and Jesus Christ:
 
 ![Ceiling Mosaic - Christus helios, the mosaic of Sol in Mausoleum M, which is interpreted as Christ-Sol (Christ as the Sun).](312-constantine/christ_as_sol.jpg)
 
-> "... it appeared an unworthy thing that in the celebration of this most holy feast we should follow the practice of the Jews, who have impiously defiled their hands with enormous sin, and are, therefore, deservedly afflicted with blindness of soul ... Let us then have nothing in common with the detestable Jewish crowd; for we have received from our Saviour a different way."
+> "... it appeared an unworthy thing that in the celebration of this most holy feast we should follow the practice of the Jews, who have impiously defiled their hands with enormous sin, and are, therefore, deservedly afflicted with blindness of soul ... Let us then have nothing in common with the detestable Jewish crowd; for we have received from our Saviour a different way." — Constantine I, post-Nicene letter concerning Easter, preserved by Eusebius, Life of Constantine 3.18
 
 Constantine's true intent and dedication to Christianity is questionable:
 
