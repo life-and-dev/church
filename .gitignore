@@ -5,3 +5,4 @@
 
 # AI Agents
 .agents/
+.opencode/autocode/memories/*
