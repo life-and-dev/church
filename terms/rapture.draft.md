@@ -1,117 +1,133 @@
-# Rapture
+---
+description: Explore the historical origins of the rapture theory, from John Nelson Darby to Hal Lindsey, and examine the biblical Greek behind the 'taken and left' passage.
+keywords: [pretribulationism, John Nelson Darby, Hal Lindsey, eschatology, paralambano, Matthew 24, end times prophecy]
+reviewed: true
+---
 
-# The origin of the theory
+# The Rapture: Historical Origins and Biblical Analysis
 
-In 1827, John Nelson Darby, argued that the Bible taught a pretribulational rapture, and he convinced many other Christians of this view. Darby's leadership and teachings attracted a growing number of followers, and the movement spread to England and other parts of the world.
+The concept of a rapture refers to the sudden removal of Christians from the
+Earth before a period of global tribulation. This idea is a cornerstone of
+modern evangelical eschatology. While many believers today consider this view to
+be the traditional interpretation of scripture, its systematic development is a
+relatively recent phenomenon in church history. This article explores the
+historical figures who popularized the theory. It also examines the biblical
+passages often used to support or challenge it, focusing on the original Greek
+terminology.
 
-Many years later, Hal Lindsey, an American author and Christian theologian, made the Rapture theology popular with a book that he published in 1970, titled "The Late Great Planet Earth" that stated:
+## Historical Origins of the Theory
 
-> The Bible teaches that there is coming a time when Jesus Christ will return for His church. But this will not be His final return to earth. This will be **a secret, invisible return in the air to meet those who believe in Him**. It will be a moment of unbelievable joy and excitement for those who are ready. But for those who are not ready, it will be a moment of terrible shock and sorrow. The Bible calls this event the 'rapture' which will take place at a time unknown to anyone except God the Father." 
->
-> -- Hal Lindsey, The Late Great Planet Earth, Chapter 12.
+In 1827, John Nelson Darby argued that the Bible taught a pretribulational
+rapture. He eventually convinced many other Christians of this view. Darby's
+leadership and teachings attracted a growing number of followers. The movement
+spread to England and other parts of the world.
 
-In other words, it seems like he thought that Christians would be unexpected "teleported" to a secret place somewhere in the air to meet Jesus, while shock and sorrow will be upon those who were left behind.
+Many years later, Hal Lindsey made the Rapture theology popular with a book that
+he published in 1970. The book, titled "The Late Great Planet Earth," stated:
 
-In addition, some Pre-tribulationists often interpret biblical passages like 1 Thessalonians 4:13-17 and 1 Corinthians 15:51-52 to suggest two separate comings of Christ. They see the rapture as a secret, pre-tribulation event to gather believers, followed by a later, visible second coming to establish his reign on Earth.
+> The Bible teaches that there is coming a time when Jesus Christ will return
+> for His church. But this will not be His final return to earth. This will be
+> **a secret, invisible return in the air to meet those who believe in Him**. It
+> will be a moment of unbelievable joy and excitement for those who are ready.
+> But for those who are not ready, it will be a moment of terrible shock and
+> sorrow. The Bible calls this event the 'rapture' which will take place at a
+> time unknown to anyone except God the Father." — Hal Lindsey, The Late Great
+> Planet Earth, Chapter 12
 
-# Proof of the theory
+This teaching suggests that Christians would be unexpectedly "teleported" to a
+secret place in the air to meet Jesus. According to this view, shock and sorrow
+will be upon those who are left behind.
 
-## The gathering of the elect
+In addition, some pretribulationists often interpret biblical passages like 1
+Thessalonians 4:13-17 and 1 Corinthians 15:51-52 to suggest two separate comings
+of Christ. They see the rapture as a secret, pretribulation event to gather
+believers. This is followed by a later, visible second coming to establish his
+reign on Earth. Some of these concepts are discussed as a
+[mystery](mystery.draft.md) in other contexts.
 
-One of the verse that is quoted to proof the Rapture is:
+## Biblical Analysis of the Evidence
 
-> And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other.
->
-> -- Matthew 24:31 (ESV)
+### The Gathering of the Elect
 
-However, according to [some sources](https://en.wikipedia.org/wiki/Textual_variants_in_the_New_Testament) verse 31 was added to the scripture and is missing from some texts.
+One of the verses quoted to support the Rapture is Matthew 24:31:
 
-Either way, even if the scripture is authentic, you will notice that the angels gather the elect **after** the Tribulation and the return of the "Son of Man". This disproves the Pre-tribulationists theory that the rapture will happen before the Tribulation.
+> And he will send out his angels with a loud trumpet call, and they will gather
+> his elect from the four winds, from one end of heaven to the other. — Matthew
+> 24:31 (ESV)
 
-## Like the days of Noah
+Some scholars point to potential textual variants in the New Testament. However,
+this verse is present in the most significant early manuscripts. Regardless of
+its textual history, the context shows that the angels gather the elect after
+the Tribulation and the return of the [Son of
+Man](../evolution/1st-c-jesus.md#teachings-of-jesus). This timeline is often
+used as a counter-argument against the theory that the rapture occurs before the
+Tribulation. Supporting evidence for a gathering of the [saints](saints.md) in
+connection with the visible return of Christ can also be found in 2
+Thessalonians 2:1-3 (ESV).
 
-> Heaven and earth will pass away, but my words will not pass away.
->
-> But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.
->
-> **For as were the days of Noah**, so will be the coming of the Son of Man. For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and **they were unaware** until the flood came and swept them all away, so will be the coming of the Son of Man.
->
-> Then two men will be in the field; one will be [*taken*](https://biblehub.com/greek/3880.htm) and one [*left*](https://biblehub.com/greek/863.htm).  
-> Two women will be grinding at the mill; one will be [*taken*](https://biblehub.com/greek/3880.htm) and one [*left*](https://biblehub.com/greek/863.htm).
->
-> Therefore, stay awake, for **you do not know** on what day your Lord is coming. But know this, that if the master of the house **had known** in what part of the night the thief was coming, he would have stayed awake and would not have let his house be broken into. Therefore you also must be ready, for the Son of Man is coming at an hour **you do not expect**.
->
-> -- Matthew 24:35-44 (ESV)
+### The Days of Noah and the Taken
 
-Why is the *"Rapture"* like "the days of Noah"? 
+> Heaven and earth will pass away, but my words will not pass away. But
+> concerning that day and hour no one knows, not even the angels of heaven, nor
+> the Son, but the Father only. For as were the days of Noah, so will be the
+> coming of the Son of Man. For as in those days before the flood they were
+> eating and drinking, marrying and giving in marriage, until the day when Noah
+> entered the ark, and they were unaware until the flood came and swept them all
+> away, so will be the coming of the Son of Man. Then two men will be in the
+> field; one will be taken and one left. Two women will be grinding at the mill;
+> one will be taken and one left. Therefore, stay awake, for you do not know on
+> what day your Lord is coming. But know this, that if the master of the house
+> had known in what part of the night the thief was coming, he would have stayed
+> awake and would not have let his house be broken into. Therefore you also must
+> be ready, for the Son of Man is coming at an hour you do not expect. — Matthew
+> 24:35-44 (ESV)
 
-Not because Noah "escaped the flood", otherwise Jesus would have said so, but he does not.  Instead, he repeatedly echoed that the "the coming of the Son of Man" will be unexpected like the flood in the days of Noah. 
+A common interpretation of this passage suggests that being "taken" refers to
+the rapture. In this view, believers are unexpectedly removed from Earth.
+However, the comparison to the days of Noah provides an alternative perspective.
 
-However, because Jesus repeated says this event will occur unexpectedly in combination with the words "one will be ***taken*** and one ***left***", some people belief this means that the elect would unexpectedly be teleported from Earth.
+In the days of Noah, those who were "swept away" by the flood were those caught
+in judgment. The Greek word for "taken" in verses 40 and 41 is
+[*paralambanetai*](https://biblehub.com/greek/3880.htm). This word is a
+combination of *para* (alongside) and *lambano* (to receive or take). It often
+carries the meaning of receiving someone near or taking them to oneself. For
+example, it is used when Joseph is told to take Mary as his wife (Matthew 1:20
+(ESV)).
 
-The original Greek word that was translated to the English "taken" is [παραλαμβάνεται (paralambanetai)](https://biblehub.com/greek/3880.htm), which is a combination of ["pará"](https://biblehub.com/greek/3844.htm) which means from close or alongside and ["ambánō"](https://biblehub.com/greek/2983.htm) which means to receive, admit or acknowledge. In other words it could possibly be explained as to be "accepted into position".
+In contrast, the word "left" is
+[*aphietai*](https://biblehub.com/greek/863.htm). This term can mean to send
+away or leave alone. In certain contexts, it implies being rejected or forsaken.
+For instance, it is used in Matthew 6:15 (ESV) regarding the failure to forgive
+others:
 
-For example the same word was used in these scriptures:
+> but if you do not forgive others their trespasses, neither will your Father
+> forgive your trespasses. — Matthew 6:15 (ESV)
 
-> The Lord appeared to him in a dream, saying, “Joseph, son of David, do not fear ***to take*** Mary as your wife. -- Matthew 1:20 (ESV)"
+From this linguistic viewpoint, being "taken" could mean being accepted or
+received by Christ. Being "left" would then imply being rejected or sent away in
+judgment. This theme of being ready for an unexpected return is further
+illustrated by the parables of the faithful servant, the ten virgins, and the
+talents in Matthew 24, 25:1-30.
 
-and
+### Defense Against Critiques
 
-> When Joseph woke from sleep, he did as the angel of the Lord commanded him: he ***took*** his wife. -- Matthew 1:24 (ESV)
+Critiques of this interpretation often argue that the "taken" in verses 40-41
+must match the "took" in verse 39. In verse 39, the flood "took"
+([*airo*](https://biblehub.com/greek/142.htm)) the people away in destruction.
+If the patterns match, then the one "taken" in the field is taken in judgment.
+However, the shift in Greek vocabulary from *airo* to *paralambano* suggests a
+distinction. Jesus may have deliberately changed the word to differentiate
+between the destruction of the wicked and the reception of the faithful.
 
-The original Greek word that was translated to the English "left" is [ἀφίεται (aphietai)](https://biblehub.com/greek/863.htm) which means to send away or leave alone, i.e. "reject" or "unforgiven".
+## Conclusion
 
-For example the same word was also used in the scripture:
-
-> But if you ***do not forgive*** others, then your Father will ***not forgive*** your transgressions. -- Matthew 6:15 (NASB 1995)
-
-Jesus more likely meant, that from human perspective two persons would be considered "equal", but one will be **accepted like a bride** while the other would be **rejected**. 
-
-This theme, of being ready at any time for the Lord's unexpected return to be accepted as stewards of his kingdom, is also confirmed by the 3 parables that immediately follow this passage:
-
-### The faithful and wise servant
-
-> Who then is the faithful and wise servant, whom his master has set over his household, to give them their food at the proper time?
-> * Blessed is that servant whom his master will find so doing when he comes. Truly, I say to you, he will **set him over all his possessions**.
-> * But if that wicked servant says to himself, ‘My master is delayed,’ and begins to beat his fellow servants and eats and drinks with drunkards, the master of that servant will come on a day when he **does not expect** him and at an hour he does not know and will **cut him in pieces and put him with the hypocrites**. In that place there will be **weeping and gnashing of teeth**.
->
-> -- Matthew 24:45-51 (ESV)
-
-### The Ten Virgins
-
-> Then the kingdom of heaven will be like ten virgins who took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. For when the foolish took their lamps, they took no oil with them, but the wise took flasks of oil with their lamps. As the bridegroom was delayed, they all became drowsy and slept. 
-> 
-> But at midnight there was a cry, ‘Here is the bridegroom! Come out to meet him.’ 
-> 
-> Then all those virgins rose and trimmed their lamps. 
-> 
-> And the foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’  
-> But the wise answered, saying, ‘Since there will not be enough for us and for you, go rather to the dealers and buy for yourselves.’
-> 
-> And while they were going to buy, the bridegroom came, and **those who were ready went in with him to the marriage feast**, and the door was shut. 
-> 
-> Afterward the other virgins came also, saying, Lord, lord, open to us.’  
-> But he answered, ‘Truly, I say to you, **I do not know you**.’   
-> 
-> Watch therefore, for **you know neither the day nor the hour**. 
-> 
-> -- Matthew 25:1-13 (ESV)
-
-### The Talents (Matthew 25:14-30)
-
-> For it will be like a man going on a journey, who called his servants and entrusted to them his property. To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away. 
-> 
-> He who had received the five talents went at once and traded with them, and he made five talents more. So also he who had the two talents made two talents more. But he who had received the one talent went and dug in the ground and hid his master’s money. 
-> 
-> Now **after a long time the master of those servants came** and settled accounts with them. 
-> 
-> And he who had received the five talents came forward, bringing five talents more, saying, ‘Master, you delivered to me five talents; here, I have made five talents more.’   
-> His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. **Enter into the joy of your master**.’   
-> 
-> And he also who had the two talents came forward, saying, ‘Master, you delivered to me two talents; here, I have made two talents more.’  
-> His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. **Enter into the joy of your master**.’ 
-> 
-> He also who had received the one talent came forward, saying, ‘Master, I knew you to be a hard man, reaping where you did not sow, and gathering where you scattered no seed, so I was afraid, and I went and hid your talent in the ground. Here, you have what is yours.’   
-> But his master answered him, ‘You wicked and slothful servant! You knew that I reap where I have not sown and gather where I scattered no seed? Then you ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest. So take the talent from him and give it to him who has the ten talents. For to everyone who has will more be given, and he will have an abundance. But from the one who has not, even what he has will be taken away. And **cast the worthless servant into the outer darkness**. In that place there will be **weeping and gnashing of teeth**.’ 
-> 
-> -- Matthew 25:14-30 (ESV)
+The rapture theory emerged as a distinct theological system in the 19th century
+through the work of John Nelson Darby and was later popularized by Hal Lindsey
+([Historical Origins of the Theory](#historical-origins-of-the-theory)). While
+passages like Matthew 24 are frequently cited as evidence, the original Greek
+terminology and the immediate context of Christ's parables suggest that being
+"taken" refers to being received into his kingdom rather than a secret escape
+before tribulation ([Biblical Analysis of the
+Evidence](#biblical-analysis-of-the-evidence)). The emphasis in these teachings
+remains on the necessity of spiritual readiness for an unexpected return ([The
+Days of Noah and the Taken](#the-days-of-noah-and-the-taken)).
