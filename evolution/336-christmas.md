@@ -11,11 +11,12 @@ keywords: Christmas history, 336 AD, Saturnalia, Sol Invictus, pagan roots, Chri
 
 ## Origin
 
-Christmas has pagan roots from Saturnalia and Sol Invictus
+Christmas has pagan roots from Saturnalia and Sol Invictus:
+
 * **Saturnalia (Dec 17–23):** [A Roman festival honoring Saturn, the god of agriculture. It was characterized by feasting, gambling, gift-giving, and a carnival atmosphere where social roles were overturned](https://www.history.com/topics/ancient-rome/saturnalia).
 * **Sol Invictus (Dec 25):** [The "Unconquered Sun" was a popular Roman deity. Emperor Aurelian established an official festival for Sol Invictus on December 25th in 274 AD](https://www.britannica.com/topic/Sol-Invictus).
 
-[Church leaders likely chose this date to rival these popular pagan festivals](https://www.history.com/topics/christmas/history-of-christmas), allowing Christians to adopt and "baptize" existing traditions while shifting the focus from "the Sun God" to ["the Son God"](https://son.ofgod.info/son-as-god).
+[Church leaders likely chose this date to rival these popular pagan festivals](https://www.history.com/topics/christmas/history-of-christmas), allowing Christians to adopt and "baptize" existing traditions while shifting the focus from "the Sun God" to ["the Son God"](https://son.ofgod.info/divine).
 
 ## Choice of Date
 

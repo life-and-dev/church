@@ -353,18 +353,17 @@ Some belief that unless you keep the Jewish feasts, read the Jewish Torah, keep 
 
 According to the [Athanasian Creed](https://en.wikipedia.org/wiki/Athanasian_Creed) you will "perish everlastingly" if you do not believe in
 
-* the [Trinity](https://eternal.family.net.za/bible/doctrines/trinitarian)
-* that [Jesus is the Almighty God](/god/son/essence/not-god) 
-* that [Jesus is equal to the Father](/god/son/essence/as-god/similarities)
+* the [Trinity](https://son.ofgod.info/trinity)
+* that [Jesus is the Almighty God](https://son.ofgod.info/nature)
+* that [Jesus is equal to the Father](https://son.ofgod.info/divine/similarities)
 
-[The creed was declared by the Catholic Church](/kingdom/church/history) to condemn their enemies like the [Visigothic](https://en.wikipedia.org/wiki/Visigoths) and [Ostrogoth](https://en.wikipedia.org/wiki/Ostrogoths) Christian nations who rejected the Trinity doctrines. After the fall of these [Arian](https://en.wikipedia.org/wiki/Arianism) nations in sixth century, [the Roman Catholicism became the standard](/kingdom/church/history) religion in the Roman Empire. Today, many [modern Christian churches](/kingdom/church) (including non-Catholic churches like the Protestant and Angelical) still fanatically belief this creed.
+[The creed was declared by the Catholic Church](evolution.md) to condemn their enemies like the [Visigothic](https://en.wikipedia.org/wiki/Visigoths) and [Ostrogoth](https://en.wikipedia.org/wiki/Ostrogoths) Christian nations who rejected the Trinity doctrines. After the fall of these [Arian](https://en.wikipedia.org/wiki/Arianism) nations in sixth century, [the Roman Catholicism became the standard](evolution/380-state-religion.md) religion in the Roman Empire. Today, many modern Christian churches (including non-Catholic churches like the Protestant and Angelical) still fanatically belief this creed.
 
-However, [Jesus](/god/son/essence/not-god/salvation#jesus-declared-a-woman-saved-who-did-not-believe-he-was-god), [Peter](/god/son/essence/not-god/salvation#peters-sermon) and [Paul](/god/son/essence/not-god/salvation#pauls-sermon) omit to teach anyone about "the Trinity" or that "Jesus is the Almighty God equal to the Father". In all these cases they were preaching to a gentile audience, who did not even know who Jesus was, yet these gentiles got saved after hearing their sermons.
+However, [Jesus](https://eternal.family.net.za/god/son/essence/not-god/salvation#jesus-declared-a-woman-saved-who-did-not-believe-he-was-god), [Peter](https://eternal.family.net.za/god/son/essence/not-god/salvation#peters-sermon) and [Paul](https://eternal.family.net.za/god/son/essence/not-god/salvation#pauls-sermon) omit to teach anyone about "the Trinity" or that "Jesus is the Almighty God equal to the Father". In all these cases they were preaching to a gentile audience, who did not even know who Jesus was, yet these gentiles got saved after hearing their sermons.
 
 ## Are only Christians saved?
 
-Some Christians belief that you must be converted into [Christianity](https://eternal.family.net.za/bible/concepts/christian) to be saved. Some will even go further and claim that only Christians from their own [church denomination](/kingdom/church/history) will be saved.
+Some Christians belief that you must be converted into [Christianity](terms/christian.md) to be saved. Some will even go further and claim that only Christians from their own church denomination will be saved.
 
-The biblical [requirements for salvation](../saved) does not require membership of any church or organization, neither does it required anyone to be called something like a "[Christian](https://eternal.family.net.za/bible/concepts/christian)" nor [is it exclusive for any specific culture or race](/questions/can-black-people-be-saved). 
+The bible does not require membership of any church or organization, neither does it required anyone to be called something like a "[Christian](terms/christian.md)" nor [is it exclusive for any specific culture or race](https://eternal.family.net.za/questions/can-black-people-be-saved).
 
-Rather God is more interested in your [faith](../saved/belief), [repentance](../saved/repent), [commitment](../saved/love) and [obedience](../saved/follow) to His Word and [Spirit](../saved/spirit).
