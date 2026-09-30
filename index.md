@@ -146,7 +146,7 @@ In 325 the council of Nicaea, of which Emperor Constantine actively participated
 This creed also heavily influenced future bible translators and modern day Christianity, for example, today Christians:
 
 - Crucify God and claim that [the immortal God](https://ofgod.info) died (a contradiction and blasphemy).
-- [Pray](https://eternal.family.net.za/god/concepts/prayer) to Jesus instead.
+- [Pray](https://kingdom.ofgod.info/life/prayer) to Jesus instead.
 - [Serve and worship](https://eternal.family.net.za/god/son/essence/as-god/worship) Jesus instead of God.
 - Often expect Jesus to fulfill [God's Spirit](https://eternal.family.net.za/god/spirit) role and is then surprised when no miracles happen.
 
