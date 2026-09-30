@@ -39,7 +39,7 @@ This led to the establishment of [the Nicene Creed](https://www.fourthcentury.co
 This creed left no room or grace for Arianism. Eusebius initially showed sympathy for Arius, but eventually decided to sign the Nicene Creed. The Council's outcomes included:
 
 * **Defined the relationship between Father and Son**
-* **Declared [Jesus Christ as divine](https://son.ofgod.info/son-as-god)**
+* **Declared [Jesus Christ as divine](https://son.ofgod.info/divine)**
 * **Declared [Jesus Christ was the same substance as God the Father](https://eternal.family.net.za/god/son/essence/as-god/similarities)**
 * **Declared anyone who believed Jesus was a created being a heretic**
 * **Established the authority and jurisdictions of bishops within the Church hierarchy**
@@ -51,6 +51,7 @@ This creed left no room or grace for Arianism. Eusebius initially showed sympath
 This creed became the cornerstone of the Christian belief and continues to be recited in many modern Christian denominations during worship services.
 
 Reasons for this declaration are:
+
 * **Christian unity**: Constantine wanted to unify the Christian church internally to prevent schism and division that threatened the stability of the empire. He saw it as his imperial duty to mediate religious disputes and ensure bishops reached consensus on core doctrines.
 * **Theological clarity**: The early church sought to clarify its beliefs in response to various theological disputes and heresies (particularly Arianism) that were spreading confusion among citizens.
 * **Doctrinal standardization**: By establishing a single, authoritative creed, the church could distinguish orthodox Christian belief from "heretical" views, ensuring all Christians adhered to the same foundational teachings.
